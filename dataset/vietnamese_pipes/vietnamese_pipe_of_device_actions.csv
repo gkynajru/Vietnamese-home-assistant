@@ -1,0 +1,373 @@
+device_name,english_phrase,service_name,english_phrase_vi
+blinds.kitchen,Could you raise the kitchen blinds,open,Bạn có thể nâng rèm bếp không
+blinds.kitchen,Lower the kitchen blinds,close,Hạ thấp rèm nhà bếp
+blinds.kitchen,Stop the kitchen blinds where they are,stop,Dừng rèm nhà bếp nơi họ đang ở
+blinds.kitchen,Switch the state of the kitchen blinds,toggle,Chuyển đổi trạng thái của rèm nhà bếp
+blinds.living_room,Close the living room blinds,close,Đóng rèm phòng khách
+blinds.living_room,Open the living room blinds,open,Mở rèm phòng khách
+blinds.living_room,Stop adjusting the living room blinds,stop,Ngừng điều chỉnh rèm phòng khách
+blinds.living_room,Toggle the living room blinds,toggle,Chuyển đổi rèm phòng khách
+blinds.master_bedroom,Lift the master bedroom blinds,open,Nâng rèm phòng ngủ chính
+blinds.master_bedroom,Please halt the master bedroom blinds,stop,Vui lòng tạm dừng rèm phòng ngủ chính
+blinds.master_bedroom,Reverse the master bedroom blinds,toggle,Đảo ngược rèm phòng ngủ chính
+blinds.master_bedroom,Shut the master bedroom blinds,close,Tắt rèm phòng ngủ chính
+fan.attic_1,Disable the attic fan,turn_off,Tắt quạt Attic
+fan.attic_1,Increase speed of the attic fan,increase_speed,Tăng tốc độ của quạt gác mái
+fan.attic_1,Slow down the attic fan,decrease_speed,Làm chậm quạt gác mái
+fan.attic_1,Slow down the attic fan,decrease_speed,Làm chậm quạt gác mái
+fan.attic_1,Turn down the attic fan,decrease_speed,Từ chối quạt gác mái
+fan.attic_2,Toggle the attic fan,toggle,Chuyển đổi quạt gác mái
+fan.attic_2,Toggle the attic fan,toggle,Chuyển đổi quạt gác mái
+fan.attic,Accelerate the fan in the attic,increase_speed,Tăng tốc quạt trên gác mái
+fan.attic,Change the fan status in the attic,toggle,Thay đổi trạng thái quạt trên gác mái
+fan.attic,Slow down the fan in the attic,decrease_speed,Làm chậm quạt trên gác mái
+fan.basement,Toggle the basement fan,toggle,Chuyển đổi quạt tầng hầm
+fan.basement,Toggle the basement fan,toggle,Chuyển đổi quạt tầng hầm
+fan.bathroom,Activate the bathroom fan,turn_on,Kích hoạt quạt phòng tắm
+fan.bathroom,Turn on the bathroom fan,turn_on,Bật quạt phòng tắm
+fan.bathroom,Turn on the bathroom fan,turn_on,Bật quạt phòng tắm
+fan.bedroom_master,Activate the master bedroom fan,turn_on,Kích hoạt quạt phòng ngủ chính
+fan.bedroom_master,Deactivate the master bedroom fan,turn_off,Vô hiệu hóa quạt phòng ngủ chính
+fan.bedroom_master,Ramp up the master bedroom fan speed,increase_speed,Tăng tốc độ quạt phòng ngủ chính
+fan.bedroom_master,Slow down the master bedroom fan,decrease_speed,Làm chậm quạt phòng ngủ chính
+fan.bedroom_master,Switch the state of the master bedroom fan,toggle,Chuyển đổi trạng thái của quạt phòng ngủ chính
+fan.bedroom,Toggle the bedroom fan,toggle,Chuyển đổi quạt phòng ngủ
+fan.bedroom,Toggle the bedroom fan,toggle,Chuyển đổi quạt phòng ngủ
+fan.bedroom,Toggle the bedroom fan,toggle,Chuyển đổi quạt phòng ngủ
+fan.dining_area,Please switch off the dining area fan,turn_off,Vui lòng tắt quạt khu vực ăn uống
+fan.dining_area,Please switch on the dining area fan,turn_on,Vui lòng bật quạt khu vực ăn uống
+fan.dining_room,Switch off the dining room fan,turn_off,Tắt quạt phòng ăn
+fan.dining_table_above,Please toggle the fan above the dining table,toggle,Vui lòng chuyển quạt phía trên bàn ăn
+fan.driveway,Flip the driveway fan,toggle,Lật quạt đường lái xe
+fan.garage,Flip the fan in the garage,toggle,Lật quạt trong nhà để xe
+fan.garage,Shut down the garage fan,turn_off,Tắt máy quạt nhà để xe
+fan.garage,Switch off the garage fan,turn_off,Tắt quạt nhà để xe
+fan.garage,Switch off the garage fan,turn_off,Tắt quạt nhà để xe
+fan.garage,Turn down the fan in the garage,decrease_speed,Từ chối quạt trong nhà để xe
+fan.garage,Turn on the garage fan,turn_on,Bật quạt nhà để xe
+fan.garage,Turn up the fan in the garage,increase_speed,Bật quạt trong nhà để xe
+fan.guest_room,Can you toggle the fan in the guest room,toggle,Bạn có thể chuyển quạt trong phòng khách không
+fan.guest_room,Decrease the fan speed in the guest room,decrease_speed,Giảm tốc độ quạt trong phòng khách
+fan.guest_room,Increase the fan speed in the guest room,increase_speed,Tăng tốc độ quạt trong phòng khách
+fan.guest_room,Switch off the guest room fan,turn_off,Tắt quạt phòng khách
+fan.hallway,Boost the fan speed in the hallway,increase_speed,Tăng tốc độ quạt ở hành lang
+fan.hallway,Enable the hallway fan,turn_on,Bật quạt hành lang
+fan.hallway,Lower the fan speed in the hallway,decrease_speed,Hạ tốc độ quạt trên hành lang
+fan.hallway,Switch the state of the fan in the hallway,toggle,Chuyển trạng thái của quạt trên hành lang
+fan.kitchen,Enable the kitchen fan,turn_on,Bật quạt nhà bếp
+fan.kitchen,Slow down the kitchen fan,decrease_speed,Làm chậm quạt nhà bếp
+fan.kitchen,Slow down the kitchen fan,decrease_speed,Làm chậm quạt nhà bếp
+fan.kitchen,Switch off the kitchen fan,turn_off,Tắt quạt nhà bếp
+fan.kitchen,Switch off the kitchen fan,turn_off,Tắt quạt nhà bếp
+fan.kitchen,Toggle the kitchen fan,toggle,Chuyển đổi quạt nhà bếp
+fan.kitchen,Turn down the kitchen fan,decrease_speed,Lật quạt nhà bếp
+fan.living_room,Decrease the speed of the living room fan,decrease_speed,Giảm tốc độ của quạt phòng khách
+fan.living_room,Increase the speed of the living room fan,increase_speed,Tăng tốc độ của quạt phòng khách
+fan.living_room,Start the living room fan,turn_on,Bắt đầu quạt phòng khách
+fan.living_room,Toggle the fan in the living room,toggle,Chuyển đổi quạt trong phòng khách
+fan.living_room,Turn down the living room fan,decrease_speed,Lật quạt phòng khách
+fan.living_room,Turn off the living room fan,turn_off,Tắt quạt phòng khách
+fan.living_room,Turn off the living room fan,turn_off,Tắt quạt phòng khách
+fan.living_room,Turn on the living room fan,turn_on,Bật quạt phòng khách
+fan.living_room,Turn on the living room fan,turn_on,Bật quạt phòng khách
+fan.office,Could you disable the office fan,turn_off,Bạn có thể vô hiệu hóa quạt văn phòng không
+fan.office,Could you enable the office fan,turn_on,Bạn có thể bật quạt văn phòng
+fan.office,Toggle the office fan,toggle,Chuyển đổi quạt văn phòng
+fan.office,Toggle the office fan,toggle,Chuyển đổi quạt văn phòng
+fan.office,Toggle the office fan,toggle,Chuyển đổi quạt văn phòng
+fan.office,Turn off the office fan,turn_off,Tắt quạt văn phòng
+fan.office,Turn off the office fan,turn_off,Tắt quạt văn phòng
+fan.outdoor,Toggle the outdoor fan,toggle,Chuyển đổi quạt ngoài trời
+fan.patio,Turn off the patio fan,turn_off,Tắt quạt hiên
+fan.pool,Change the status of the pool fan,toggle,Thay đổi trạng thái của quạt hồ bơi
+fan.shed,Switch the shed fan on or off,toggle,Bật hoặc tắt quạt
+fan.study,Activate the study fan,turn_on,Kích hoạt quạt nghiên cứu
+fan.study,Alter the fan state in the study,toggle,Thay đổi trạng thái quạt trong nghiên cứu
+fan.study,Ramp up the fan speed in the study,increase_speed,Tăng tốc độ quạt trong nghiên cứu
+fan.study,Reduce the fan speed in the study,decrease_speed,Giảm tốc độ quạt trong nghiên cứu
+fan.study,Switch off the study fan,turn_off,Tắt quạt học
+fan.study,Switch on the study fan,turn_on,Bật quạt học
+fan.study,Turn off the study fan,turn_off,Tắt quạt học
+fan.study,Turn off the study fan,turn_off,Tắt quạt học
+garage_door.basement,Please raise the basement garage door,open,Vui lòng nâng cửa nhà để xe tầng hầm
+garage_door.bike_storage,Activate the bike storage garage,open,Kích hoạt nhà để xe lưu trữ xe đạp
+garage_door.bike_storage,Deactivate the bike storage garage,close,Vô hiệu hóa nhà để xe lưu trữ xe đạp
+garage_door.main,Close the main garage door,close,Đóng cửa nhà để xe chính
+garage_door.main,Open the main garage door,open,Mở cửa nhà để xe chính
+garage_door.main,Stop the main garage door,stop,Dừng cửa nhà để xe chính
+garage_door.main,Toggle the main garage door,toggle,Chuyển đổi cửa nhà để xe chính
+garage_door.one_car,Make sure the one car garage is closed,close,Đảm bảo rằng một nhà để xe được đóng lại
+garage_door.side,Could you lift the side garage door,open,Bạn có thể nâng cửa nhà để xe bên
+garage_door.side,Halt the side garage door,stop,Dừng cửa nhà để xe bên
+garage_door.side,Lower the side garage door,close,Hạ cửa nhà để xe bên
+garage_door.side,Switch the state of the side garage door,toggle,Chuyển đổi trạng thái của cửa nhà để xe bên
+garage_door.two_car,Open the two car garage,open,Mở hai gara ô tô
+light.attic,Change the light status in the attic,toggle,Thay đổi trạng thái ánh sáng trên gác mái
+light.bathroom_1,Could you illuminate the bathroom,turn_on,Bạn có thể chiếu sáng phòng tắm
+light.bathroom_1,Please extinguish the bathroom light,turn_off,Vui lòng dập tắt đèn phòng tắm
+light.bathroom,Activate the bathroom light,turn_on,Kích hoạt đèn phòng tắm
+light.bathroom,Switch off the bathroom light,turn_off,Tắt đèn phòng tắm
+light.bathroom,Turn off the bathroom light,turn_off,Tắt đèn phòng tắm
+light.bathroom,Turn off the bathroom light,turn_off,Tắt đèn phòng tắm
+light.bathroom,Turn off the bathroom light,turn_off,Tắt đèn phòng tắm
+light.bedroom_1,Activate the bedroom light,turn_on,Kích hoạt đèn phòng ngủ
+light.bedroom_1,Deactivate the bedroom light,turn_off,Vô hiệu hóa đèn phòng ngủ
+light.bedroom_1,Toggle the bedroom light,toggle,Chuyển đổi đèn phòng ngủ
+light.bedroom_2,Switch off the bedroom light,turn_off,Tắt đèn phòng ngủ
+light.dining_room_1,Activate the lights in the dining room,turn_on,Kích hoạt đèn trong phòng ăn
+light.dining_room,Activate the dining room light,turn_on,Kích hoạt đèn phòng ăn
+light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
+light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
+light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
+light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
+light.dining_room,Turn off the dining room light,turn_off,Tắt đèn phòng ăn
+light.dining_table_above,Please toggle the light above the dining table,toggle,Vui lòng chuyển ánh sáng phía trên bàn ăn
+light.driveway,Flip the driveway light,toggle,Lật đèn lái xe
+light.driveway,Turn on the driveway light,turn_on,Bật đèn lái xe
+light.garage,Activate the garage light,turn_on,Kích hoạt đèn nhà để xe
+light.garage,Activate the garage light,turn_on,Kích hoạt đèn nhà để xe
+light.garage,Flip the light in the garage,toggle,Lật ánh sáng trong nhà để xe
+light.garage,Switch on the garage light,turn_on,Bật đèn nhà để xe
+light.garage,Switch on the garage light,turn_on,Bật đèn nhà để xe
+light.garden_1,Deactivate the garden light,turn_off,Vô hiệu hóa ánh sáng vườn
+light.garden_1,Switch on the garden light,turn_on,Bật đèn vườn
+light.garden_1,Turn on the garden light,turn_on,Bật đèn sân vườn
+light.garden_2,Activate the garden light,turn_on,Kích hoạt đèn làm vườn
+light.garden,Switch on the garden light,turn_on,Bật đèn vườn
+light.guest_room,Could you toggle the light in the guest room,toggle,Bạn có thể bật đèn trong phòng khách không
+light.guest_room,Deactivate the guest room light,turn_off,Đã hủy kích hoạt đèn phòng khách
+light.guest_room,Switch off the guest room light,turn_off,Tắt đèn phòng khách
+light.guest_room,Switch on the guest room light,turn_on,Bật đèn phòng khách
+light.guest_room,Toggle the guest room light,toggle,Chuyển đổi đèn phòng khách
+light.hallway,Switch off the hallway light,turn_off,Tắt đèn hành lang
+light.hallway,Switch the state of the light in the hallway,toggle,Chuyển đổi trạng thái của ánh sáng ở hành lang
+light.hallway,Toggle the hallway light,toggle,Chuyển đổi đèn hành lang
+light.hallway,Turn off the hallway light,turn_off,Tắt đèn hành lang
+light.hallway,Turn on the hallway light,turn_on,Bật đèn hành lang
+light.kitchen_1,Switch on the kitchen lights,turn_on,Bật đèn nhà bếp
+light.kitchen_1,Toggle the kitchen light,toggle,Chuyển đổi đèn nhà bếp
+light.kitchen_1,Turn on the kitchen light,turn_on,Bật đèn nhà bếp
+light.kitchen_2,Switch off the kitchen light,turn_off,Tắt đèn nhà bếp
+light.kitchen_2,Toggle the kitchen light,toggle,Chuyển đổi đèn nhà bếp
+light.kitchen_counter,Switch off the kitchen counter light,turn_off,Tắt đèn quầy bếp
+light.kitchen_counter,Switch on the kitchen counter light,turn_on,Bật đèn quầy bếp
+light.living_room_1,Switch off the living room light,turn_off,Tắt đèn phòng khách
+light.living_room,Turn off the living room light,turn_off,Tắt đèn phòng khách
+light.living_room,Turn on the living room light,turn_on,Bật đèn phòng khách
+light.master_bedroom_1,Deactivate the master bedroom light,turn_off,Vô hiệu hóa đèn phòng ngủ chính
+light.master_bedroom_1,Please activate the master bedroom light,turn_on,Vui lòng kích hoạt đèn phòng ngủ chính
+light.master_bedroom_lamp,Turn off the light in the bedroom,turn_off,Tắt đèn trong phòng ngủ
+light.office_1,Enable the office light,turn_on,Bật đèn văn phòng
+light.office,Deactivate the office light,turn_off,Vô hiệu hóa đèn văn phòng
+light.office,Toggle the office light,toggle,Chuyển đổi đèn văn phòng
+light.outdoor,Toggle the outdoor light,toggle,Chuyển đổi ánh sáng ngoài trời
+light.patio,Deactivate the patio light,turn_off,Vô hiệu hóa ánh sáng hiên
+light.patio,Disable the patio light,turn_off,Tắt đèn hiên
+light.patio,Enable the patio light,turn_on,Bật đèn sân
+light.patio,Switch on the patio light,turn_on,Bật đèn hiên
+light.patio,Toggle the patio light,toggle,Chuyển đổi ánh sáng hiên
+light.patio,Turn on the patio light,turn_on,Bật đèn sân
+light.patio,Turn on the patio light,turn_on,Bật đèn sân
+light.pool,Activate the pool light,turn_on,Kích hoạt ánh sáng hồ bơi
+light.pool,Change the status of the pool light,toggle,Thay đổi trạng thái của ánh sáng hồ bơi
+light.pool,Turn off the pool light,turn_off,Tắt đèn hồ bơi
+light.pool,Turn on the pool light,turn_on,Bật đèn hồ bơi
+light.shed,Activate the shed light,turn_on,Kích hoạt ánh sáng
+light.shed,Activate the shed light,turn_on,Kích hoạt ánh sáng
+light.shed,Switch on the shed light,turn_on,Bật đèn chiếu sáng
+light.shed,Switch the shed light on or off,toggle,Bật hoặc tắt đèn
+light.study,Activate the study light,turn_on,Kích hoạt ánh sáng nghiên cứu
+light.study,Alter the light state in the study,toggle,Thay đổi trạng thái ánh sáng trong nghiên cứu
+light.study,Toggle the study light,toggle,Chuyển đổi đèn học tập
+light.study,Toggle the study light,toggle,Chuyển đổi đèn học tập
+light.study,Turn off the study light,turn_off,Tắt đèn học tập
+light.study,Turn off the study light,turn_off,Tắt đèn học tập
+light.dining_room_chandelier,Turn on the dining room light,turn_on,Bật đèn phòng ăn
+light.chandelier_front_hallway,Hey can you turn on the front hallway chandelier,turn_on,"Này, bạn có thể bật đèn chùm hành lang phía trước không"
+lock.back_door,Could you disengage the back door lock,unlock,Bạn có thể thảnh thơi khóa cửa sau không
+lock.back_door,Engage the back door lock,lock,Tham gia khóa cửa sau
+lock.bike_storage,Disengage the lock on the bike storage,unlock,Giải phóng khóa trên bộ lưu trữ xe đạp
+lock.front_door,Lock the front door,lock,Khóa cửa trước
+lock.front_door,Unlock the front door,unlock,Mở khóa cửa trước
+lock.nursery,Can you secure the nursery door,lock,Bạn có thể bảo đảm cửa nhà trẻ không
+lock.office,Please lock the office,lock,Vui lòng khóa văn phòng
+lock.office,Please unlock the office,unlock,Vui lòng mở khóa văn phòng
+lock.tool_shed,Unlock the tool shed,unlock,Mở khóa công cụ đổ
+lock.wine_cellar,Could you lock the wine cellar,lock,Bạn có thể khóa hầm rượu
+lock.front_door,Please lock the front door.,lock,Vui lòng khóa cửa trước.
+lock.back_door,Can you unlock the back door?,unlock,Bạn có thể mở khóa cửa sau không?
+lock.garage_door,I need the garage door locked.,lock,Tôi cần cửa nhà để xe bị khóa.
+lock.patio_door,"Unlock the patio door, please.",unlock,Vui lòng mở khóa cửa hiên.
+lock.main_gate,Ensure the main gate is locked.,lock,Đảm bảo cổng chính bị khóa.
+lock.kitchen_window,Open the lock on the kitchen window.,unlock,Mở khóa trên cửa sổ nhà bếp.
+lock.office_door,Can we lock the office door?,lock,Chúng tôi có thể khóa cửa văn phòng không?
+lock.bedroom_window,Bedroom window needs to be unlocked.,unlock,Cửa sổ phòng ngủ cần được mở khóa.
+lock.basement_door,Lock up the basement door.,lock,Khóa cửa tầng hầm.
+lock.bathroom_window,Could you unlock the bathroom window?,unlock,Bạn có thể mở khóa cửa sổ phòng tắm không?
+lock.garden_gate,Please secure the garden gate.,lock,Vui lòng bảo vệ cổng vườn.
+lock.rooftop_door,Open the rooftop door lock.,unlock,Mở khóa cửa trên sân thượng.
+lock.cellar_door,Cellar door should be locked now.,lock,Cửa hầm nên được khóa ngay bây giờ.
+lock.pool_gate,I'd like the pool gate unlocked.,unlock,Tôi muốn mở khóa cổng hồ bơi.
+lock.shed_door,Ensure the shed door is securely locked.,lock,Đảm bảo cửa đổ được khóa an toàn.
+lock.balcony_door,Unlock the balcony door for me.,unlock,Mở khóa cửa ban công cho tôi.
+lock.laundry_room_door,Can you lock the laundry room door?,lock,Bạn có thể khóa cửa phòng giặt không?
+lock.nursery_door,The nursery door needs to be unlocked.,unlock,Cửa mẫu giáo cần được mở khóa.
+lock.guest_room_door,Please lock the guest room door.,lock,Vui lòng khóa cửa phòng khách.
+lock.side_entrance,Unlock our side entrance.,unlock,Mở khóa lối vào bên của chúng tôi.
+lock.fence_gate,Make sure the fence gate is locked.,lock,Hãy chắc chắn rằng cổng hàng rào bị khóa.
+lock.garage_side_door,Garage side door should be unlocked.,unlock,Cửa bên nhà để xe nên được mở khóa.
+lock.attic_door,Attic door needs locking.,lock,Cửa gác mái cần khóa.
+lock.fire_escape,Can you unlock the fire escape?,unlock,Bạn có thể mở khóa lối thoát lửa không?
+lock.storage_room_door,Please lock the storage room door.,lock,Vui lòng khóa cửa phòng lưu trữ.
+lock.boathouse_door,Unlock the boathouse door.,unlock,Mở khóa cửa Boathouse.
+lock.carport_gate,Carport gate needs to be locked.,lock,Cổng xe cần phải bị khóa.
+lock.backyard_gate,Can we have the backyard gate unlocked?,unlock,Chúng ta có thể mở khóa cổng sân sau không?
+lock.front_porch_door,Lock the front porch door.,lock,Khóa cửa hiên trước.
+lock.back_terrace_door,Open the lock on the back terrace door.,unlock,Mở khóa trên cửa sân thượng phía sau.
+lock.wine_cellar,Ensure the wine cellar is locked.,lock,Đảm bảo hầm rượu được khóa.
+lock.sunroom_door,Please unlock the sunroom door.,unlock,Vui lòng mở khóa cửa phòng tắm nắng.
+lock.home_office,I'd like the home office locked up.,lock,Tôi muốn văn phòng tại nhà bị khóa.
+lock.playroom_door,Can you unlock the playroom door?,unlock,Bạn có thể mở khóa cửa phòng chơi không?
+lock.art_studio,The art studio should be locked.,lock,Các studio nghệ thuật nên được khóa.
+lock.music_room,"Unlock the music room, please.",unlock,Vui lòng mở khóa phòng âm nhạc.
+lock.home_gym,Lock the home gym door.,lock,Khóa cửa phòng tập thể dục tại nhà.
+lock.cinema_room,Cinema room needs to be unlocked.,unlock,Phòng điện ảnh cần được mở khóa.
+lock.library_door,Please lock the library door.,lock,Vui lòng khóa cửa thư viện.
+lock.conservatory,Can the conservatory be unlocked?,unlock,Nhạc viện có thể được mở khóa không?
+media_player.kitchen,Could you start the media in the kitchen,turn_on,Bạn có thể bắt đầu các phương tiện truyền thông trong bếp không
+media_player.kitchen,Play the previous track in the kitchen,media_previous_track,Chơi bài hát trước trong nhà bếp
+media_player.kitchen,Please raise the volume in the kitchen,volume_up,Vui lòng nâng khối lượng trong nhà bếp
+media_player.living_room,Activate the media in the living room,turn_on,Kích hoạt phương tiện truyền thông trong phòng khách
+media_player.living_room,Mute the media player in the living room,volume_mute,Tắt tiếng người chơi truyền thông trong phòng khách
+media_player.living_room,Skip to the next track in the living room,media_next_track,Bỏ qua đường đua tiếp theo trong phòng khách
+media_player.living_room,Turn up the volume in the living room,volume_up,Bật âm lượng trong phòng khách
+media_player.master_bedroom,Can you increase the volume on the master bedroom media player,volume_up,Bạn có thể tăng âm lượng trên trình phát phương tiện phòng ngủ chính không
+media_player.master_bedroom,Pause the media in the master bedroom,media_pause,Tạm dừng phương tiện truyền thông trong phòng ngủ chính
+media_player.master_bedroom,Turn on the master bedroom media player,turn_on,Bật trình phát phương tiện phòng ngủ chính
+media_player.nursery,Please play the media in the nursery,media_play,Vui lòng chơi các phương tiện truyền thông trong vườn ươm
+media_player.nursery,Stop the media in the nursery,media_stop,Dừng các phương tiện truyền thông trong vườn ươm
+media_player.nursery,Turn down the volume in the nursery,volume_down,Từ chối âm lượng trong vườn ươm
+media_player.office,Can you decrease the volume in the office,volume_down,Bạn có thể giảm âm lượng trong văn phòng không
+media_player.living_room_tv,Please turn on the living room TV.,turn_on,Vui lòng bật TV phòng khách.
+media_player.kitchen_radio,Switch off the kitchen radio.,turn_off,Tắt radio nhà bếp.
+media_player.bedroom_speaker,Can you increase the volume in the bedroom?,volume_up,Bạn có thể tăng khối lượng trong phòng ngủ không?
+media_player.office_sound_system,Lower the volume in the office.,volume_down,Hạ khối lượng trong văn phòng.
+media_player.garage_stereo,Mute the stereo in the garage.,volume_mute,Tắt tiếng âm thanh nổi trong nhà để xe.
+media_player.patio_speaker,Start playing music on the patio speaker.,media_play,Bắt đầu chơi nhạc trên loa hiên.
+media_player.bathroom_audio,Pause the bathroom audio.,media_pause,Tạm dừng âm thanh phòng tắm.
+media_player.guest_room_media,Stop the guest room media player.,media_stop,Dừng người chơi phương tiện phòng khách.
+media_player.basement_home_theater,Skip to the next track in the basement.,media_next_track,Bỏ qua đường đua tiếp theo trong tầng hầm.
+media_player.nursery_lullaby,Go back to the previous lullaby in the nursery.,media_previous_track,Quay trở lại những bài hát ru trước đó trong vườn ươm.
+media_player.deck_music_system,Turn on the deck's music system.,turn_on,Bật hệ thống âm nhạc của bộ bài.
+media_player.lounge_entertainment,Switch off the lounge entertainment center.,turn_off,Tắt Trung tâm giải trí phòng chờ.
+media_player.dining_area_jukebox,Increase the jukebox volume in the dining area.,volume_up,Tăng khối lượng máy tự động trong khu vực ăn uống.
+media_player.game_room_speakers,Turn down the game room speakers.,volume_down,Bỏ qua loa phòng trò chơi.
+media_player.library_soundbar,Mute the soundbar in the library.,volume_mute,Tắt tiếng soundbar trong thư viện.
+media_player.sunroom_stereo,Play the stereo in the sunroom.,media_play,Chơi âm thanh nổi trong phòng tắm nắng.
+media_player.loft_tv,Pause the TV in the loft.,media_pause,Tạm dừng TV trên gác xép.
+media_player.poolside_media,Stop the poolside media system.,media_stop,Dừng hệ thống truyền thông bên hồ bơi.
+media_player.gym_music_player,Skip to the next song in the gym.,media_next_track,Bỏ qua bài hát tiếp theo trong phòng tập thể dục.
+media_player.study_room_radio,Go back to the previous station in the study room.,media_previous_track,Quay trở lại nhà ga trước trong phòng học.
+media_player.backyard_speakers,Turn on the backyard speakers.,turn_on,Bật loa sân sau.
+media_player.entryway_echo,Turn off the Echo in the entryway.,turn_off,Tắt Echo ở lối vào.
+media_player.rooftop_deck_audio,Raise the rooftop audio volume.,volume_up,Tăng âm lượng âm thanh trên mái nhà.
+media_player.workshop_sound_system,Lower the sound system volume in the workshop.,volume_down,Hạ âm lượng hệ thống âm thanh trong hội thảo.
+media_player.art_studio_player,Mute the media player in the art studio.,volume_mute,Mute The Media Player in the Art Studio.
+media_player.kids_room_storyteller,Start the storyteller in the kids' room.,media_play,Bắt đầu người kể chuyện trong phòng trẻ em.
+media_player.laundry_room_radio,Pause the radio in the laundry room.,media_pause,Tạm dừng radio trong phòng giặt.
+media_player.balcony_speakers,Stop the balcony speakers.,media_stop,Dừng loa ban công.
+media_player.yoga_room_music,Next track for the yoga room music.,media_next_track,Ca khúc tiếp theo cho nhạc phòng yoga.
+media_player.conservatory_cd_player,Previous track on the conservatory CD player.,media_previous_track,Theo dõi trước đây về trình phát CD Nhạc viện.
+media_player.foyer_sound_system,Power on the foyer sound system.,turn_on,Sức mạnh trên hệ thống âm thanh sảnh.
+media_player.wine_cellar_speakers,Power off the speakers in the wine cellar.,turn_off,Sức mạnh từ các loa trong hầm rượu.
+media_player.greenhouse_radio,Increase the greenhouse radio volume.,volume_up,Tăng khối lượng radio nhà kính.
+media_player.attic_audio_system,Decrease attic audio system volume.,volume_down,Giảm khối lượng hệ thống âm thanh Attic.
+media_player.boathouse_stereo,Mute the stereo in the boathouse.,volume_mute,Tắt tiếng âm thanh nổi trong Boathouse.
+media_player.cellar_jukebox,Play the jukebox in the cellar.,media_play,Chơi máy tự động trong hầm.
+media_player.corridor_intercom,Pause the corridor intercom.,media_pause,Tạm dừng liên lạc hành lang.
+media_player.porch_sound_system,Stop the porch sound system.,media_stop,Dừng hệ thống hiên nhà.
+media_player.garden_music,Next track for the garden music.,media_next_track,Ca khúc tiếp theo cho âm nhạc vườn.
+media_player.driveway_speakers,Previous track on the driveway speakers.,media_previous_track,Theo dõi trước trên loa đường lái xe.
+media_player.hallway_audio,Switch on the hallway audio system.,turn_on,Bật hệ thống âm thanh hành lang.
+media_player.mudroom_media_player,Switch off the mudroom media player.,turn_off,Tắt máy nghe phương tiện Mudroom.
+media_player.utility_room_radio,Turn up the utility room radio.,volume_up,Bật radio phòng tiện ích.
+media_player.shed_sound_system,Turn down the shed sound system.,volume_down,Bỏ xuống hệ thống âm thanh.
+media_player.treehouse_speakers,Mute the treehouse speakers.,volume_mute,Tắt tiếng loa nhà trên cây.
+switch.philips_hue_living_room,Turn on the living room lights.,turn_on,Bật đèn phòng khách.
+switch.belkin_wemo_garage,Turn off the garage switch.,turn_off,Tắt công tắc nhà để xe.
+switch.tp_link_kasa_porch,Toggle the porch lights.,toggle,Chuyển đổi đèn hiên nhà.
+switch.legrand_radiant_kitchen,Turn on the kitchen lights.,turn_on,Bật đèn bếp.
+switch.lutron_caseta_bedroom,Turn off the bedroom lights.,turn_off,Tắt đèn phòng ngủ.
+switch.ge_z_wave_bathroom,Turn on the bathroom fan.,turn_on,Bật quạt phòng tắm.
+switch.honeywell_home_office,Toggle the office lights.,toggle,Chuyển đổi đèn văn phòng.
+switch.samsung_smartthings_security,Turn off the security system.,turn_off,Tắt hệ thống bảo mật.
+switch.eve_energy_balcony,Turn on the balcony lighting.,turn_on,Bật ánh sáng ban công.
+switch.fibaro_pool,Turn off the pool lights.,turn_off,Tắt đèn hồ bơi.
+switch.nest_thermostat_terrace,Turn on the terrace thermostat.,turn_on,Bật bộ điều chỉnh nhiệt sân thượng.
+switch.ecobee_garden,Turn off the garden lights.,turn_off,Tắt đèn vườn.
+switch.sonoff_dining_room,Toggle the dining room lights.,toggle,Chuyển đổi đèn phòng ăn.
+switch.wink_relay_driveway,Turn on the driveway lights.,turn_on,Bật đèn lái xe.
+switch.insteon_patio,Turn off the patio lights.,turn_off,Tắt đèn sân trong.
+switch.sengled_deck,Turn on the deck lighting.,turn_on,Bật đèn chiếu sáng.
+switch.osram_hallway,Toggle the hallway lights.,toggle,Chuyển đổi đèn hành lang.
+switch.yeelight_sunroom,Turn off the sunroom lights.,turn_off,Tắt đèn phòng tắm nắng.
+switch.gosund_attic,Turn on the attic light switch.,turn_on,Bật công tắc đèn gác mái.
+switch.meross_walkway,Turn off the walkway lighting.,turn_off,Tắt đèn đi bộ.
+switch.koogeek_basement,Toggle the basement lights.,toggle,Chuyển đổi đèn tầng hầm.
+switch.nanoleaf_stairway,Turn on the stairway lights.,turn_on,Bật đèn cầu thang.
+switch.xiaomi_bedside,Turn off the bedside lamp.,turn_off,Tắt đèn ngủ.
+switch.arlo_floodlights,Toggle the security floodlights.,toggle,Chuyển đổi đèn pha bảo mật.
+switch.wyze_study,Turn on the study room lights.,turn_on,Bật đèn phòng học.
+switch.ikea_guest_room,Turn off the guest room lights.,turn_off,Tắt đèn phòng khách.
+switch.netatmo_front_yard,Turn on the front yard lighting.,turn_on,Bật ánh sáng sân trước.
+switch.tuya_shed,Turn off the shed light switch.,turn_off,Tắt công tắc đèn chiếu sáng.
+switch.broadlink_kitchenette,Toggle the kitchenette lights.,toggle,Chuyển đổi đèn bếp.
+switch.moeshouse_gym,Turn on the gym lighting.,turn_on,Bật đèn tập thể dục.
+switch.hue_bedroom_2,Turn off the second bedroom lights.,turn_off,Tắt đèn phòng ngủ thứ hai.
+switch.wemo_laundry_room,Turn on the laundry room lights.,turn_on,Bật đèn phòng giặt.
+switch.kasa_living_room,Toggle the living room lights.,toggle,Chuyển đổi đèn phòng khách.
+switch.radiant_office,Turn off the office lights.,turn_off,Tắt đèn văn phòng.
+switch.caseta_hallway_2,Turn on the second hallway lights.,turn_on,Bật đèn hành lang thứ hai.
+switch.z_wave_guest_bathroom,Turn off the guest bathroom fan.,turn_off,Tắt quạt phòng tắm của khách.
+switch.home_office_dimmer,Toggle the home office dimmer.,toggle,Chuyển đổi bộ làm mờ văn phòng tại nhà.
+switch.security_camera_light,Turn on the security camera light.,turn_on,Bật đèn camera an ninh.
+switch.patio_heater_switch,Turn off the patio heater.,turn_off,Tắt lò sưởi hiên.
+switch.kitchen_under_cabinet,Toggle the kitchen under cabinet lights.,toggle,Chuyển đổi nhà bếp dưới đèn tủ.
+switch.hallway_dimmer,Could you dim the hallway lights?,turn_on,Bạn có thể làm mờ đèn hành lang không?
+switch.kitchen_fan,Please turn off the kitchen fan.,turn_off,Vui lòng tắt quạt nhà bếp.
+switch.garden_spotlights,Activate the garden spotlights.,turn_on,Kích hoạt đèn sân vườn.
+switch.poolside_lanterns,Deactivate the poolside lanterns.,turn_off,Vô hiệu hóa đèn lồng bên hồ bơi.
+switch.front_porch_sensor,Engage the front porch sensor light.,turn_on,Tham gia ánh sáng cảm biến hiên trước.
+switch.backyard_floodlight,Can you shut off the backyard floodlight?,turn_off,Bạn có thể tắt đèn pha sân sau không?
+switch.staircase_light_strip,Could you light up the staircase light strip?,turn_on,Bạn có thể thắp sáng dải ánh sáng cầu thang không?
+switch.laundry_area,Please switch off the laundry area lights.,turn_off,Vui lòng tắt đèn khu vực giặt.
+switch.office_desk_lamp,Illuminate the desk lamp in my office.,turn_on,Chiếu sáng đèn bàn trong văn phòng của tôi.
+switch.basement_sconces,Can we turn down the basement sconces?,turn_off,Chúng ta có thể từ chối các tầng hầm không?
+switch.library_ceiling,Engage the ceiling lights in the library.,turn_on,Tham gia đèn trần trong thư viện.
+switch.sunroom_blinds,"I'd like the sunroom blinds closed, please.",turn_off,"Tôi muốn rèm phòng tắm nắng, xin vui lòng."
+switch.guest_bathroom,"Light up the guest bathroom, please.",turn_on,Vui lòng thắp sáng phòng tắm của khách.
+switch.patio_string_lights,Switch off the string lights on the patio.,turn_off,Tắt đèn dây trên hiên.
+switch.kitchen_island,Disable the kitchen island lights.,turn_off,Tắt đèn đảo bếp.
+switch.entryway_chandelier,Illuminate the entryway chandelier.,turn_on,Chiếu sáng đèn chùm lối vào.
+switch.garage_worklight,Can we power down the garage worklight?,turn_off,Chúng ta có thể cung cấp năng lượng cho đèn làm việc nhà để xe không?
+switch.bedroom_track_lighting,Brighten the bedroom track lighting.,turn_on,Làm sáng ánh sáng theo dõi phòng ngủ.
+switch.home_cinema,Please turn off the home cinema lights.,turn_off,Vui lòng tắt đèn rạp chiếu phim gia đình.
+switch.balcony_mood_lighting,Activate the mood lighting on the balcony.,turn_on,Kích hoạt ánh sáng tâm trạng trên ban công.
+switch.dining_room_dimmer,Set the dining room lights to off.,turn_off,Đặt đèn phòng ăn để tắt.
+switch.playroom_nightlight,Can you turn on the playroom nightlight?,turn_on,Bạn có thể bật đèn ngủ phòng chơi không?
+switch.art_studio_spots,Please disable the art studio spotlights.,turn_off,Vui lòng vô hiệu hóa các phòng thu nghệ thuật.
+switch.foyer_wall_sconce,Light up the foyer wall sconce.,turn_on,Thắp sáng các bức tường sảnh.
+switch.back_entry,Shut down the back entry lights.,turn_off,Tắt đèn sau.
+switch.corridor_track,Brighten up the corridor track lights.,turn_on,Làm sáng lên các đèn theo dõi hành lang.
+switch.veranda_fairy_lights,"Switch off the veranda fairy lights, please.",turn_off,Xin vui lòng tắt đèn Fairy Fairy.
+switch.master_suite,Set the master suite to nighttime mode.,turn_on,Đặt bộ tổng thể thành chế độ ban đêm.
+switch.walk_in_closet,Disable the walk-in closet lights.,turn_off,Tắt đèn tủ quần áo không cửa.
+switch.roof_deck,Engage the roof deck lighting.,turn_on,Tham gia ánh sáng sàn mái.
+switch.bathroom_mirror,Can you turn off the bathroom mirror light?,turn_off,Bạn có thể tắt đèn gương phòng tắm không?
+switch.storage_room,Please power down the storage room lights.,turn_off,Vui lòng cung cấp năng lượng cho đèn phòng lưu trữ.
+switch.wine_cellar,Illuminate the wine cellar.,turn_on,Chiếu sáng hầm rượu.
+switch.conservation_area,Deactivate the conservation area lighting.,turn_off,Vô hiệu hóa ánh sáng khu vực bảo tồn.
+switch.gym_ceiling,Light up the gym ceiling lights.,turn_on,Thắp sáng đèn trần phòng tập thể dục.
+switch.hobby_room,Could we turn off the hobby room lights?,turn_off,Chúng ta có thể tắt đèn phòng sở thích không?
+switch.front_lawn,Activate the front lawn spotlights.,turn_on,Kích hoạt đèn chiếu sáng phía trước.
+switch.rear_terrace,Can you dim the lights on the rear terrace?,turn_off,Bạn có thể làm mờ đèn trên sân thượng phía sau không?

@@ -1,0 +1,373 @@
+﻿device_name,english_phrase,service_name,vietnamese_phrase
+blinds.kitchen,Could you raise the kitchen blinds,open,Báº¡n cÃ³ thá»ƒ nÃ¢ng rÃ¨m báº¿p khÃ´ng
+blinds.kitchen,Lower the kitchen blinds,close,Háº¡ tháº¥p rÃ¨m nhÃ  báº¿p
+blinds.kitchen,Stop the kitchen blinds where they are,stop,Dá»«ng rÃ¨m nhÃ  báº¿p nÆ¡i há» Ä‘ang á»Ÿ
+blinds.kitchen,Switch the state of the kitchen blinds,toggle,Chuyá»ƒn Ä‘á»•i tráº¡ng thÃ¡i cá»§a rÃ¨m nhÃ  báº¿p
+blinds.living_room,Close the living room blinds,close,ÄÃ³ng rÃ¨m phÃ²ng khÃ¡ch
+blinds.living_room,Open the living room blinds,open,Má»Ÿ rÃ¨m phÃ²ng khÃ¡ch
+blinds.living_room,Stop adjusting the living room blinds,stop,Ngá»«ng Ä‘iá»u chá»‰nh rÃ¨m phÃ²ng khÃ¡ch
+blinds.living_room,Toggle the living room blinds,toggle,Chuyá»ƒn Ä‘á»•i rÃ¨m phÃ²ng khÃ¡ch
+blinds.master_bedroom,Lift the master bedroom blinds,open,NÃ¢ng rÃ¨m phÃ²ng ngá»§ chÃ­nh
+blinds.master_bedroom,Please halt the master bedroom blinds,stop,Vui lÃ²ng táº¡m dá»«ng rÃ¨m phÃ²ng ngá»§ chÃ­nh
+blinds.master_bedroom,Reverse the master bedroom blinds,toggle,Äáº£o ngÆ°á»£c rÃ¨m phÃ²ng ngá»§ chÃ­nh
+blinds.master_bedroom,Shut the master bedroom blinds,close,Táº¯t rÃ¨m phÃ²ng ngá»§ chÃ­nh
+fan.attic_1,Disable the attic fan,turn_off,Táº¯t quáº¡t Attic
+fan.attic_1,Increase speed of the attic fan,increase_speed,TÄƒng tá»‘c Ä‘á»™ cá»§a quáº¡t gÃ¡c mÃ¡i
+fan.attic_1,Slow down the attic fan,decrease_speed,LÃ m cháº­m quáº¡t gÃ¡c mÃ¡i
+fan.attic_1,Slow down the attic fan,decrease_speed,LÃ m cháº­m quáº¡t gÃ¡c mÃ¡i
+fan.attic_1,Turn down the attic fan,decrease_speed,Tá»« chá»‘i quáº¡t gÃ¡c mÃ¡i
+fan.attic_2,Toggle the attic fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t gÃ¡c mÃ¡i
+fan.attic_2,Toggle the attic fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t gÃ¡c mÃ¡i
+fan.attic,Accelerate the fan in the attic,increase_speed,TÄƒng tá»‘c quáº¡t trÃªn gÃ¡c mÃ¡i
+fan.attic,Change the fan status in the attic,toggle,Thay Ä‘á»•i tráº¡ng thÃ¡i quáº¡t trÃªn gÃ¡c mÃ¡i
+fan.attic,Slow down the fan in the attic,decrease_speed,LÃ m cháº­m quáº¡t trÃªn gÃ¡c mÃ¡i
+fan.basement,Toggle the basement fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t táº§ng háº§m
+fan.basement,Toggle the basement fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t táº§ng háº§m
+fan.bathroom,Activate the bathroom fan,turn_on,KÃ­ch hoáº¡t quáº¡t phÃ²ng táº¯m
+fan.bathroom,Turn on the bathroom fan,turn_on,Báº­t quáº¡t phÃ²ng táº¯m
+fan.bathroom,Turn on the bathroom fan,turn_on,Báº­t quáº¡t phÃ²ng táº¯m
+fan.bedroom_master,Activate the master bedroom fan,turn_on,KÃ­ch hoáº¡t quáº¡t phÃ²ng ngá»§ chÃ­nh
+fan.bedroom_master,Deactivate the master bedroom fan,turn_off,VÃ´ hiá»‡u hÃ³a quáº¡t phÃ²ng ngá»§ chÃ­nh
+fan.bedroom_master,Ramp up the master bedroom fan speed,increase_speed,TÄƒng tá»‘c Ä‘á»™ quáº¡t phÃ²ng ngá»§ chÃ­nh
+fan.bedroom_master,Slow down the master bedroom fan,decrease_speed,LÃ m cháº­m quáº¡t phÃ²ng ngá»§ chÃ­nh
+fan.bedroom_master,Switch the state of the master bedroom fan,toggle,Chuyá»ƒn Ä‘á»•i tráº¡ng thÃ¡i cá»§a quáº¡t phÃ²ng ngá»§ chÃ­nh
+fan.bedroom,Toggle the bedroom fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t phÃ²ng ngá»§
+fan.bedroom,Toggle the bedroom fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t phÃ²ng ngá»§
+fan.bedroom,Toggle the bedroom fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t phÃ²ng ngá»§
+fan.dining_area,Please switch off the dining area fan,turn_off,Vui lÃ²ng táº¯t quáº¡t khu vá»±c Äƒn uá»‘ng
+fan.dining_area,Please switch on the dining area fan,turn_on,Vui lÃ²ng báº­t quáº¡t khu vá»±c Äƒn uá»‘ng
+fan.dining_room,Switch off the dining room fan,turn_off,Táº¯t quáº¡t phÃ²ng Äƒn
+fan.dining_table_above,Please toggle the fan above the dining table,toggle,Vui lÃ²ng chuyá»ƒn quáº¡t phÃ­a trÃªn bÃ n Äƒn
+fan.driveway,Flip the driveway fan,toggle,Láº­t quáº¡t Ä‘Æ°á»ng lÃ¡i xe
+fan.garage,Flip the fan in the garage,toggle,Láº­t quáº¡t trong nhÃ  Ä‘á»ƒ xe
+fan.garage,Shut down the garage fan,turn_off,Táº¯t mÃ¡y quáº¡t nhÃ  Ä‘á»ƒ xe
+fan.garage,Switch off the garage fan,turn_off,Táº¯t quáº¡t nhÃ  Ä‘á»ƒ xe
+fan.garage,Switch off the garage fan,turn_off,Táº¯t quáº¡t nhÃ  Ä‘á»ƒ xe
+fan.garage,Turn down the fan in the garage,decrease_speed,Tá»« chá»‘i quáº¡t trong nhÃ  Ä‘á»ƒ xe
+fan.garage,Turn on the garage fan,turn_on,Báº­t quáº¡t nhÃ  Ä‘á»ƒ xe
+fan.garage,Turn up the fan in the garage,increase_speed,Báº­t quáº¡t trong nhÃ  Ä‘á»ƒ xe
+fan.guest_room,Can you toggle the fan in the guest room,toggle,Báº¡n cÃ³ thá»ƒ chuyá»ƒn quáº¡t trong phÃ²ng khÃ¡ch khÃ´ng
+fan.guest_room,Decrease the fan speed in the guest room,decrease_speed,Giáº£m tá»‘c Ä‘á»™ quáº¡t trong phÃ²ng khÃ¡ch
+fan.guest_room,Increase the fan speed in the guest room,increase_speed,TÄƒng tá»‘c Ä‘á»™ quáº¡t trong phÃ²ng khÃ¡ch
+fan.guest_room,Switch off the guest room fan,turn_off,Táº¯t quáº¡t phÃ²ng khÃ¡ch
+fan.hallway,Boost the fan speed in the hallway,increase_speed,TÄƒng tá»‘c Ä‘á»™ quáº¡t á»Ÿ hÃ nh lang
+fan.hallway,Enable the hallway fan,turn_on,Báº­t quáº¡t hÃ nh lang
+fan.hallway,Lower the fan speed in the hallway,decrease_speed,Háº¡ tá»‘c Ä‘á»™ quáº¡t trÃªn hÃ nh lang
+fan.hallway,Switch the state of the fan in the hallway,toggle,Chuyá»ƒn tráº¡ng thÃ¡i cá»§a quáº¡t trÃªn hÃ nh lang
+fan.kitchen,Enable the kitchen fan,turn_on,Báº­t quáº¡t nhÃ  báº¿p
+fan.kitchen,Slow down the kitchen fan,decrease_speed,LÃ m cháº­m quáº¡t nhÃ  báº¿p
+fan.kitchen,Slow down the kitchen fan,decrease_speed,LÃ m cháº­m quáº¡t nhÃ  báº¿p
+fan.kitchen,Switch off the kitchen fan,turn_off,Táº¯t quáº¡t nhÃ  báº¿p
+fan.kitchen,Switch off the kitchen fan,turn_off,Táº¯t quáº¡t nhÃ  báº¿p
+fan.kitchen,Toggle the kitchen fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t nhÃ  báº¿p
+fan.kitchen,Turn down the kitchen fan,decrease_speed,Láº­t quáº¡t nhÃ  báº¿p
+fan.living_room,Decrease the speed of the living room fan,decrease_speed,Giáº£m tá»‘c Ä‘á»™ cá»§a quáº¡t phÃ²ng khÃ¡ch
+fan.living_room,Increase the speed of the living room fan,increase_speed,TÄƒng tá»‘c Ä‘á»™ cá»§a quáº¡t phÃ²ng khÃ¡ch
+fan.living_room,Start the living room fan,turn_on,Báº¯t Ä‘áº§u quáº¡t phÃ²ng khÃ¡ch
+fan.living_room,Toggle the fan in the living room,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t trong phÃ²ng khÃ¡ch
+fan.living_room,Turn down the living room fan,decrease_speed,Láº­t quáº¡t phÃ²ng khÃ¡ch
+fan.living_room,Turn off the living room fan,turn_off,Táº¯t ngÆ°á»i hÃ¢m má»™ phÃ²ng khÃ¡ch
+fan.living_room,Turn off the living room fan,turn_off,Táº¯t ngÆ°á»i hÃ¢m má»™ phÃ²ng khÃ¡ch
+fan.living_room,Turn on the living room fan,turn_on,Báº­t quáº¡t phÃ²ng khÃ¡ch
+fan.living_room,Turn on the living room fan,turn_on,Báº­t quáº¡t phÃ²ng khÃ¡ch
+fan.office,Could you disable the office fan,turn_off,Báº¡n cÃ³ thá»ƒ vÃ´ hiá»‡u hÃ³a quáº¡t vÄƒn phÃ²ng khÃ´ng
+fan.office,Could you enable the office fan,turn_on,Báº¡n cÃ³ thá»ƒ báº­t quáº¡t vÄƒn phÃ²ng
+fan.office,Toggle the office fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t vÄƒn phÃ²ng
+fan.office,Toggle the office fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t vÄƒn phÃ²ng
+fan.office,Toggle the office fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t vÄƒn phÃ²ng
+fan.office,Turn off the office fan,turn_off,Táº¯t quáº¡t vÄƒn phÃ²ng
+fan.office,Turn off the office fan,turn_off,Táº¯t quáº¡t vÄƒn phÃ²ng
+fan.outdoor,Toggle the outdoor fan,toggle,Chuyá»ƒn Ä‘á»•i quáº¡t ngoÃ i trá»i
+fan.patio,Turn off the patio fan,turn_off,Táº¯t ngÆ°á»i hÃ¢m má»™ hiÃªn
+fan.pool,Change the status of the pool fan,toggle,Thay Ä‘á»•i tráº¡ng thÃ¡i cá»§a quáº¡t há»“ bÆ¡i
+fan.shed,Switch the shed fan on or off,toggle,Báº­t hoáº·c táº¯t quáº¡t
+fan.study,Activate the study fan,turn_on,KÃ­ch hoáº¡t quáº¡t nghiÃªn cá»©u
+fan.study,Alter the fan state in the study,toggle,Thay Ä‘á»•i tráº¡ng thÃ¡i quáº¡t trong nghiÃªn cá»©u
+fan.study,Ramp up the fan speed in the study,increase_speed,TÄƒng tá»‘c Ä‘á»™ quáº¡t trong nghiÃªn cá»©u
+fan.study,Reduce the fan speed in the study,decrease_speed,Giáº£m tá»‘c Ä‘á»™ quáº¡t trong nghiÃªn cá»©u
+fan.study,Switch off the study fan,turn_off,Táº¯t quáº¡t há»c
+fan.study,Switch on the study fan,turn_on,Báº­t quáº¡t há»c
+fan.study,Turn off the study fan,turn_off,Táº¯t quáº¡t há»c
+fan.study,Turn off the study fan,turn_off,Táº¯t quáº¡t há»c
+garage_door.basement,Please raise the basement garage door,open,Vui lÃ²ng nÃ¢ng cá»­a nhÃ  Ä‘á»ƒ xe táº§ng háº§m
+garage_door.bike_storage,Activate the bike storage garage,open,KÃ­ch hoáº¡t nhÃ  Ä‘á»ƒ xe lÆ°u trá»¯ xe Ä‘áº¡p
+garage_door.bike_storage,Deactivate the bike storage garage,close,VÃ´ hiá»‡u hÃ³a nhÃ  Ä‘á»ƒ xe lÆ°u trá»¯ xe Ä‘áº¡p
+garage_door.main,Close the main garage door,close,ÄÃ³ng cá»­a nhÃ  Ä‘á»ƒ xe chÃ­nh
+garage_door.main,Open the main garage door,open,Má»Ÿ cá»­a nhÃ  Ä‘á»ƒ xe chÃ­nh
+garage_door.main,Stop the main garage door,stop,Dá»«ng cá»­a nhÃ  Ä‘á»ƒ xe chÃ­nh
+garage_door.main,Toggle the main garage door,toggle,Chuyá»ƒn Ä‘á»•i cá»­a nhÃ  Ä‘á»ƒ xe chÃ­nh
+garage_door.one_car,Make sure the one car garage is closed,close,Äáº£m báº£o ráº±ng má»™t nhÃ  Ä‘á»ƒ xe Ä‘Æ°á»£c Ä‘Ã³ng láº¡i
+garage_door.side,Could you lift the side garage door,open,Báº¡n cÃ³ thá»ƒ nÃ¢ng cá»­a nhÃ  Ä‘á»ƒ xe bÃªn
+garage_door.side,Halt the side garage door,stop,Dá»«ng cá»­a nhÃ  Ä‘á»ƒ xe bÃªn
+garage_door.side,Lower the side garage door,close,Háº¡ cá»­a nhÃ  Ä‘á»ƒ xe bÃªn
+garage_door.side,Switch the state of the side garage door,toggle,Chuyá»ƒn Ä‘á»•i tráº¡ng thÃ¡i cá»§a cá»­a nhÃ  Ä‘á»ƒ xe bÃªn
+garage_door.two_car,Open the two car garage,open,Má»Ÿ hai gara Ã´ tÃ´
+light.attic,Change the light status in the attic,toggle,Thay Ä‘á»•i tráº¡ng thÃ¡i Ã¡nh sÃ¡ng trÃªn gÃ¡c mÃ¡i
+light.bathroom_1,Could you illuminate the bathroom,turn_on,Báº¡n cÃ³ thá»ƒ chiáº¿u sÃ¡ng phÃ²ng táº¯m
+light.bathroom_1,Please extinguish the bathroom light,turn_off,Vui lÃ²ng dáº­p táº¯t Ä‘Ã¨n phÃ²ng táº¯m
+light.bathroom,Activate the bathroom light,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n phÃ²ng táº¯m
+light.bathroom,Switch off the bathroom light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng táº¯m
+light.bathroom,Turn off the bathroom light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng táº¯m
+light.bathroom,Turn off the bathroom light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng táº¯m
+light.bathroom,Turn off the bathroom light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng táº¯m
+light.bedroom_1,Activate the bedroom light,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n phÃ²ng ngá»§
+light.bedroom_1,Deactivate the bedroom light,turn_off,VÃ´ hiá»‡u hÃ³a Ä‘Ã¨n phÃ²ng ngá»§
+light.bedroom_1,Toggle the bedroom light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n phÃ²ng ngá»§
+light.bedroom_2,Switch off the bedroom light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng ngá»§
+light.dining_room_1,Activate the lights in the dining room,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n trong phÃ²ng Äƒn
+light.dining_room,Activate the dining room light,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n phÃ²ng Äƒn
+light.dining_room,Switch off the dining room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng Äƒn
+light.dining_room,Switch off the dining room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng Äƒn
+light.dining_room,Switch off the dining room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng Äƒn
+light.dining_room,Switch off the dining room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng Äƒn
+light.dining_room,Turn off the dining room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng Äƒn
+light.dining_table_above,Please toggle the light above the dining table,toggle,Vui lÃ²ng chuyá»ƒn Ã¡nh sÃ¡ng phÃ­a trÃªn bÃ n Äƒn
+light.driveway,Flip the driveway light,toggle,Láº­t Ä‘Ã¨n lÃ¡i xe
+light.driveway,Turn on the driveway light,turn_on,Báº­t Ä‘Ã¨n lÃ¡i xe
+light.garage,Activate the garage light,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n nhÃ  Ä‘á»ƒ xe
+light.garage,Activate the garage light,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n nhÃ  Ä‘á»ƒ xe
+light.garage,Flip the light in the garage,toggle,Láº­t Ã¡nh sÃ¡ng trong nhÃ  Ä‘á»ƒ xe
+light.garage,Switch on the garage light,turn_on,Báº­t Ä‘Ã¨n nhÃ  Ä‘á»ƒ xe
+light.garage,Switch on the garage light,turn_on,Báº­t Ä‘Ã¨n nhÃ  Ä‘á»ƒ xe
+light.garden_1,Deactivate the garden light,turn_off,VÃ´ hiá»‡u hÃ³a Ã¡nh sÃ¡ng vÆ°á»n
+light.garden_1,Switch on the garden light,turn_on,Báº­t Ä‘Ã¨n vÆ°á»n
+light.garden_1,Turn on the garden light,turn_on,Báº­t Ä‘Ã¨n sÃ¢n vÆ°á»n
+light.garden_2,Activate the garden light,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n lÃ m vÆ°á»n
+light.garden,Switch on the garden light,turn_on,Báº­t Ä‘Ã¨n vÆ°á»n
+light.guest_room,Could you toggle the light in the guest room,toggle,Báº¡n cÃ³ thá»ƒ báº­t Ä‘Ã¨n trong phÃ²ng khÃ¡ch khÃ´ng
+light.guest_room,Deactivate the guest room light,turn_off,ÄÃ£ há»§y kÃ­ch hoáº¡t Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.guest_room,Switch off the guest room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.guest_room,Switch on the guest room light,turn_on,Báº­t Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.guest_room,Toggle the guest room light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.hallway,Switch off the hallway light,turn_off,Táº¯t Ä‘Ã¨n hÃ nh lang
+light.hallway,Switch the state of the light in the hallway,toggle,Chuyá»ƒn Ä‘á»•i tráº¡ng thÃ¡i cá»§a Ã¡nh sÃ¡ng á»Ÿ hÃ nh lang
+light.hallway,Toggle the hallway light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n hÃ nh lang
+light.hallway,Turn off the hallway light,turn_off,Táº¯t Ä‘Ã¨n hÃ nh lang
+light.hallway,Turn on the hallway light,turn_on,Báº­t Ä‘Ã¨n hÃ nh lang
+light.kitchen_1,Switch on the kitchen lights,turn_on,Báº­t Ä‘Ã¨n nhÃ  báº¿p
+light.kitchen_1,Toggle the kitchen light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n nhÃ  báº¿p
+light.kitchen_1,Turn on the kitchen light,turn_on,Báº­t Ä‘Ã¨n nhÃ  báº¿p
+light.kitchen_2,Switch off the kitchen light,turn_off,Táº¯t Ä‘Ã¨n nhÃ  báº¿p
+light.kitchen_2,Toggle the kitchen light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n nhÃ  báº¿p
+light.kitchen_counter,Switch off the kitchen counter light,turn_off,Táº¯t Ä‘Ã¨n quáº§y báº¿p
+light.kitchen_counter,Switch on the kitchen counter light,turn_on,Báº­t Ä‘Ã¨n quáº§y báº¿p
+light.living_room_1,Switch off the living room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.living_room,Turn off the living room light,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.living_room,Turn on the living room light,turn_on,Báº­t Ä‘Ã¨n phÃ²ng khÃ¡ch
+light.master_bedroom_1,Deactivate the master bedroom light,turn_off,VÃ´ hiá»‡u hÃ³a Ä‘Ã¨n phÃ²ng ngá»§ chÃ­nh
+light.master_bedroom_1,Please activate the master bedroom light,turn_on,Vui lÃ²ng kÃ­ch hoáº¡t Ä‘Ã¨n phÃ²ng ngá»§ chÃ­nh
+light.master_bedroom_lamp,Turn off the light in the bedroom,turn_off,Táº¯t Ä‘Ã¨n trong phÃ²ng ngá»§
+light.office_1,Enable the office light,turn_on,Báº­t Ä‘Ã¨n vÄƒn phÃ²ng
+light.office,Deactivate the office light,turn_off,VÃ´ hiá»‡u hÃ³a Ä‘Ã¨n vÄƒn phÃ²ng
+light.office,Toggle the office light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n vÄƒn phÃ²ng
+light.outdoor,Toggle the outdoor light,toggle,Chuyá»ƒn Ä‘á»•i Ã¡nh sÃ¡ng ngoÃ i trá»i
+light.patio,Deactivate the patio light,turn_off,VÃ´ hiá»‡u hÃ³a Ã¡nh sÃ¡ng hiÃªn
+light.patio,Disable the patio light,turn_off,Táº¯t Ä‘Ã¨n hiÃªn
+light.patio,Enable the patio light,turn_on,Báº­t Ä‘Ã¨n sÃ¢n
+light.patio,Switch on the patio light,turn_on,Báº­t Ä‘Ã¨n hiÃªn
+light.patio,Toggle the patio light,toggle,Chuyá»ƒn Ä‘á»•i Ã¡nh sÃ¡ng hiÃªn
+light.patio,Turn on the patio light,turn_on,Báº­t Ä‘Ã¨n sÃ¢n
+light.patio,Turn on the patio light,turn_on,Báº­t Ä‘Ã¨n sÃ¢n
+light.pool,Activate the pool light,turn_on,KÃ­ch hoáº¡t Ã¡nh sÃ¡ng há»“ bÆ¡i
+light.pool,Change the status of the pool light,toggle,Thay Ä‘á»•i tráº¡ng thÃ¡i cá»§a Ã¡nh sÃ¡ng há»“ bÆ¡i
+light.pool,Turn off the pool light,turn_off,Táº¯t Ä‘Ã¨n há»“ bÆ¡i
+light.pool,Turn on the pool light,turn_on,Báº­t Ä‘Ã¨n há»“ bÆ¡i
+light.shed,Activate the shed light,turn_on,KÃ­ch hoáº¡t Ã¡nh sÃ¡ng
+light.shed,Activate the shed light,turn_on,KÃ­ch hoáº¡t Ã¡nh sÃ¡ng
+light.shed,Switch on the shed light,turn_on,Báº­t Ä‘Ã¨n chiáº¿u sÃ¡ng
+light.shed,Switch the shed light on or off,toggle,Báº­t hoáº·c táº¯t Ä‘Ã¨n
+light.study,Activate the study light,turn_on,KÃ­ch hoáº¡t Ã¡nh sÃ¡ng nghiÃªn cá»©u
+light.study,Alter the light state in the study,toggle,Thay Ä‘á»•i tráº¡ng thÃ¡i Ã¡nh sÃ¡ng trong nghiÃªn cá»©u
+light.study,Toggle the study light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n há»c táº­p
+light.study,Toggle the study light,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n há»c táº­p
+light.study,Turn off the study light,turn_off,Táº¯t Ä‘Ã¨n há»c táº­p
+light.study,Turn off the study light,turn_off,Táº¯t Ä‘Ã¨n há»c táº­p
+light.dining_room_chandelier,Turn on the dining room light,turn_on,Báº­t Ä‘Ã¨n phÃ²ng Äƒn
+light.chandelier_front_hallway,Hey can you turn on the front hallway chandelier,turn_on,"NÃ y, báº¡n cÃ³ thá»ƒ báº­t Ä‘Ã¨n chÃ¹m hÃ nh lang phÃ­a trÆ°á»›c khÃ´ng"
+lock.back_door,Could you disengage the back door lock,unlock,Báº¡n cÃ³ thá»ƒ tháº£nh thÆ¡i khÃ³a cá»­a sau khÃ´ng
+lock.back_door,Engage the back door lock,lock,Tham gia khÃ³a cá»­a sau
+lock.bike_storage,Disengage the lock on the bike storage,unlock,Giáº£i phÃ³ng khÃ³a trÃªn bá»™ lÆ°u trá»¯ xe Ä‘áº¡p
+lock.front_door,Lock the front door,lock,KhÃ³a cá»­a trÆ°á»›c
+lock.front_door,Unlock the front door,unlock,Má»Ÿ khÃ³a cá»­a trÆ°á»›c
+lock.nursery,Can you secure the nursery door,lock,Báº¡n cÃ³ thá»ƒ báº£o Ä‘áº£m cá»­a nhÃ  tráº» khÃ´ng
+lock.office,Please lock the office,lock,Vui lÃ²ng khÃ³a vÄƒn phÃ²ng
+lock.office,Please unlock the office,unlock,Vui lÃ²ng má»Ÿ khÃ³a vÄƒn phÃ²ng
+lock.tool_shed,Unlock the tool shed,unlock,Má»Ÿ khÃ³a cÃ´ng cá»¥ Ä‘á»•
+lock.wine_cellar,Could you lock the wine cellar,lock,Báº¡n cÃ³ thá»ƒ khÃ³a háº§m rÆ°á»£u
+lock.front_door,Please lock the front door.,lock,Vui lÃ²ng khÃ³a cá»­a trÆ°á»›c.
+lock.back_door,Can you unlock the back door?,unlock,Báº¡n cÃ³ thá»ƒ má»Ÿ khÃ³a cá»­a sau khÃ´ng?
+lock.garage_door,I need the garage door locked.,lock,TÃ´i cáº§n cá»­a nhÃ  Ä‘á»ƒ xe bá»‹ khÃ³a.
+lock.patio_door,"Unlock the patio door, please.",unlock,Vui lÃ²ng má»Ÿ khÃ³a cá»­a hiÃªn.
+lock.main_gate,Ensure the main gate is locked.,lock,Äáº£m báº£o cá»•ng chÃ­nh bá»‹ khÃ³a.
+lock.kitchen_window,Open the lock on the kitchen window.,unlock,Má»Ÿ khÃ³a trÃªn cá»­a sá»• nhÃ  báº¿p.
+lock.office_door,Can we lock the office door?,lock,ChÃºng tÃ´i cÃ³ thá»ƒ khÃ³a cá»­a vÄƒn phÃ²ng khÃ´ng?
+lock.bedroom_window,Bedroom window needs to be unlocked.,unlock,Cá»­a sá»• phÃ²ng ngá»§ cáº§n Ä‘Æ°á»£c má»Ÿ khÃ³a.
+lock.basement_door,Lock up the basement door.,lock,KhÃ³a cá»­a táº§ng háº§m.
+lock.bathroom_window,Could you unlock the bathroom window?,unlock,Báº¡n cÃ³ thá»ƒ má»Ÿ khÃ³a cá»­a sá»• phÃ²ng táº¯m khÃ´ng?
+lock.garden_gate,Please secure the garden gate.,lock,Vui lÃ²ng báº£o vá»‡ cá»•ng vÆ°á»n.
+lock.rooftop_door,Open the rooftop door lock.,unlock,Má»Ÿ khÃ³a cá»­a trÃªn sÃ¢n thÆ°á»£ng.
+lock.cellar_door,Cellar door should be locked now.,lock,Cá»­a háº§m nÃªn Ä‘Æ°á»£c khÃ³a ngay bÃ¢y giá».
+lock.pool_gate,I'd like the pool gate unlocked.,unlock,TÃ´i muá»‘n má»Ÿ khÃ³a cá»•ng há»“ bÆ¡i.
+lock.shed_door,Ensure the shed door is securely locked.,lock,Äáº£m báº£o cá»­a Ä‘á»• Ä‘Æ°á»£c khÃ³a an toÃ n.
+lock.balcony_door,Unlock the balcony door for me.,unlock,Má»Ÿ khÃ³a cá»­a ban cÃ´ng cho tÃ´i.
+lock.laundry_room_door,Can you lock the laundry room door?,lock,Báº¡n cÃ³ thá»ƒ khÃ³a cá»­a phÃ²ng giáº·t khÃ´ng?
+lock.nursery_door,The nursery door needs to be unlocked.,unlock,Cá»­a máº«u giÃ¡o cáº§n Ä‘Æ°á»£c má»Ÿ khÃ³a.
+lock.guest_room_door,Please lock the guest room door.,lock,Vui lÃ²ng khÃ³a cá»­a phÃ²ng khÃ¡ch.
+lock.side_entrance,Unlock our side entrance.,unlock,Má»Ÿ khÃ³a lá»‘i vÃ o bÃªn cá»§a chÃºng tÃ´i.
+lock.fence_gate,Make sure the fence gate is locked.,lock,HÃ£y cháº¯c cháº¯n ráº±ng cá»•ng hÃ ng rÃ o bá»‹ khÃ³a.
+lock.garage_side_door,Garage side door should be unlocked.,unlock,Cá»­a bÃªn nhÃ  Ä‘á»ƒ xe nÃªn Ä‘Æ°á»£c má»Ÿ khÃ³a.
+lock.attic_door,Attic door needs locking.,lock,Cá»­a gÃ¡c mÃ¡i cáº§n khÃ³a.
+lock.fire_escape,Can you unlock the fire escape?,unlock,Báº¡n cÃ³ thá»ƒ má»Ÿ khÃ³a lá»‘i thoÃ¡t lá»­a khÃ´ng?
+lock.storage_room_door,Please lock the storage room door.,lock,Vui lÃ²ng khÃ³a cá»­a phÃ²ng lÆ°u trá»¯.
+lock.boathouse_door,Unlock the boathouse door.,unlock,Má»Ÿ khÃ³a cá»­a Boathouse.
+lock.carport_gate,Carport gate needs to be locked.,lock,Cá»•ng xe cáº§n pháº£i bá»‹ khÃ³a.
+lock.backyard_gate,Can we have the backyard gate unlocked?,unlock,ChÃºng ta cÃ³ thá»ƒ má»Ÿ khÃ³a cá»•ng sÃ¢n sau khÃ´ng?
+lock.front_porch_door,Lock the front porch door.,lock,KhÃ³a cá»­a hiÃªn trÆ°á»›c.
+lock.back_terrace_door,Open the lock on the back terrace door.,unlock,Má»Ÿ khÃ³a trÃªn cá»­a sÃ¢n thÆ°á»£ng phÃ­a sau.
+lock.wine_cellar,Ensure the wine cellar is locked.,lock,Äáº£m báº£o háº§m rÆ°á»£u Ä‘Æ°á»£c khÃ³a.
+lock.sunroom_door,Please unlock the sunroom door.,unlock,Vui lÃ²ng má»Ÿ khÃ³a cá»­a phÃ²ng táº¯m náº¯ng.
+lock.home_office,I'd like the home office locked up.,lock,TÃ´i muá»‘n vÄƒn phÃ²ng táº¡i nhÃ  bá»‹ khÃ³a.
+lock.playroom_door,Can you unlock the playroom door?,unlock,Báº¡n cÃ³ thá»ƒ má»Ÿ khÃ³a cá»­a phÃ²ng chÆ¡i khÃ´ng?
+lock.art_studio,The art studio should be locked.,lock,CÃ¡c studio nghá»‡ thuáº­t nÃªn Ä‘Æ°á»£c khÃ³a.
+lock.music_room,"Unlock the music room, please.",unlock,Vui lÃ²ng má»Ÿ khÃ³a phÃ²ng Ã¢m nháº¡c.
+lock.home_gym,Lock the home gym door.,lock,KhÃ³a cá»­a phÃ²ng táº­p thá»ƒ dá»¥c táº¡i nhÃ .
+lock.cinema_room,Cinema room needs to be unlocked.,unlock,PhÃ²ng Ä‘iá»‡n áº£nh cáº§n Ä‘Æ°á»£c má»Ÿ khÃ³a.
+lock.library_door,Please lock the library door.,lock,Vui lÃ²ng khÃ³a cá»­a thÆ° viá»‡n.
+lock.conservatory,Can the conservatory be unlocked?,unlock,Nháº¡c viá»‡n cÃ³ thá»ƒ Ä‘Æ°á»£c má»Ÿ khÃ³a khÃ´ng?
+media_player.kitchen,Could you start the media in the kitchen,turn_on,Báº¡n cÃ³ thá»ƒ báº¯t Ä‘áº§u cÃ¡c phÆ°Æ¡ng tiá»‡n truyá»n thÃ´ng trong báº¿p khÃ´ng
+media_player.kitchen,Play the previous track in the kitchen,media_previous_track,ChÆ¡i bÃ i hÃ¡t trÆ°á»›c trong nhÃ  báº¿p
+media_player.kitchen,Please raise the volume in the kitchen,volume_up,Vui lÃ²ng nÃ¢ng khá»‘i lÆ°á»£ng trong nhÃ  báº¿p
+media_player.living_room,Activate the media in the living room,turn_on,KÃ­ch hoáº¡t phÆ°Æ¡ng tiá»‡n truyá»n thÃ´ng trong phÃ²ng khÃ¡ch
+media_player.living_room,Mute the media player in the living room,volume_mute,Táº¯t tiáº¿ng ngÆ°á»i chÆ¡i truyá»n thÃ´ng trong phÃ²ng khÃ¡ch
+media_player.living_room,Skip to the next track in the living room,media_next_track,Bá» qua Ä‘Æ°á»ng Ä‘ua tiáº¿p theo trong phÃ²ng khÃ¡ch
+media_player.living_room,Turn up the volume in the living room,volume_up,Báº­t Ã¢m lÆ°á»£ng trong phÃ²ng khÃ¡ch
+media_player.master_bedroom,Can you increase the volume on the master bedroom media player,volume_up,Báº¡n cÃ³ thá»ƒ tÄƒng Ã¢m lÆ°á»£ng trÃªn trÃ¬nh phÃ¡t phÆ°Æ¡ng tiá»‡n phÃ²ng ngá»§ chÃ­nh khÃ´ng
+media_player.master_bedroom,Pause the media in the master bedroom,media_pause,Táº¡m dá»«ng phÆ°Æ¡ng tiá»‡n truyá»n thÃ´ng trong phÃ²ng ngá»§ chÃ­nh
+media_player.master_bedroom,Turn on the master bedroom media player,turn_on,Báº­t trÃ¬nh phÃ¡t phÆ°Æ¡ng tiá»‡n phÃ²ng ngá»§ chÃ­nh
+media_player.nursery,Please play the media in the nursery,media_play,Vui lÃ²ng chÆ¡i cÃ¡c phÆ°Æ¡ng tiá»‡n truyá»n thÃ´ng trong vÆ°á»n Æ°Æ¡m
+media_player.nursery,Stop the media in the nursery,media_stop,Dá»«ng cÃ¡c phÆ°Æ¡ng tiá»‡n truyá»n thÃ´ng trong vÆ°á»n Æ°Æ¡m
+media_player.nursery,Turn down the volume in the nursery,volume_down,Tá»« chá»‘i Ã¢m lÆ°á»£ng trong vÆ°á»n Æ°Æ¡m
+media_player.office,Can you decrease the volume in the office,volume_down,Báº¡n cÃ³ thá»ƒ giáº£m Ã¢m lÆ°á»£ng trong vÄƒn phÃ²ng khÃ´ng
+media_player.living_room_tv,Please turn on the living room TV.,turn_on,Vui lÃ²ng báº­t TV phÃ²ng khÃ¡ch.
+media_player.kitchen_radio,Switch off the kitchen radio.,turn_off,Táº¯t radio nhÃ  báº¿p.
+media_player.bedroom_speaker,Can you increase the volume in the bedroom?,volume_up,Báº¡n cÃ³ thá»ƒ tÄƒng khá»‘i lÆ°á»£ng trong phÃ²ng ngá»§ khÃ´ng?
+media_player.office_sound_system,Lower the volume in the office.,volume_down,Háº¡ khá»‘i lÆ°á»£ng trong vÄƒn phÃ²ng.
+media_player.garage_stereo,Mute the stereo in the garage.,volume_mute,Táº¯t tiáº¿ng Ã¢m thanh ná»•i trong nhÃ  Ä‘á»ƒ xe.
+media_player.patio_speaker,Start playing music on the patio speaker.,media_play,Báº¯t Ä‘áº§u chÆ¡i nháº¡c trÃªn loa hiÃªn.
+media_player.bathroom_audio,Pause the bathroom audio.,media_pause,Táº¡m dá»«ng Ã¢m thanh phÃ²ng táº¯m.
+media_player.guest_room_media,Stop the guest room media player.,media_stop,Dá»«ng ngÆ°á»i chÆ¡i phÆ°Æ¡ng tiá»‡n phÃ²ng khÃ¡ch.
+media_player.basement_home_theater,Skip to the next track in the basement.,media_next_track,Bá» qua Ä‘Æ°á»ng Ä‘ua tiáº¿p theo trong táº§ng háº§m.
+media_player.nursery_lullaby,Go back to the previous lullaby in the nursery.,media_previous_track,Quay trá»Ÿ láº¡i nhá»¯ng bÃ i hÃ¡t ru trÆ°á»›c Ä‘Ã³ trong vÆ°á»n Æ°Æ¡m.
+media_player.deck_music_system,Turn on the deck's music system.,turn_on,Báº­t há»‡ thá»‘ng Ã¢m nháº¡c cá»§a bá»™ bÃ i.
+media_player.lounge_entertainment,Switch off the lounge entertainment center.,turn_off,Táº¯t Trung tÃ¢m giáº£i trÃ­ phÃ²ng chá».
+media_player.dining_area_jukebox,Increase the jukebox volume in the dining area.,volume_up,TÄƒng khá»‘i lÆ°á»£ng mÃ¡y tá»± Ä‘á»™ng trong khu vá»±c Äƒn uá»‘ng.
+media_player.game_room_speakers,Turn down the game room speakers.,volume_down,Bá» qua loa phÃ²ng trÃ² chÆ¡i.
+media_player.library_soundbar,Mute the soundbar in the library.,volume_mute,Táº¯t tiáº¿ng soundbar trong thÆ° viá»‡n.
+media_player.sunroom_stereo,Play the stereo in the sunroom.,media_play,ChÆ¡i Ã¢m thanh ná»•i trong phÃ²ng táº¯m náº¯ng.
+media_player.loft_tv,Pause the TV in the loft.,media_pause,Táº¡m dá»«ng TV trÃªn gÃ¡c xÃ©p.
+media_player.poolside_media,Stop the poolside media system.,media_stop,Dá»«ng há»‡ thá»‘ng truyá»n thÃ´ng bÃªn há»“ bÆ¡i.
+media_player.gym_music_player,Skip to the next song in the gym.,media_next_track,Bá» qua bÃ i hÃ¡t tiáº¿p theo trong phÃ²ng táº­p thá»ƒ dá»¥c.
+media_player.study_room_radio,Go back to the previous station in the study room.,media_previous_track,Quay trá»Ÿ láº¡i nhÃ  ga trÆ°á»›c trong phÃ²ng há»c.
+media_player.backyard_speakers,Turn on the backyard speakers.,turn_on,Báº­t loa sÃ¢n sau.
+media_player.entryway_echo,Turn off the Echo in the entryway.,turn_off,Táº¯t Echo á»Ÿ lá»‘i vÃ o.
+media_player.rooftop_deck_audio,Raise the rooftop audio volume.,volume_up,TÄƒng Ã¢m lÆ°á»£ng Ã¢m thanh trÃªn mÃ¡i nhÃ .
+media_player.workshop_sound_system,Lower the sound system volume in the workshop.,volume_down,Háº¡ Ã¢m lÆ°á»£ng há»‡ thá»‘ng Ã¢m thanh trong há»™i tháº£o.
+media_player.art_studio_player,Mute the media player in the art studio.,volume_mute,Mute The Media Player in the Art Studio.
+media_player.kids_room_storyteller,Start the storyteller in the kids' room.,media_play,Báº¯t Ä‘áº§u ngÆ°á»i ká»ƒ chuyá»‡n trong phÃ²ng tráº» em.
+media_player.laundry_room_radio,Pause the radio in the laundry room.,media_pause,Táº¡m dá»«ng radio trong phÃ²ng giáº·t.
+media_player.balcony_speakers,Stop the balcony speakers.,media_stop,Dá»«ng loa ban cÃ´ng.
+media_player.yoga_room_music,Next track for the yoga room music.,media_next_track,Ca khÃºc tiáº¿p theo cho nháº¡c phÃ²ng yoga.
+media_player.conservatory_cd_player,Previous track on the conservatory CD player.,media_previous_track,Theo dÃµi trÆ°á»›c Ä‘Ã¢y vá» trÃ¬nh phÃ¡t CD Nháº¡c viá»‡n.
+media_player.foyer_sound_system,Power on the foyer sound system.,turn_on,Sá»©c máº¡nh trÃªn há»‡ thá»‘ng Ã¢m thanh sáº£nh.
+media_player.wine_cellar_speakers,Power off the speakers in the wine cellar.,turn_off,Sá»©c máº¡nh tá»« cÃ¡c loa trong háº§m rÆ°á»£u.
+media_player.greenhouse_radio,Increase the greenhouse radio volume.,volume_up,TÄƒng khá»‘i lÆ°á»£ng radio nhÃ  kÃ­nh.
+media_player.attic_audio_system,Decrease attic audio system volume.,volume_down,Giáº£m khá»‘i lÆ°á»£ng há»‡ thá»‘ng Ã¢m thanh Attic.
+media_player.boathouse_stereo,Mute the stereo in the boathouse.,volume_mute,Táº¯t tiáº¿ng Ã¢m thanh ná»•i trong Boathouse.
+media_player.cellar_jukebox,Play the jukebox in the cellar.,media_play,ChÆ¡i mÃ¡y tá»± Ä‘á»™ng trong háº§m.
+media_player.corridor_intercom,Pause the corridor intercom.,media_pause,Táº¡m dá»«ng liÃªn láº¡c hÃ nh lang.
+media_player.porch_sound_system,Stop the porch sound system.,media_stop,Dá»«ng há»‡ thá»‘ng hiÃªn nhÃ .
+media_player.garden_music,Next track for the garden music.,media_next_track,Ca khÃºc tiáº¿p theo cho Ã¢m nháº¡c vÆ°á»n.
+media_player.driveway_speakers,Previous track on the driveway speakers.,media_previous_track,Theo dÃµi trÆ°á»›c trÃªn loa Ä‘Æ°á»ng lÃ¡i xe.
+media_player.hallway_audio,Switch on the hallway audio system.,turn_on,Báº­t há»‡ thá»‘ng Ã¢m thanh hÃ nh lang.
+media_player.mudroom_media_player,Switch off the mudroom media player.,turn_off,Táº¯t mÃ¡y nghe phÆ°Æ¡ng tiá»‡n Mudroom.
+media_player.utility_room_radio,Turn up the utility room radio.,volume_up,Báº­t radio phÃ²ng tiá»‡n Ã­ch.
+media_player.shed_sound_system,Turn down the shed sound system.,volume_down,Bá» xuá»‘ng há»‡ thá»‘ng Ã¢m thanh.
+media_player.treehouse_speakers,Mute the treehouse speakers.,volume_mute,Táº¯t tiáº¿ng loa nhÃ  trÃªn cÃ¢y.
+switch.philips_hue_living_room,Turn on the living room lights.,turn_on,Báº­t Ä‘Ã¨n phÃ²ng khÃ¡ch.
+switch.belkin_wemo_garage,Turn off the garage switch.,turn_off,Táº¯t cÃ´ng táº¯c nhÃ  Ä‘á»ƒ xe.
+switch.tp_link_kasa_porch,Toggle the porch lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n hiÃªn nhÃ .
+switch.legrand_radiant_kitchen,Turn on the kitchen lights.,turn_on,Báº­t Ä‘Ã¨n báº¿p.
+switch.lutron_caseta_bedroom,Turn off the bedroom lights.,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng ngá»§.
+switch.ge_z_wave_bathroom,Turn on the bathroom fan.,turn_on,Báº­t quáº¡t phÃ²ng táº¯m.
+switch.honeywell_home_office,Toggle the office lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n vÄƒn phÃ²ng.
+switch.samsung_smartthings_security,Turn off the security system.,turn_off,Táº¯t há»‡ thá»‘ng báº£o máº­t.
+switch.eve_energy_balcony,Turn on the balcony lighting.,turn_on,Báº­t Ã¡nh sÃ¡ng ban cÃ´ng.
+switch.fibaro_pool,Turn off the pool lights.,turn_off,Táº¯t Ä‘Ã¨n há»“ bÆ¡i.
+switch.nest_thermostat_terrace,Turn on the terrace thermostat.,turn_on,Báº­t bá»™ Ä‘iá»u chá»‰nh nhiá»‡t sÃ¢n thÆ°á»£ng.
+switch.ecobee_garden,Turn off the garden lights.,turn_off,Táº¯t Ä‘Ã¨n vÆ°á»n.
+switch.sonoff_dining_room,Toggle the dining room lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n phÃ²ng Äƒn.
+switch.wink_relay_driveway,Turn on the driveway lights.,turn_on,Báº­t Ä‘Ã¨n lÃ¡i xe.
+switch.insteon_patio,Turn off the patio lights.,turn_off,Táº¯t Ä‘Ã¨n sÃ¢n trong.
+switch.sengled_deck,Turn on the deck lighting.,turn_on,Báº­t Ä‘Ã¨n chiáº¿u sÃ¡ng.
+switch.osram_hallway,Toggle the hallway lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n hÃ nh lang.
+switch.yeelight_sunroom,Turn off the sunroom lights.,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng táº¯m náº¯ng.
+switch.gosund_attic,Turn on the attic light switch.,turn_on,Báº­t cÃ´ng táº¯c Ä‘Ã¨n gÃ¡c mÃ¡i.
+switch.meross_walkway,Turn off the walkway lighting.,turn_off,Táº¯t Ä‘Ã¨n Ä‘i bá»™.
+switch.koogeek_basement,Toggle the basement lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n táº§ng háº§m.
+switch.nanoleaf_stairway,Turn on the stairway lights.,turn_on,Báº­t Ä‘Ã¨n cáº§u thang.
+switch.xiaomi_bedside,Turn off the bedside lamp.,turn_off,Táº¯t Ä‘Ã¨n ngá»§.
+switch.arlo_floodlights,Toggle the security floodlights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n pha báº£o máº­t.
+switch.wyze_study,Turn on the study room lights.,turn_on,Báº­t Ä‘Ã¨n phÃ²ng há»c.
+switch.ikea_guest_room,Turn off the guest room lights.,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng khÃ¡ch.
+switch.netatmo_front_yard,Turn on the front yard lighting.,turn_on,Báº­t Ã¡nh sÃ¡ng sÃ¢n trÆ°á»›c.
+switch.tuya_shed,Turn off the shed light switch.,turn_off,Táº¯t cÃ´ng táº¯c Ä‘Ã¨n chiáº¿u sÃ¡ng.
+switch.broadlink_kitchenette,Toggle the kitchenette lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n báº¿p.
+switch.moeshouse_gym,Turn on the gym lighting.,turn_on,Báº­t Ä‘Ã¨n táº­p thá»ƒ dá»¥c.
+switch.hue_bedroom_2,Turn off the second bedroom lights.,turn_off,Táº¯t Ä‘Ã¨n phÃ²ng ngá»§ thá»© hai.
+switch.wemo_laundry_room,Turn on the laundry room lights.,turn_on,Báº­t Ä‘Ã¨n phÃ²ng giáº·t.
+switch.kasa_living_room,Toggle the living room lights.,toggle,Chuyá»ƒn Ä‘á»•i Ä‘Ã¨n phÃ²ng khÃ¡ch.
+switch.radiant_office,Turn off the office lights.,turn_off,Táº¯t Ä‘Ã¨n vÄƒn phÃ²ng.
+switch.caseta_hallway_2,Turn on the second hallway lights.,turn_on,Báº­t Ä‘Ã¨n hÃ nh lang thá»© hai.
+switch.z_wave_guest_bathroom,Turn off the guest bathroom fan.,turn_off,Táº¯t quáº¡t phÃ²ng táº¯m cá»§a khÃ¡ch.
+switch.home_office_dimmer,Toggle the home office dimmer.,toggle,Chuyá»ƒn Ä‘á»•i bá»™ lÃ m má» vÄƒn phÃ²ng táº¡i nhÃ .
+switch.security_camera_light,Turn on the security camera light.,turn_on,Báº­t Ä‘Ã¨n camera an ninh.
+switch.patio_heater_switch,Turn off the patio heater.,turn_off,Táº¯t lÃ² sÆ°á»Ÿi hiÃªn.
+switch.kitchen_under_cabinet,Toggle the kitchen under cabinet lights.,toggle,Chuyá»ƒn Ä‘á»•i nhÃ  báº¿p dÆ°á»›i Ä‘Ã¨n tá»§.
+switch.hallway_dimmer,Could you dim the hallway lights?,turn_on,Báº¡n cÃ³ thá»ƒ lÃ m má» Ä‘Ã¨n hÃ nh lang khÃ´ng?
+switch.kitchen_fan,Please turn off the kitchen fan.,turn_off,Vui lÃ²ng táº¯t quáº¡t nhÃ  báº¿p.
+switch.garden_spotlights,Activate the garden spotlights.,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n sÃ¢n vÆ°á»n.
+switch.poolside_lanterns,Deactivate the poolside lanterns.,turn_off,VÃ´ hiá»‡u hÃ³a Ä‘Ã¨n lá»“ng bÃªn há»“ bÆ¡i.
+switch.front_porch_sensor,Engage the front porch sensor light.,turn_on,Tham gia Ã¡nh sÃ¡ng cáº£m biáº¿n hiÃªn trÆ°á»›c.
+switch.backyard_floodlight,Can you shut off the backyard floodlight?,turn_off,Báº¡n cÃ³ thá»ƒ táº¯t Ä‘Ã¨n pha sÃ¢n sau khÃ´ng?
+switch.staircase_light_strip,Could you light up the staircase light strip?,turn_on,Báº¡n cÃ³ thá»ƒ tháº¯p sÃ¡ng dáº£i Ã¡nh sÃ¡ng cáº§u thang khÃ´ng?
+switch.laundry_area,Please switch off the laundry area lights.,turn_off,Vui lÃ²ng táº¯t Ä‘Ã¨n khu vá»±c giáº·t.
+switch.office_desk_lamp,Illuminate the desk lamp in my office.,turn_on,Chiáº¿u sÃ¡ng Ä‘Ã¨n bÃ n trong vÄƒn phÃ²ng cá»§a tÃ´i.
+switch.basement_sconces,Can we turn down the basement sconces?,turn_off,ChÃºng ta cÃ³ thá»ƒ tá»« chá»‘i cÃ¡c táº§ng háº§m khÃ´ng?
+switch.library_ceiling,Engage the ceiling lights in the library.,turn_on,Tham gia Ä‘Ã¨n tráº§n trong thÆ° viá»‡n.
+switch.sunroom_blinds,"I'd like the sunroom blinds closed, please.",turn_off,"TÃ´i muá»‘n rÃ¨m phÃ²ng táº¯m náº¯ng, xin vui lÃ²ng."
+switch.guest_bathroom,"Light up the guest bathroom, please.",turn_on,Vui lÃ²ng tháº¯p sÃ¡ng phÃ²ng táº¯m cá»§a khÃ¡ch.
+switch.patio_string_lights,Switch off the string lights on the patio.,turn_off,Táº¯t Ä‘Ã¨n dÃ¢y trÃªn hiÃªn.
+switch.kitchen_island,Disable the kitchen island lights.,turn_off,Táº¯t Ä‘Ã¨n Ä‘áº£o báº¿p.
+switch.entryway_chandelier,Illuminate the entryway chandelier.,turn_on,Chiáº¿u sÃ¡ng Ä‘Ã¨n chÃ¹m lá»‘i vÃ o.
+switch.garage_worklight,Can we power down the garage worklight?,turn_off,ChÃºng ta cÃ³ thá»ƒ cung cáº¥p nÄƒng lÆ°á»£ng cho Ä‘Ã¨n lÃ m viá»‡c nhÃ  Ä‘á»ƒ xe khÃ´ng?
+switch.bedroom_track_lighting,Brighten the bedroom track lighting.,turn_on,LÃ m sÃ¡ng Ã¡nh sÃ¡ng theo dÃµi phÃ²ng ngá»§.
+switch.home_cinema,Please turn off the home cinema lights.,turn_off,Vui lÃ²ng táº¯t Ä‘Ã¨n ráº¡p chiáº¿u phim gia Ä‘Ã¬nh.
+switch.balcony_mood_lighting,Activate the mood lighting on the balcony.,turn_on,KÃ­ch hoáº¡t Ã¡nh sÃ¡ng tÃ¢m tráº¡ng trÃªn ban cÃ´ng.
+switch.dining_room_dimmer,Set the dining room lights to off.,turn_off,Äáº·t Ä‘Ã¨n phÃ²ng Äƒn Ä‘á»ƒ táº¯t.
+switch.playroom_nightlight,Can you turn on the playroom nightlight?,turn_on,Báº¡n cÃ³ thá»ƒ báº­t Ä‘Ã¨n ngá»§ phÃ²ng chÆ¡i khÃ´ng?
+switch.art_studio_spots,Please disable the art studio spotlights.,turn_off,Vui lÃ²ng vÃ´ hiá»‡u hÃ³a cÃ¡c phÃ²ng thu nghá»‡ thuáº­t.
+switch.foyer_wall_sconce,Light up the foyer wall sconce.,turn_on,Tháº¯p sÃ¡ng cÃ¡c bá»©c tÆ°á»ng sáº£nh.
+switch.back_entry,Shut down the back entry lights.,turn_off,Táº¯t Ä‘Ã¨n sau.
+switch.corridor_track,Brighten up the corridor track lights.,turn_on,LÃ m sÃ¡ng lÃªn cÃ¡c Ä‘Ã¨n theo dÃµi hÃ nh lang.
+switch.veranda_fairy_lights,"Switch off the veranda fairy lights, please.",turn_off,Xin vui lÃ²ng táº¯t Ä‘Ã¨n Fairy Fairy.
+switch.master_suite,Set the master suite to nighttime mode.,turn_on,Äáº·t bá»™ tá»•ng thá»ƒ thÃ nh cháº¿ Ä‘á»™ ban Ä‘Ãªm.
+switch.walk_in_closet,Disable the walk-in closet lights.,turn_off,Táº¯t Ä‘Ã¨n tá»§ quáº§n Ã¡o khÃ´ng cá»­a.
+switch.roof_deck,Engage the roof deck lighting.,turn_on,Tham gia Ã¡nh sÃ¡ng sÃ n mÃ¡i.
+switch.bathroom_mirror,Can you turn off the bathroom mirror light?,turn_off,Báº¡n cÃ³ thá»ƒ táº¯t Ä‘Ã¨n gÆ°Æ¡ng phÃ²ng táº¯m khÃ´ng?
+switch.storage_room,Please power down the storage room lights.,turn_off,Vui lÃ²ng cung cáº¥p nÄƒng lÆ°á»£ng cho Ä‘Ã¨n phÃ²ng lÆ°u trá»¯.
+switch.wine_cellar,Illuminate the wine cellar.,turn_on,Chiáº¿u sÃ¡ng háº§m rÆ°á»£u.
+switch.conservation_area,Deactivate the conservation area lighting.,turn_off,VÃ´ hiá»‡u hÃ³a Ã¡nh sÃ¡ng khu vá»±c báº£o tá»“n.
+switch.gym_ceiling,Light up the gym ceiling lights.,turn_on,Tháº¯p sÃ¡ng Ä‘Ã¨n tráº§n phÃ²ng táº­p thá»ƒ dá»¥c.
+switch.hobby_room,Could we turn off the hobby room lights?,turn_off,ChÃºng ta cÃ³ thá»ƒ táº¯t Ä‘Ã¨n phÃ²ng sá»Ÿ thÃ­ch khÃ´ng?
+switch.front_lawn,Activate the front lawn spotlights.,turn_on,KÃ­ch hoáº¡t Ä‘Ã¨n chiáº¿u sÃ¡ng phÃ­a trÆ°á»›c.
+switch.rear_terrace,Can you dim the lights on the rear terrace?,turn_off,Báº¡n cÃ³ thá»ƒ lÃ m má» Ä‘Ã¨n trÃªn sÃ¢n thÆ°á»£ng phÃ­a sau khÃ´ng?
