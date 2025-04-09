@@ -38,8 +38,8 @@ fan.dining_area,Please switch off the dining area fan,turn_off,Vui lòng tắt q
 fan.dining_area,Please switch on the dining area fan,turn_on,Vui lòng bật quạt khu vực ăn uống
 fan.dining_room,Switch off the dining room fan,turn_off,Tắt quạt phòng ăn
 fan.dining_table_above,Please toggle the fan above the dining table,toggle,Vui lòng chuyển quạt phía trên bàn ăn
-fan.driveway,Flip the driveway fan,toggle,Lật quạt đường lái xe
-fan.garage,Flip the fan in the garage,toggle,Lật quạt trong nhà để xe
+fan.driveway,Flip the driveway fan,toggle,Đảo quạt đường lái xe
+fan.garage,Flip the fan in the garage,toggle,Đảo quạt trong nhà để xe
 fan.garage,Shut down the garage fan,turn_off,Tắt máy quạt nhà để xe
 fan.garage,Switch off the garage fan,turn_off,Tắt quạt nhà để xe
 fan.garage,Switch off the garage fan,turn_off,Tắt quạt nhà để xe
@@ -60,12 +60,12 @@ fan.kitchen,Slow down the kitchen fan,decrease_speed,Làm chậm quạt nhà b�
 fan.kitchen,Switch off the kitchen fan,turn_off,Tắt quạt nhà bếp
 fan.kitchen,Switch off the kitchen fan,turn_off,Tắt quạt nhà bếp
 fan.kitchen,Toggle the kitchen fan,toggle,Chuyển đổi quạt nhà bếp
-fan.kitchen,Turn down the kitchen fan,decrease_speed,Lật quạt nhà bếp
+fan.kitchen,Turn down the kitchen fan,decrease_speed,Đảo quạt nhà bếp
 fan.living_room,Decrease the speed of the living room fan,decrease_speed,Giảm tốc độ của quạt phòng khách
 fan.living_room,Increase the speed of the living room fan,increase_speed,Tăng tốc độ của quạt phòng khách
 fan.living_room,Start the living room fan,turn_on,Bắt đầu quạt phòng khách
 fan.living_room,Toggle the fan in the living room,toggle,Chuyển đổi quạt trong phòng khách
-fan.living_room,Turn down the living room fan,decrease_speed,Lật quạt phòng khách
+fan.living_room,Turn down the living room fan,decrease_speed,Đảo quạt phòng khách
 fan.living_room,Turn off the living room fan,turn_off,Tắt quạt phòng khách
 fan.living_room,Turn off the living room fan,turn_off,Tắt quạt phòng khách
 fan.living_room,Turn on the living room fan,turn_on,Bật quạt phòng khách
@@ -122,11 +122,11 @@ light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng �
 light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
 light.dining_room,Turn off the dining room light,turn_off,Tắt đèn phòng ăn
 light.dining_table_above,Please toggle the light above the dining table,toggle,Vui lòng chuyển ánh sáng phía trên bàn ăn
-light.driveway,Flip the driveway light,toggle,Lật đèn lái xe
+light.driveway,Flip the driveway light,toggle,Đảo đèn lái xe
 light.driveway,Turn on the driveway light,turn_on,Bật đèn lái xe
 light.garage,Activate the garage light,turn_on,Kích hoạt đèn nhà để xe
 light.garage,Activate the garage light,turn_on,Kích hoạt đèn nhà để xe
-light.garage,Flip the light in the garage,toggle,Lật ánh sáng trong nhà để xe
+light.garage,Flip the light in the garage,toggle,Đảo ánh sáng trong nhà để xe
 light.garage,Switch on the garage light,turn_on,Bật đèn nhà để xe
 light.garage,Switch on the garage light,turn_on,Bật đèn nhà để xe
 light.garden_1,Deactivate the garden light,turn_off,Vô hiệu hóa ánh sáng vườn
