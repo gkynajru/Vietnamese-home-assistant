@@ -79,38 +79,38 @@ async def main():
     # Define files and columns to translate
     files_to_process = [
         {
-            "input": "pipes/pipe_of_device_names.csv", 
-            "output": "vietnamese_pipes/vietnamese_pipe_of_device_names.csv",
+            "input": "piles/pipe_of_device_names.csv", 
+            "output": "vietnamese_piles/vietnamese_pipe_of_device_names.csv",
             "columns": ["description"]
         },
         {
-            "input": "pipes/pipe_of_device_actions.csv", 
-            "output": "vietnamese_pipes/vietnamese_pipe_of_device_actions.csv",
+            "input": "piles/pipe_of_device_actions.csv", 
+            "output": "vietnamese_piles/vietnamese_pipe_of_device_actions.csv",
             "columns": ["english_phrase"]
         },
         {
-            "input": "pipes/pile_of_templated_actions.csv", 
-            "output": "vietnamese_pipes/vietnamese_pile_of_templated_actions.csv",
+            "input": "piles/pile_of_templated_actions.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_templated_actions.csv",
             "columns": ["english_phrase"]
         },
         {
-            "input": "pipes/pile_of_durations.csv", 
-            "output": "vietnamese_pipes/vietnamese_pile_of_durations.csv",
+            "input": "piles/pile_of_durations.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_durations.csv",
             "columns": ["english_name"]            
         },
         {
-            "input": "pipes/pile_of_status_requests.csv", 
-            "output": "vietnamese_pipes/vietnamese_pile_of_status_requests.csv",
+            "input": "piles/pile_of_status_requests.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_status_requests.csv",
             "columns": ["english_phrase", "assistant_response"]                
         },
         {
-            "input": "pipes/pile_of_specific_actions.csv", 
-            "output": "vietnamese_pipes/vietnamese_pile_of_specific_actions.csv",
+            "input": "piles/pile_of_specific_actions.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_specific_actions.csv",
             "columns": ["english_phrase"]                
         },
         {
-            "input": "pipes/pile_of_responses.csv", 
-            "output": "vietnamese_pipes/vietnamese_pile_of_responses.csv",
+            "input": "piles/pile_of_responses.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_responses.csv",
             "columns": ["response"]  
         }
     ]
