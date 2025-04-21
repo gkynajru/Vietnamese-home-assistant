@@ -212,12 +212,9 @@ light,turn_on,Can you make <device_name> <color>?,8,Bạn có thể làm cho <de
 light,turn_on,Change the color of <device_name> to <color>.,8,Thay đổi màu của <device_name> thành Placeholder_1.
 light,turn_on,Change <device_name> to a <color> hue.,8,Thay đổi  <device_name> thành một người  chỗ_1 Huế.
 light,turn_on,Set <device_name> to be <color>.,8,Đặt <device_name> thành người  chỗ_1.
-light,turn_on,"I want <device_name> to be <color>"",8
-light,turn_on,Can you make <device_name> shine in <color>?""",8,"Tôi muốn loberholder_0 là người  chỗ_1 "", 8
-Ánh sáng, Turn_on, bạn có thể làm cho <device_name> Shine trong Placeholder_1 không? """
 light,turn_on,Turn <device_name> to a <color> shade.,8,Biến  <device_name> thành một người  chỗ_1 bóng râm.
 light,turn_on,Turn <device_name> <color>.,8,Turn <device_name> Placeholder_1.
-light,turn_on,I want <device_name> at a <color> setting.,8,Tôi muốn đặt chỗ_0 tại cài đặt logholder_1.
+light,turn_on,I want <device_name> at a <color> setting.,8,Tôi muốn đặt chỗ_0 tại cài đặt logholder_1.  
 light,turn_on,Set <device_name> to a <color> color.,8,Đặt <device_name> thành Màu Placeholder_1.
 light,turn_on,Please set <device_name> to a <color> color.,8,Vui lòng đặt <device_name> thành Màu Placeholder_1.
 light,turn_on,Make <device_name> glow <color>.,8,Làm cho loberholder_0 phát sáng  chỗ_1.
