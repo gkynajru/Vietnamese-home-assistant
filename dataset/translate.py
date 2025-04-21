@@ -79,13 +79,13 @@ async def main():
     # Define files and columns to translate
     files_to_process = [
         {
-            "input": "piles/pipe_of_device_names.csv", 
-            "output": "vietnamese_piles/vietnamese_pipe_of_device_names.csv",
+            "input": "piles/pile_of_device_names.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_device_names.csv",
             "columns": ["description"]
         },
         {
-            "input": "piles/pipe_of_device_actions.csv", 
-            "output": "vietnamese_piles/vietnamese_pipe_of_device_actions.csv",
+            "input": "piles/pile_of_device_actions.csv", 
+            "output": "vietnamese_piles/vietnamese_pile_of_device_actions.csv",
             "columns": ["english_phrase"]
         },
         {
