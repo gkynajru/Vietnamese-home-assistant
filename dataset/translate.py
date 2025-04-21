@@ -1,110 +1,137 @@
 import pandas as pd
 import asyncio
 import re
-import csv
-from googletrans import Translator
+import time
+from googletrans import Translator, LANGUAGES
+
+# Helper function to identify placeholder tags
+def find_placeholders(text):
+    if not isinstance(text, str):
+        return []
+    return re.findall(r'<([^>]+)>', text)
 
 # Create a translator instance
 translator = Translator()
 
-# Translation function that preserves placeholders properly
-async def translate_text_with_placeholders(text):
+# Translation function with placeholder preservation and retry logic
+async def translate_with_placeholders(text, retry_count=3, delay=2):
     if not isinstance(text, str):
         return text
     
-    # Extract all placeholder tags
-    placeholder_pattern = re.compile(r'<([^>]+)>')
-    placeholders = placeholder_pattern.findall(text)
+    if text.strip() == "":
+        return text
+        
+    # Find all placeholders
+    placeholders = find_placeholders(text)
+    placeholder_map = {}
     
-    # Replace placeholders with special tokens that won't be translated
-    temp_text = text
+    # Replace placeholders with unique markers
+    modified_text = text
     for i, placeholder in enumerate(placeholders):
-        full_tag = f'<{placeholder}>'
-        # Use a token that won't be modified by translation
-        temp_text = temp_text.replace(full_tag, f'__PH{i}__')
+        marker = f"__PLACEHOLDER_{i}__"
+        placeholder_tag = f"<{placeholder}>"
+        placeholder_map[marker] = placeholder_tag
+        modified_text = modified_text.replace(placeholder_tag, marker)
     
-    # Translate the text with placeholders removed
-    try:
-        translation = await translator.translate(temp_text, src='en', dest='vi')
-        translated_text = translation.text
-        
-        # Restore original placeholders
-        for i, placeholder in enumerate(placeholders):
-            translated_text = translated_text.replace(f'__PH{i}__', f'<{placeholder}>')
-        
-        return translated_text
-    except Exception as e:
-        print(f"Translation error: {e}")
-        return text  # Return original if translation fails
+    # Retry logic
+    for attempt in range(retry_count):
+        try:
+            # Wait before retrying to avoid rate limits
+            if attempt > 0:
+                await asyncio.sleep(delay)
+                
+            translation = await asyncio.to_thread(
+                translator.translate, 
+                modified_text, 
+                src='en', 
+                dest='vi'
+            )
+            
+            if not translation or not translation.text:
+                continue
+                
+            translated = translation.text
+            
+            # Restore placeholders
+            for marker, placeholder_tag in placeholder_map.items():
+                translated = translated.replace(marker, placeholder_tag)
+            
+            return translated
+        except Exception as e:
+            print(f"Translation error (attempt {attempt+1}/{retry_count}) for '{text[:30]}...': {e}")
+            if attempt == retry_count - 1:
+                # On final attempt, return original
+                return text
 
-async def process_csv_file(input_file, output_file, columns_to_translate):
-    print(f"Processing {input_file}...")
+async def process_file(input_file, output_file, columns_to_translate):
+    print(f"Processing file: {input_file}")
     
-    # First read the original file to preserve exact format
-    with open(input_file, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        original_rows = list(reader)
-        headers = original_rows[0]
-    
-    # Create a DataFrame for easier processing
-    df = pd.read_csv(input_file, keep_default_na=False)
-    
-    # Add new columns for Vietnamese translations
-    for column in columns_to_translate:
-        if column not in df.columns:
-            print(f"Column {column} not found in {input_file}")
-            continue
+    try:
+        # Read the CSV file with careful handling of quotes and line breaks
+        df = pd.read_csv(
+            input_file, 
+            keep_default_na=False,
+            quoting=pd.io.common.csv.QUOTE_MINIMAL,
+            escapechar='\\',
+            encoding='utf-8'
+        )
         
-        print(f"Translating column '{column}'...")
+        original_column_count = len(df.columns)
+        original_row_count = len(df)
+        print(f"Original file has {original_row_count} rows and {original_column_count} columns")
         
-        # Create a new column name for Vietnamese
-        vi_column = f"{column}_vi"
-        
-        # Translate each cell
-        translation_tasks = [translate_text_with_placeholders(text) for text in df[column]]
-        df[vi_column] = await asyncio.gather(*translation_tasks)
-    
-    # Prepare the output rows, preserving original format and adding new columns
-    output_rows = [headers + [f"{col}_vi" for col in columns_to_translate]]
-    
-    # Get the translated values into the same format as original
-    for i, row in enumerate(original_rows[1:], 1):
-        new_row = row.copy()
-        
-        # Add the translated columns
+        # Process each column separately to avoid corrupting structure
         for column in columns_to_translate:
-            if column in df.columns:
-                col_idx = headers.index(column)
-                vi_column = f"{column}_vi"
-                translated_value = df.loc[i-1, vi_column]
+            if column not in df.columns:
+                print(f"Column '{column}' not found in {input_file}")
+                continue
                 
-                # Preserve quotes if original value had them
-                if (len(row) > col_idx and 
-                    isinstance(row[col_idx], str) and 
-                    row[col_idx].startswith('"') and 
-                    row[col_idx].endswith('"')):
-                    if not (translated_value.startswith('"') and translated_value.endswith('"')):
-                        translated_value = f'"{translated_value}"'
+            print(f"Translating column '{column}'...")
+            
+            # Translate row by row with delays to avoid API limits
+            translated_column = []
+            batch_size = 5  # Process in small batches
+            
+            for i in range(0, len(df), batch_size):
+                batch = df[column].iloc[i:i+batch_size]
                 
-                new_row.append(translated_value)
+                # Create tasks for batch translations
+                tasks = [translate_with_placeholders(text) for text in batch]
+                
+                # Execute translations and add delay between batches
+                batch_translations = await asyncio.gather(*tasks)
+                translated_column.extend(batch_translations)
+                
+                # Progress update
+                print(f"Translated rows {i+1}-{min(i+batch_size, len(df))} of {len(df)}")
+                
+                # Delay between batches to avoid rate limits
+                if i + batch_size < len(df):
+                    await asyncio.sleep(2)
+            
+            # Add as a new column with '_vi' suffix
+            df[f"{column}_vi"] = translated_column
+            
+        # Verify the structure is preserved
+        if len(df) != original_row_count:
+            print(f"WARNING: Row count changed from {original_row_count} to {len(df)}")
         
-        output_rows.append(new_row)
-    
-    # Write the final CSV with identical formatting
-    with open(output_file, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
-        writer.writerows(output_rows)
-    
-    print(f"Successfully translated and saved to {output_file}")
+        # Save with UTF-8 encoding and explicit quoting control
+        df.to_csv(
+            output_file, 
+            index=False, 
+            encoding='utf-8', 
+            quoting=pd.io.common.csv.QUOTE_MINIMAL,
+            escapechar='\\'
+        )
+        print(f"Successfully saved to {output_file}")
+        
+    except Exception as e:
+        print(f"Error processing file {input_file}: {e}")
 
 async def main():
     # Define files and columns to translate
     files_to_process = [
-        {
-            "input": "piles/pile_of_device_names.csv", 
-            "output": "vietnamese_piles/vietnamese_pile_of_device_names.csv",
-            "columns": ["description"]
-        },
         {
             "input": "piles/pile_of_device_actions.csv", 
             "output": "vietnamese_piles/vietnamese_pile_of_device_actions.csv",
@@ -124,22 +151,12 @@ async def main():
             "input": "piles/pile_of_status_requests.csv", 
             "output": "vietnamese_piles/vietnamese_pile_of_status_requests.csv",
             "columns": ["english_phrase", "assistant_response"]                
-        },
-        {
-            "input": "piles/pile_of_specific_actions.csv", 
-            "output": "vietnamese_piles/vietnamese_pile_of_specific_actions.csv",
-            "columns": ["english_phrase"]                
-        },
-        {
-            "input": "piles/pile_of_responses.csv", 
-            "output": "vietnamese_piles/vietnamese_pile_of_responses.csv",
-            "columns": ["response"]  
         }
     ]
 
     # Process all files
     for file_info in files_to_process:
-        await process_csv_file(
+        await process_file(
             file_info["input"], 
             file_info["output"], 
             file_info["columns"]

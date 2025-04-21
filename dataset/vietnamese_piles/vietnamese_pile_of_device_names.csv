@@ -1,18 +1,18 @@
 device_name,description,description_vi
-blinds.back_window,Back Window Blinds,Rèm cửa sổ phía sau
+blinds.back_window,Back Window Blinds,Rèm cửa sổ trở lại
 blinds.basement,Basement Blinds,Rèm tầng hầm
 blinds.bathroom_1,First bathroom blinds,Rèm phòng tắm đầu tiên
 blinds.bathroom,Bathroom Blinds,Rèm phòng tắm
 blinds.craft_room,Craft room blinds,Rèm phòng thủ công
-blinds.dining_room,Dining Room Blinds,Rèm phòng ăn
+blinds.dining_room,Dining Room Blinds,Phòng ăn rèm
 blinds.front_window,Front Window Blinds,Rèm cửa sổ phía trước
 blinds.garage,Garage Blinds,Rèm nhà để xe
 blinds.guest_bathroom,Guest bathroom blinds,Rèm phòng tắm cho khách
-blinds.guest_room,Guest Room Blinds,Rèm phòng khách 
+blinds.guest_room,Guest Room Blinds,Phòng khách rèm
 blinds.hallway_1,First hallway blinds,Rèm hành lang đầu tiên
 blinds.hallway_2,Second hallway blinds,Rèm hành lang thứ hai
 blinds.hallway,Hallway Blinds,Rèm hành lang
-blinds.ikea_smart,Ikea Smart Blinds,Rèm thông  Ikea
+blinds.ikea_smart,Ikea Smart Blinds,IKEA Rèm thông minh
 blinds.kids_room,Kids' room blinds,Rèm phòng trẻ em
 blinds.kitchen_window,Kitchen window blinds,Rèm cửa sổ nhà bếp
 blinds.kitchen,Kitchen Blinds,Rèm nhà bếp
@@ -23,21 +23,21 @@ blinds.nursery,Nursery Blinds,Mắt vườn ươm
 blinds.office,Office Blinds,Rèm văn phòng
 blinds.office_window,Office Window Blinds,Rèm cửa sổ văn phòng
 blinds.patio,Patio Blinds,Rèm hiên
-blinds.skylight,Skylight Blinds,Của sổ trời
-blinds.skylight,Skylight blinds,Cửa sổ trời
+blinds.skylight,Skylight Blinds,Bí quyết rèm
+blinds.skylight,Skylight blinds,Bí quyết rèm
 blinds.somfy_kitchen,Kitchen Blinds,Rèm nhà bếp
 blinds.somfy_living,Living Room Blinds,Rèm phòng khách
 blinds.sunroom,Sunroom Blinds,Rèm phòng tắm nắng
 blinds.theater_room,Home theater blinds,Rèm nhà hát tại nhà
-fan.attic_1,Attic Fans,Quạt gác mái
-fan.attic_2,Attic Fans,Quạt gác mái
-fan.attic_3,Attic Fans,Quạt gác mái
+fan.attic_1,Attic Fans,Người hâm mộ gác mái
+fan.attic_2,Attic Fans,Người hâm mộ gác mái
+fan.attic_3,Attic Fans,Người hâm mộ gác mái
 fan.attic_ventilation,Attic ventilation fan,Quạt thông gió Attic
 fan.attic,Attic Fan,Quạt Attic
 fan.back_porch,Back Porch Fan,Back Porch Fan
-fan.balcony,Balcony Fan,Quạt ban công
+fan.balcony,Balcony Fan,Người hâm mộ ban công
 fan.basement,Basement Fan,Quạt tầng hầm
-fan.bathroom_down,Fan in downstairs bathroom,Quạt trong phòng tắm ở tầng dưới
+fan.bathroom_down,Fan in downstairs bathroom,Người hâm mộ trong phòng tắm ở tầng dưới
 fan.bathroom,Bathroom Fan,Quạt phòng tắm
 fan.bedroom_master,Master Bedroom Fan,Quạt phòng ngủ chính
 fan.bedroom_right,Right-side bedroom fan,Quạt phòng ngủ bên phải
@@ -48,16 +48,16 @@ fan.dining_area,Dining Area Fan,Quạt khu vực ăn uống
 fan.dining_room,Dining Room Fan,Quạt phòng ăn
 fan.dyson_pure,Dyson Pure Fan,Dyson Pure Fan
 fan.front_porch,Front Porch Fan,Quạt hiên trước
-fan.garage_workshop,Garage workshop fan,Quạt hội thảo nhà để xe
+fan.garage_workshop,Garage workshop fan,Người hâm mộ hội thảo nhà để xe
 fan.garage,Garage Fan,Quạt nhà để xe
 fan.guest_bedroom,Guest room fan,Quạt phòng khách
 fan.guest_room,Guest Room Fan,Quạt phòng khách
 fan.hallway,Hallway fan,Quạt hành lang
-fan.honeywell_turbo,Honeywell Turbo Fan,Quạt Honeywell Turbo
+fan.honeywell_turbo,Honeywell Turbo Fan,Người hâm mộ Honeywell Turbo
 fan.indoor_gym,Indoor Gym Fan,Quạt phòng tập thể dục trong nhà
-fan.kids_room,Kids' room fan,Quạt phòng trẻ em
-fan.kitchen_1,Kitchen Fans,Quạt nhà bếp
-fan.kitchen_2,Kitchen Fans,Quạt nhà bếp
+fan.kids_room,Kids' room fan,Người hâm mộ phòng trẻ em
+fan.kitchen_1,Kitchen Fans,Người hâm mộ nhà bếp
+fan.kitchen_2,Kitchen Fans,Người hâm mộ nhà bếp
 fan.kitchen_island,Cooling kitchen fan,Quạt nhà bếp làm mát
 fan.kitchen,Kitchen Fan,Quạt nhà bếp
 fan.laundry_room,Laundry room fan,Quạt phòng giặt
@@ -66,20 +66,20 @@ fan.living_room_2,Living Room fan,Quạt phòng khách
 fan.living_room_center,Center living room fan,Quạt phòng khách trung tâm
 fan.living_room,Living Room Fan,Quạt phòng khách
 fan.master_bath,Master bathroom fan,Quạt phòng tắm chính
-fan.nursery,Nursery Fan,Quạt nhà trẻ
+fan.nursery,Nursery Fan,Người hâm mộ nhà trẻ
 fan.office,Office Fan,Quạt văn phòng
 fan.outdoor_kitchen,Outdoor kitchen fan,Quạt nhà bếp ngoài trời
 fan.outdoor_patio,Outdoor patio fan,Quạt hiên ngoài trời
 fan.outdoor,Outdoor fan,Quạt ngoài trời
-fan.patio,Patio Fan,Quạt hiên
+fan.patio,Patio Fan,Người hâm mộ hiên
 fan.porch,Porch ceiling fan,Quạt trần hiên
-fan.shed,Shed fan,Quạt
+fan.shed,Shed fan,Người hâm mộ
 fan.study_1,Study fan,Quạt học
 fan.study_2,Study fan,Quạt học
 fan.study,study fan,Quạt học
 garage_door.basement,Basement Garage Door,Cửa nhà để xe
-garage_door.bike_shed,Bike shed door,Cửa nhà để xe đạp
-garage_door.bike_storage,Bike Storage Garage,Nhà để xe đạp
+garage_door.bike_shed,Bike shed door,Cửa xe đạp cửa
+garage_door.bike_storage,Bike Storage Garage,Nhà để xe lưu trữ xe đạp
 garage_door.boat,Boat Garage Door,Cửa nhà để xe
 garage_door.boat,Boat storage door,Cửa lưu trữ thuyền
 garage_door.carport,Carport Garage Door,Cửa nhà để xe
