@@ -842,6 +842,7 @@ def format_alpaca(example, format_func: Callable):
     for x in device_types:
         available_services.extend(SUPPORTED_DEVICES[x].get_all_services(extra_exposed_attributes))
 
+    # insert all components to the device list
     text = format_func(example={
         "states": device_list,
         "available_services": list(available_services),
