@@ -565,18 +565,11 @@ switch.irrigation_system,Irrigation System Switch,Công tắc hệ thống tư�
 switch.garage_workshop_lights,Garage Workshop Lights Switch,Công tắc đèn hội thảo nhà để xe
 climate.nest_learning,Nest Learning Thermostat,Tổ tổ học nhiệt
 climate.ecobee_smart,Ecobee SmartThermostat,Ecobee Smartthermostat
-climate.honeywell_lyric_t6,Honeywell Lyric T6 Pro,Honeywell Lyric T6 Pro
-climate.emerson_sensi_touch,Emerson Sensi Touch Wi-Fi Thermostat,Emerson Sensi Touch Wi-Fi Thermostat
-climate.bosch_bcc100,Bosch BCC100 Connected Control,Bosch BCC100 Control Control
-climate.johnson_glas,Johnson Controls GLAS Smart Thermostat,Johnson điều khiển bộ điều chỉnh nhiệt thông minh Glas
 climate.thermostat_lux_geo,Lux Geo Wi-Fi Thermostat,Thermostat Lux Geo-Fi
 climate.tado_smart,Tado Smart Thermostat,Tado Smart Thermostat
 climate.trane_comfortlink_ii,Trane ComfortLink II XL1050,Trane ComfortLink II XL1050
-climate.carrier_cor,Carrier Cor Wi-Fi Thermostat,Máy điều nhiệt Wi-Fi của Carrier Cor
 climate.netatmo_smart,Netatmo Smart Thermostat,Netatmo Smart Thermostat
 climate.sinope_smart,Sinopé Smart Thermostat,Sinopé Smart Thermostat
-climate.kono_thermostat,Kono Smart Thermostat,Kono Smart Thermostat
-climate.mysa_smart_thermostat,Mysa Smart Thermostat for Electric Baseboard Heaters,Mysa Smart Thermostat cho máy sưởi máy bay điện
 climate.zen_wifi_thermostat,Zen Thermostat WiFi Edition,Zen Thermostat WiFi Edition
 vacuum.living_room_roomba,Living room vacuum,Phòng khách chân không
 vacuum.kitchen_xiaomi,Kitchen vacuum,Máy hút bụi nhà bếp
