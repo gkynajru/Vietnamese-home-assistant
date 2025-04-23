@@ -1,0 +1,326 @@
+device_name,description,description_vi
+blinds.back_window,Back Window Blinds,Rèm cửa sổ trở lại
+blinds.basement,Basement Blinds,Rèm tầng hầm
+blinds.bathroom_1,First bathroom blinds,Rèm phòng tắm đầu tiên
+blinds.bathroom,Bathroom Blinds,Rèm phòng tắm
+blinds.craft_room,Craft room blinds,Rèm phòng thủ công
+blinds.dining_room,Dining Room Blinds,Phòng ăn rèm
+blinds.front_window,Front Window Blinds,Rèm cửa sổ phía trước
+blinds.garage,Garage Blinds,Rèm nhà để xe
+blinds.guest_bathroom,Guest bathroom blinds,Rèm phòng tắm cho khách
+blinds.guest_room,Guest Room Blinds,Phòng khách rèm
+blinds.hallway_1,First hallway blinds,Rèm hành lang đầu tiên
+blinds.hallway_2,Second hallway blinds,Rèm hành lang thứ hai
+blinds.hallway,Hallway Blinds,Rèm hành lang
+blinds.ikea_smart,Ikea Smart Blinds,IKEA Rèm thông minh
+blinds.kids_room,Kids' room blinds,Rèm phòng trẻ em
+blinds.kitchen_window,Kitchen window blinds,Rèm cửa sổ nhà bếp
+blinds.kitchen,Kitchen Blinds,Rèm nhà bếp
+blinds.living_room_large,Main living room blinds,Phòng khách chính rèm
+blinds.living_room,Living Room Blinds,Rèm phòng khách
+blinds.master_bedroom,Master Bedroom Blinds,Rèm phòng ngủ chính
+blinds.nursery,Nursery Blinds,Mắt vườn ươm
+blinds.office,Office Blinds,Rèm văn phòng
+blinds.office_window,Office Window Blinds,Rèm cửa sổ văn phòng
+blinds.patio,Patio Blinds,Rèm hiên
+blinds.skylight,Skylight Blinds,Bí quyết rèm
+blinds.skylight,Skylight blinds,Bí quyết rèm
+blinds.somfy_kitchen,Kitchen Blinds,Rèm nhà bếp
+blinds.somfy_living,Living Room Blinds,Rèm phòng khách
+blinds.sunroom,Sunroom Blinds,Rèm phòng tắm nắng
+blinds.theater_room,Home theater blinds,Rèm nhà hát tại nhà
+garage_door.basement,Basement Garage Door,Cửa nhà để xe
+garage_door.bike_shed,Bike shed door,Cửa xe đạp cửa
+garage_door.bike_storage,Bike Storage Garage,Nhà để xe lưu trữ xe đạp
+garage_door.boat,Boat Garage Door,Cửa nhà để xe
+garage_door.boat,Boat storage door,Cửa lưu trữ thuyền
+garage_door.carport,Carport Garage Door,Cửa nhà để xe
+garage_door.carport,Carport door,Cửa carport
+garage_door.chamberlain_1,Chamberlain,Chamberlain
+garage_door.chamberlain_2,Chamberlain,Chamberlain
+garage_door.golf_cart,Golf Cart Garage,Golf xe gara
+garage_door.golf_cart,Golf cart door,Cửa xe golf
+garage_door.greenhouse,Greenhouse door,Cửa nhà kính
+garage_door.guest,Guest Garage Door,Cửa nhà để xe khách
+garage_door.lawn_equipment,Lawn equipment door,Cửa thiết bị cỏ
+garage_door.liftmaster_1,LiftMaster,Thang máy
+garage_door.liftmaster_2,LiftMaster,Thang máy
+garage_door.main_1,Primary garage door,Cửa nhà để xe chính
+garage_door.main,Main Garage Door,Cửa nhà để xe chính
+garage_door.motorcycle,Motorcycle Garage,Nhà để xe xe máy
+garage_door.one_car,One Car Garage,Một nhà để xe
+garage_door.pet_entry,Pet entry door,Cửa ra vào thú cưng
+garage_door.rv_storage,RV storage door,Cửa lưu trữ RV
+garage_door.rv,RV Garage Door,Cửa nhà để xe RV
+garage_door.shed_1,First shed door,Cửa hàng đầu tiên
+garage_door.shed_2,Second shed door,Cửa hàng thứ hai
+garage_door.shop,Workshop Garage Door,Cửa hội thảo cửa nhà để xe
+garage_door.left_door,Left Garage Door,Cửa nhà để xe
+garage_door.side_2,Side garage door,Cửa nhà để xe bên
+garage_door.side,Side Garage Door,Cửa nhà để xe bên
+garage_door.spare,Spare Garage Door,Cửa nhà để xe dự phòng
+garage_door.two_car,Two Car Garage,Hai nhà để xe
+garage_door.upper_level,Upper Level Garage,Nhà để xe cấp trên
+garage_door.wine_cellar,Wine cellar door,Cửa hầm rượu
+light.above_dining_table,Dining Table Light,Đèn bàn ăn
+light.bathroom_1,Bathroom Light,Đèn phòng tắm
+light.bathroom_2,Bathroom Light,Đèn phòng tắm
+light.bathroom_mirror,Mirror lights,Đèn gương
+light.bathroom,Bathroom Light,Đèn phòng tắm
+light.bedroom_1,Bedroom Light,Ánh sáng phòng ngủ
+light.bedroom_2,Bedroom Light,Ánh sáng phòng ngủ
+light.bedroom_3,Bedroom Light,Ánh sáng phòng ngủ
+light.bedroom,Bedroom Light,Ánh sáng phòng ngủ
+light.dining_room_1,Dining Room Light,Phòng ăn đèn
+light.dining_room_2,Dining Room Light,Phòng ăn đèn
+light.dining_room_3,Dining Room Light,Phòng ăn đèn
+light.dining_room,Dining Room Light,Phòng ăn đèn
+light.front_porch,Front Porch Light,Hiên trước ánh sáng
+light.garden_1,Garden Light,Đèn sân vườn
+light.garden_2,Garden Light,Đèn sân vườn
+light.garden_path,Garden path lighting,Ánh sáng đường dẫn vườn
+light.garden,Garden Light,Đèn sân vườn
+light.hallway_upstairs,Upstairs hallway light,Ánh sáng hành lang trên lầu
+light.hallway,Hallway Lights,Đèn hành lang
+light.hallway,Hallway Light,Hành lang ánh sáng
+light.kitchen_1,Main Kitchen Light,Đèn nhà bếp chính
+light.kitchen_2,Second Kitchen Light,Đèn nhà bếp thứ hai
+light.kitchen_counter,Kitchen Counter Light,Đèn quầy bếp
+light.kitchen_counter,Kitchen counter lights,Đèn quầy bếp
+light.kitchen_table,Kitchen Table Light,Đèn bàn bếp
+light.kitchen,Kitchen Light,Đèn nhà bếp
+light.living_room_1,Living Room Lights,Đèn phòng khách
+light.living_room_2,Living Room Lights,Đèn phòng khách
+light.living_room_ceiling,Living Room Ceiling Light,Đèn trần phòng khách
+light.living_room_ceiling,Bright ceiling light,Ánh sáng trần sáng
+light.living_room,Living Room Light,Phòng khách ánh sáng
+light.master_bedroom_1,Master Bedroom Lights,Đèn phòng ngủ chính
+light.master_bedroom_2,Master Bedroom Lights,Đèn phòng ngủ chính
+light.office_1,Office Light,Đèn văn phòng
+light.office_2,Office Light,Đèn văn phòng
+light.office_desk,Office Desk Light,Bàn văn phòng đèn
+light.office,Office Light,Đèn văn phòng
+light.patio_1,Outdoor patio light,Ánh sáng ngoài trời
+light.patio,Patio Lights,Đèn hiên
+light.patio,Patio Light,Ánh sáng hiên
+light.study_1,Study Lights,Đèn học
+light.study_2,Study Lights,Đèn học
+light.study_3,Study Lights,Đèn học
+light.study,Study Light,Nghiên cứu ánh sáng
+light.kitchen_counter_cool,Kitchen Counter Cool Light,Bếp đèn mát
+light.back_bedroom_warm,Back Bedroom Warm Light,Phòng ngủ sau ánh sáng ấm áp
+light.kitchen_island_cool,Kitchen Island Cool Light,Đảo bếp ánh sáng mát mẻ
+light.kitchen_table_warm,Kitchen Table Warm Light,Bàn bếp ấm áp
+light.kitchen_sink_cool,Kitchen Sink Cool Light,Bồn rửa nhà bếp ánh sáng mát mẻ
+light.kitchen_cabinet_warm,Kitchen Cabinet Warm Light,Tủ bếp ấm áp
+light.kitchen_ceiling_cool,Kitchen Ceiling Cool Light,Trần nhà bếp ánh sáng mát mẻ
+light.kitchen_window_cool,Kitchen Window Cool Light,Cửa sổ nhà bếp ánh sáng mát mẻ
+light.kitchen_desk_warm,Kitchen Desk Warm Light,Bàn bếp ấm áp
+light.kitchen_floor_cool,Kitchen Floor Cool Light,Sàn nhà bếp ánh sáng mát mẻ
+light.kitchen_drawer_warm,Kitchen Drawer Warm Light,Ngăn kéo nhà bếp ánh sáng ấm áp
+light.kitchen_rack_cool,Kitchen Rack Cool Light,Giá bếp mát
+light.kitchen_bar_warm,Kitchen Bar Warm Light,Thanh bếp ấm
+light.back_dining_warm,Back Dining Warm Light,Back Ăn tối ấm áp
+light.kitchen_wall_cool,Kitchen Wall Cool Light,Bức tường nhà bếp ánh sáng mát mẻ
+light.kitchen_bookshelf_warm,Kitchen Bookshelf Warm Light,Kệ sách nhà bếp ánh sáng ấm áp
+light.kitchen_cupboard_cool,Kitchen Cupboard Cool Light,Tủ bếp mát mẻ
+light.kitchen_oven_warm,Kitchen Oven Warm Light,Lò nướng bếp ấm
+light.kitchen_shelf_cool,Kitchen Shelf Cool Light,Kệ nhà bếp ánh sáng mát mẻ
+light.kitchen_cornice_warm,Kitchen Cornice Warm Light,Nhà bếp giác mạc ánh sáng ấm áp
+light.kitchen_mirror_cool,Kitchen Mirror Cool Light,Gương bếp mát
+light.kitchen_windowseat_warm,Kitchen Window Seat Warm Light,Ghế cửa sổ nhà bếp ánh sáng ấm áp
+light.kitchen_sideboard_cool,Kitchen Sideboard Cool Light,Phòng bếp phụ ánh sáng mát mẻ
+light.kitchen_winecellar_warm,Kitchen Wine Cellar Warm Light,Đèn nhà bếp rượu vang ấm áp ánh sáng
+light.kitchen_pantry_cool,Kitchen Pantry Cool Light,Phòng đựng thức ăn nhà bếp ánh sáng mát mẻ
+light.kitchen_coffeecorner_cool,Kitchen Coffee Corner Cool Light,Bếp cà phê góc mát ánh sáng mát mẻ
+light.kitchen_microwave_warm,Kitchen Microwave Warm Light,Lò vi sóng nhà bếp ánh sáng ấm áp
+light.kitchen_toaster_cool,Kitchen Toaster Cool Light,Lò nướng bánh bếp mát mẻ
+light.kitchen_display_warm,Kitchen Display Warm Light,Hiển thị nhà bếp ánh sáng ấm áp
+light.kitchen_trashbin_cool,Kitchen Trash Bin Cool Light,Thùng rác thùng rác mát
+light.kitchen_freezer_warm,Kitchen Freezer Light,Đèn tủ đông nhà bếp
+light.dining_room_chandelier,Dining Room Chandelier,Đèn chùm phòng ăn
+light.chandelier_front_hallway,Front Hallway Chandelier,Đèn chùm hành lang phía trước
+lock.back_door,Back Door Lock,Khóa cửa sau
+lock.back_door,Backyard entry lock,Khóa nhập cảnh sân sau
+lock.bike_storage,Bike Storage Lock,Khóa lưu trữ xe đạp
+lock.front_door_1,Main entry lock,Khóa nhập chính
+lock.front_door,Front Door Lock,Khóa cửa trước
+lock.garage,Garage Door Lock,Khóa cửa nhà để xe
+lock.guest_room,Guest Room Lock,Phòng khách
+lock.master_bedroom,Master Bedroom Lock,Khóa phòng ngủ chính
+lock.patio_door,Patio sliding door,Cửa trượt
+lock.pool_gate,Pool Gate Lock,Khóa cổng hồ bơi
+lock.pool_gate,Swimming pool gate,Cổng bể bơi
+lock.shed_2,Second shed lock,Khóa thứ hai
+lock.tool_shed,Tool Shed Lock,Công cụ đổ khóa
+lock.tool_shed,Tool shed lock,Công cụ đổ khóa
+lock.utility_room,Utility room lock,Khóa phòng tiện ích
+lock.yoga_room,Yoga Room Lock,Khóa phòng yoga
+lock.attic,Attic Door Lock,Khóa cửa gác mái
+lock.balcony_door,Balcony access lock,Khóa truy cập ban công
+lock.bedroom_2,Second Bedroom Lock,Khóa phòng ngủ thứ hai
+lock.bedroom_3,Third Bedroom Lock,Khóa phòng ngủ thứ ba
+lock.closet,Closet Door Lock,Khóa cửa tủ quần áo
+lock.dining_room,Dining Room Lock,Phòng ăn khóa
+lock.driveway_gate,Driveway gate lock,Khóa cổng lái xe
+lock.electric_gate,Electric gate lock,Khóa cổng điện
+lock.elevator,Private Elevator Lock,Khóa thang máy riêng
+lock.fence_gate,Fence gate lock,Khóa cổng hàng rào
+lock.filing_room,Filing Room Lock,Phòng nộp phòng
+lock.front_gate,Front Gate Lock,Khóa cổng trước
+lock.garden_gate,Garden gate lock,Khóa cổng vườn
+lock.gym,Home Gym Lock,Khóa phòng tập thể dục tại nhà
+lock.hallway_closet,Hallway Closet Lock,Khóa tủ quần áo hành lang
+lock.kitchen_door,Kitchen entry lock,Khóa nhập cảnh
+lock.laundry_room,Laundry Room Lock,Khóa phòng giặt
+lock.living_room,Living Room Lock,Khóa phòng khách
+lock.mudroom,Mudroom Lock,Khóa phòng bùn
+lock.music_room,Music Room Lock,Khóa phòng âm nhạc
+lock.playroom,Playroom Lock,Khóa phòng chơi
+lock.porch_door,Porch door lock,Khóa cửa hiên
+lock.rear_gate,Rear gate lock,Khóa cổng phía sau
+lock.rooftop_door,Rooftop access lock,Khóa truy cập trên sân thượng
+lock.service_entrance,Service entrance lock,Khóa vào dịch vụ
+lock.side_door,Side entry lock,Khóa nhập bên
+lock.side_gate,Side gate lock,Khóa cổng bên
+lock.ski_storage,Ski Storage Lock,Khóa lưu trữ trượt tuyết
+lock.stair_gate,Staircase gate lock,Khóa cổng cầu thang
+lock.storage_room,Storage Room Lock,Khóa phòng lưu trữ
+lock.sunroom,Sunroom Lock,Khóa phòng tắm nắng
+lock.terrace_door,Terrace door lock,Khóa cửa sân thượng
+lock.walk_in_closet,Walk-In Closet Lock,Khóa tủ quần áo không cửa
+lock.yard_shed,Yard Shed Lock,Yard Shed Lock
+media_player.apple_tv,Apple TV media player,Apple TV Media Player
+media_player.basement,Basement Media Player,Người chơi phương tiện tầng hầm
+media_player.bose_bedroom,Bose Bedroom,Phòng ngủ Bose
+media_player.bose_living,Bose Living Room,Phòng khách Bose
+media_player.chrome_cast_bedroom,Bedroom Chromecast,Chromecast phòng ngủ
+media_player.chromecast,Chromecast Media,Phương tiện truyền thông Chromecast
+media_player.echo_dot,Kitchen Echo Dot,Bếp Echo Dot
+media_player.fire_tv_stick,Fire TV Stick,Fire TV Stick
+media_player.fire_tv,Fire TV Media,Phương tiện truyền hình lửa
+media_player.garage,Garage Media Player,Người chơi phương tiện nhà để xe
+media_player.guest_room,Guest Room Media,Phương tiện truyền thông phòng khách
+media_player.home_theater,Home Theater Media,Phương tiện truyền thông tại nhà
+media_player.ipad_kitchen,Kitchen iPad,Ipad nhà bếp
+media_player.kitchen,Kitchen Media Player,Trình phát phương tiện nhà bếp
+media_player.laptop_stream,Streaming laptop,Phát trực tuyến máy tính xách tay
+media_player.living_room,Living Room Media,Phương tiện truyền thông phòng khách
+media_player.master_bedroom,Master Bedroom Media,Phương tiện truyền thông phòng ngủ chính
+media_player.nintendo_switch,Nintendo Switch,Công tắc Nintendo
+media_player.nursery,Nursery Media Player,Người chơi truyền thông mẫu giáo
+media_player.office,Office Media Player,Người chơi truyền thông văn phòng
+media_player.patio,Patio Media Player,Player Media patio
+media_player.ps5_living_room,Living room PS5,Phòng khách PS5
+media_player.roku_bedroom,Roku Master Bedroom,Phòng ngủ chính của Roku
+media_player.roku_bedroom,Bedroom Roku player,Người chơi Roku phòng ngủ
+media_player.roku_living,Roku Living Room,Phòng khách Roku
+media_player.samsung_tv,Living room TV,TV phòng khách
+media_player.sonos_bedroom,Sonos Master Bedroom,Phòng ngủ chính của Sonos
+media_player.sonos_kitchen,Sonos Kitchen,Sonos Kitchen
+media_player.sonos_kitchen,Kitchen Sonos speaker,Loa Sonos nhà bếp
+media_player.sonos_living,Sonos Living Room,Phòng khách Sonos
+media_player.soundbar_living_room,Living room soundbar,Soundbar phòng khách
+media_player.xbox_den,Den Xbox console,Bảng điều khiển Den Xbox
+media_player.sony_bravia_tv,Sony Smart LED TV,Sony Smart LED TV
+media_player.samsung_qled_tv,Samsung Quantum Dot TV,Samsung Quantum Dot TV
+media_player.lg_oled_tv,LG OLED Television,Truyền hình OLED LG
+media_player.panasonic_4k_bluray_player,Panasonic Blueray Player,Người chơi Panasonic Blueray
+media_player.denon_av_receiver,Denon Audio-Video Receiver,Máy thu Video Denon Audio
+media_player.onkyo_tx_sr,Onkyo Home Theater Receiver,Máy thu nhà hát tại nhà Onkyo
+media_player.google_nest_hub,Google Assistant Smart Display,Hiển thị thông minh của Google Assistant
+media_player.amazon_echo_show,Amazon Echo Smart Screen,Amazon Echo Smart Màn hình
+media_player.apple_tv_4k,Apple 4K Streaming Device,Thiết bị phát trực tuyến Apple 4K
+media_player.roku_ultra,Roku High-Performance Streamer,Streamer hiệu suất cao Roku
+media_player.xbox_one,Xbox One,Xbox One
+media_player.playstation_5,Sony PS5,Sony PS5
+media_player.joes_ps5,Joe's PS5,Joe's PS5
+media_player.nintendo_switch_dock,Nintendo Console Dock,Nintendo Console Dock
+media_player.sony_4k_projector,Sony Home Cinema Projector,Máy chiếu phim Sony Home
+media_player.epson_home_cinema,Epson Video Projector,Máy chiếu video Epson
+media_player.bose_home_speaker,Bose Wireless Speaker,Loa không dây Bose
+media_player.sonos_beam,Sonos Compact Soundbar,Sonos Compact Soundbar
+media_player.harman_kardon_aura,Harman Kardon Glass Speaker,Loa Harman Kardon Glass
+media_player.bang_olufsen_beovision,B&O High-End Television,B & O truyền hình cao cấp
+media_player.philips_ambilight_tv,Philips LED Backlit TV,Philips LED Backlit TV
+media_player.vizio_smartcast_tv,Vizio Cast-Enabled TV,TV hỗ trợ diễn viên Vizio
+media_player.sony_ps_lx310bt,Sony Bluetooth Turntable,Bàn xoay Sony Bluetooth
+media_player.audio_technica_at_lp120,Audio-Technica Record Player,Máy ghi âm Audio-Technica
+media_player.samsung_hw_q90r,Samsung Surround Soundbar,SAMSUNG SURVER SOUGHBAR
+media_player.sonos_arc,Sonos Smart Soundbar,Sonos Smart Soundbar
+media_player.home_theater_system_living_room,Living Room Home Theater,Phòng khách Nhà hát tại nhà
+media_player.desktop_computer_media_suite,Desktop Computer Media Center,Trung tâm truyền thông máy tính
+media_player.wall_mounted_tv_bedroom,Bedroom Wall-Mounted TV,TV treo tường phòng ngủ
+media_player.kitchen_radio,Kitchen Radio Player,Máy nghe nhạc nhà bếp
+media_player.bathroom_speaker_system,Waterproof Bathroom Speaker,Loa phòng tắm không thấm nước
+media_player.garage_workshop_stereo,Garage Workshop Stereo,Hội thảo nhà để xe âm thanh nổi
+media_player.patio_outdoor_speakers,Patio Outdoor Speakers,Diễn giả ngoài trời
+media_player.basement_projector_setup,Basement Projector System,Hệ thống máy chiếu tầng hầm
+media_player.office_pc_speakers,Office Computer Speakers,Loa máy tính văn phòng
+media_player.bedside_alarm_clock_radio,Bedside Alarm Clock Radio,Đài phát thanh đồng hồ báo thức giường ngủ
+media_player.gaming_room_console,Gaming Room Console,Bảng điều khiển phòng chơi game
+media_player.lounge_hi_fi_system,Lounge Hi-Fi Audio,Phòng chờ âm thanh hi-fi
+media_player.dining_room_jukebox,Dining Room Jukebox,Phòng ăn tự động
+media_player.guest_room_tv_set,Guest Room Television,Truyền hình phòng khách
+media_player.study_room_audio_book_player,Study Audio Book Player,Nghiên cứu trình phát Sổ âm thanh
+media_player.sunroom_cd_player,Sunroom CD Player,Máy nghe nhạc CD Sunroom
+media_player.attic_vinyl_turntable,Attic Vinyl Record Player,Máy phát ghi Vinyl Attic
+media_player.backyard_outdoor_projector,Backyard Projector,Máy chiếu sân sau
+media_player.entryway_voice_assistant,Entryway Voice Assistant,Trợ lý giọng nói của lối vào
+media_player.hallway_wall_speaker,Hallway Wall Speaker,Loa tường hành lang
+switch.balcony_lighting,Balcony lighting control,Kiểm soát ánh sáng ban công
+switch.bathroom_fan,Bathroom Fan Switch,Công tắc quạt phòng tắm
+switch.bedroom_lights,Bedroom Lights Switch,Công tắc đèn phòng ngủ
+switch.closet_lighting,Closet lighting control,Điều khiển ánh sáng tủ quần áo
+switch.deck_lights,Deck Lighting Switch,Công tắc ánh sáng boong
+switch.dining_room_lights,Dining Room Lights Switch,Công tắc đèn phòng ăn
+switch.front_yard_lights,Front Yard Lights Switch,Công tắc đèn sân trước
+switch.garage_door_opener,Garage Door Opener Switch,Công tắc mở cửa nhà để xe
+switch.garden_lights,Garden lighting control,Kiểm soát ánh sáng vườn
+switch.hallway_lights,Hallway Lights Switch,Công tắc đèn hành lang
+switch.kitchen_lights,Kitchen Lights Switch,Công tắc đèn bếp
+switch.laundry_room_lights,Laundry Room Lights Switch,Công tắc đèn phòng giặt
+switch.living_room_lights,Living Room Lights Switch,Công tắc đèn phòng khách
+switch.master_bedroom_lights,Master Bedroom Lights Switch,Công tắc đèn phòng ngủ chính
+switch.office_lights,Office Lights Switch,Công tắc đèn văn phòng
+switch.patio_lights,Patio Lights Switch,Công tắc đèn sân
+switch.pool_area_lighting,Pool area lighting control,Kiểm soát ánh sáng khu vực hồ bơi
+switch.porch_lights,Porch Lights Switch,Công tắc đèn hiên nhà
+switch.rear_yard_lights,Rear Yard Lights Switch,Đèn sân sau công tắc
+switch.shed_lights,Shed Lights Switch,Đèn chiếu sáng công tắc
+switch.study_room_lights,Study Room Lights Switch,Nghiên cứu công tắc đèn phòng
+switch.terrace_lighting,Terrace lighting control,Kiểm soát ánh sáng sân thượng
+switch.utility_room_lights,Utility Room Lights Switch,Công tắc đèn phòng tiện ích
+switch.workshop_lights,Workshop Lights Switch,Công tắc đèn hội thảo
+switch.yard_floodlights,Yard Floodlights Switch,Công tắc đèn pha
+switch.pool_pump,Pool Pump Switch,Công tắc bơm hồ bơi
+switch.garage_workshop_lights,Garage Workshop Lights Switch,Công tắc đèn hội thảo nhà để xe
+climate.nest_learning,Nest Learning Thermostat,Tổ tổ học nhiệt
+climate.ecobee_smart,Ecobee SmartThermostat,Ecobee Smartthermostat
+vacuum.living_room_roomba,Living room vacuum,Phòng khách chân không
+vacuum.kitchen_xiaomi,Kitchen vacuum,Máy hút bụi nhà bếp
+vacuum.upstairs_dyson,Upstairs dust buster,Trên lầu bụi buster
+vacuum.basement_deebot,Basement deebot,Tầng hầm Debot
+vacuum.master_bedroom_shark,Master bedroom vacuum,Phòng ngủ chính
+vacuum.garage_roomba_2,Garage cleaning bot,Bot làm sạch nhà để xe
+vacuum.under_sofa_cleaner,Under sofa cleaner,Dưới ghế sofa sạch hơn
+vacuum.dining_area_bissel,Dining area dirt remover,Khu vực ăn uống bụi bẩn
+vacuum.entryway_eufy,Entryway dust collector,Bộ thu bụi nhập cảnh
+vacuum.patio_doorway_vac,Patio doorway cleaner,Sức sạch cửa hiên
+vacuum.right_stairwell_sweeper,Right stairwell cleaner,Người dọn dẹp cầu thang phải
+vacuum.upstairs_bathroom_vac,Upstairs bathroom helper,Người trợ giúp phòng tắm trên lầu
+vacuum.downstairs_guest_room,Downstairs guest room vac,Phòng khách ở tầng dưới VAC
+vacuum.above_stairs_robot,Above stairs dusting device,Thiết bị bụi trên cầu thang
+vacuum.under_bed_cleaner,Under bed dust collector,Dưới bộ sưu tập bụi trên giường
+vacuum.back_deck_sweeper,Back deck area cleaner,Back Boong Area Cleaner
+timer.kitchen_oven,Kitchen oven timer,Hẹn giờ lò nướng bếp
+timer.garden_watering,Garden watering scheduler,Lập lịch tưới vườn
+timer.bedroom_lamp_timer,Bedroom lamp scheduler,Lập lịch đèn phòng ngủ
+timer.kitchen_timer,Kitchen countdown,Đếm ngược nhà bếp
+timer.laundry_countdown,Laundry cycle timer,Hẹn giờ giặt
+timer.morning_alarm,Morning wakeup alarm,Báo thức thức dậy buổi sáng
+timer.workout_timer,Exercise session timer,Hẹn giờ tập thể dục
+timer.study_session,Study focus timer,Nghiên cứu hẹn giờ tập trung
+timer.meditation_clock,Meditation duration tracker,Thiền thời gian theo dõi
+timer.baby_nap_timer,Baby nap monitor,Màn hình ngủ trưa
+timer.tea_steeping,Tea steeping countdown,Tea Steeping Countdown

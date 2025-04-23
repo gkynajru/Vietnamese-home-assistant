@@ -82,8 +82,8 @@ def filter_csv_file(input_path, output_path, filter_dict, device_id_column):
 
 def main():
     # Configuration
-    filter_config_path = "device_filter_config.csv"
-    piles_directory = "piles"
+    filter_config_path = "device_filtering_comparison.csv"
+    piles_directory = "vietnamese_piles"
     output_directory = "filtered_piles"
     
     # Create output directory if it doesn't exist
@@ -95,11 +95,9 @@ def main():
     
     # List of files to process with their device ID column
     files_to_process = [
-        {"file": "pile_of_device_names.csv", "device_id_column": "device_name"},
-        {"file": "pile_of_device_actions.csv", "device_id_column": "device_name"},
-        {"file": "pile_of_specific_actions.csv", "device_id_column": "device_name"},
-        {"file": "pile_of_templated_actions.csv", "device_id_column": "device_type"},
-        {"file": "pile_of_status_requests.csv", "device_id_column": "device_type"}
+        {"file": "vietnamese_pile_of_device_names.csv", "device_id_column": "device_name"},
+        {"file": "vietnamese_pile_of_device_actions.csv", "device_id_column": "device_name"},
+        {"file": "vietnamese_pile_of_specific_actions.csv", "device_id_column": "device_name"}
     ]
     
     # Process each file
