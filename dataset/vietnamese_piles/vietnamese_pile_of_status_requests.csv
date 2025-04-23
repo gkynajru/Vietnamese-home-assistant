@@ -1,204 +1,204 @@
 device_type,state,english_phrase,assistant_response,english_phrase_vi,assistant_response_vi
-light,on,Is the <device_name> on,The <device_name> is currently on,Là __ph0__ trên,<device_name> hiện đang ở
+light,on,Is the <device_name> on,The <device_name> is currently on,Là <device_name> trên,<device_name> hiện đang ở
 light,on,Can you tell me the status of the <device_name>,The <device_name> is on,Bạn có thể cho tôi biết trạng thái của <device_name>,<device_name> đang trên
-light,off,What is the <device_name> doing,The <device_name> is off,__Ph0__ đang làm gì,<device_name> bị tắt
-light,off,Is the <device_name> off,The <device_name> is currently off,Là __ph0__ tắt,<device_name> hiện đang tắt
-fan,on,Is the <device_name> on,The <device_name> is currently on,Là __ph0__ trên,<device_name> hiện đang ở
-fan,on,Can you check if the <device_name> is working,The <device_name> is on,Bạn có thể kiểm tra xem __ph0__ có hoạt động không,<device_name> đang trên
-fan,off,Is the <device_name> off,The <device_name> is currently off,Là __ph0__ tắt,<device_name> hiện đang tắt
+light,off,What is the <device_name> doing,The <device_name> is off,<device_name> đang làm gì,<device_name> bị tắt
+light,off,Is the <device_name> off,The <device_name> is currently off,Là <device_name> tắt,<device_name> hiện đang tắt
+fan,on,Is the <device_name> on,The <device_name> is currently on,Là <device_name> trên,<device_name> hiện đang ở
+fan,on,Can you check if the <device_name> is working,The <device_name> is on,Bạn có thể kiểm tra xem <device_name> có hoạt động không,<device_name> đang trên
+fan,off,Is the <device_name> off,The <device_name> is currently off,Là <device_name> tắt,<device_name> hiện đang tắt
 fan,off,What is the current status of the <device_name>,The <device_name> is off,Trạng thái hiện tại của <device_name> là gì,<device_name> bị tắt
-garage_door,open,Is the <device_name> open,The <device_name> is currently open,__Ph0__ có mở không,<device_name> hiện đang mở
-garage_door,open,Can you tell me if the <device_name> is open,The <device_name> is open,Bạn có thể cho tôi biết nếu __ph0__ mở được không,<device_name> đang mở
-garage_door,closed,Is the <device_name> closed,The <device_name> is currently closed,__Ph0__ có đóng không,<device_name> hiện đang đóng cửa
+garage_door,open,Is the <device_name> open,The <device_name> is currently open,<device_name> có mở không,<device_name> hiện đang mở
+garage_door,open,Can you tell me if the <device_name> is open,The <device_name> is open,Bạn có thể cho tôi biết nếu <device_name> mở được không,<device_name> đang mở
+garage_door,closed,Is the <device_name> closed,The <device_name> is currently closed,<device_name> có đóng không,<device_name> hiện đang đóng cửa
 garage_door,closed,What's the status of the <device_name>,The <device_name> is closed,Tình trạng của <device_name> là gì,<device_name> được đóng
 garage_door,opening,Is the <device_name> opening,The <device_name> is currently opening,Là <device_name> mở đầu,<device_name> hiện đang mở
-garage_door,opening,What is the <device_name> doing,The <device_name> is opening,__Ph0__ đang làm gì,<device_name> đang mở
-garage_door,closing,Is the <device_name> closing,The <device_name> is currently closing,__Ph0__ có đóng không,<device_name> hiện đang đóng cửa
-garage_door,closing,Can you tell me if the <device_name> is closing,The <device_name> is closing,Bạn có thể cho tôi biết nếu __ph0__ đang đóng,__Ph0__ đang đóng
-blinds,open,Are the <device_name> open,The <device_name> are currently open,__Ph0__ có mở không,<device_name> hiện đang mở
+garage_door,opening,What is the <device_name> doing,The <device_name> is opening,<device_name> đang làm gì,<device_name> đang mở
+garage_door,closing,Is the <device_name> closing,The <device_name> is currently closing,<device_name> có đóng không,<device_name> hiện đang đóng cửa
+garage_door,closing,Can you tell me if the <device_name> is closing,The <device_name> is closing,Bạn có thể cho tôi biết nếu <device_name> đang đóng,<device_name> đang đóng
+blinds,open,Are the <device_name> open,The <device_name> are currently open,<device_name> có mở không,<device_name> hiện đang mở
 blinds,open,What's the status of the <device_name>,The <device_name> are open,Tình trạng của <device_name> là gì,<device_name> được mở
-blinds,closed,Are the <device_name> closed,The <device_name> are currently closed,__Ph0__ có đóng không,<device_name> hiện đang đóng cửa
-blinds,closed,Can you check if the <device_name> are closed,The <device_name> are closed,Bạn có thể kiểm tra xem __ph0__ có bị đóng không,<device_name> được đóng lại
+blinds,closed,Are the <device_name> closed,The <device_name> are currently closed,<device_name> có đóng không,<device_name> hiện đang đóng cửa
+blinds,closed,Can you check if the <device_name> are closed,The <device_name> are closed,Bạn có thể kiểm tra xem <device_name> có bị đóng không,<device_name> được đóng lại
 blinds,opening,Are the <device_name> opening,The <device_name> are currently opening,Là <device_name> mở đầu,<device_name> hiện đang mở
-blinds,opening,What is the <device_name> doing,The <device_name> are opening,__Ph0__ đang làm gì,<device_name> đang mở
-blinds,closing,Are the <device_name> closing,The <device_name> are currently closing,__Ph0__ có đóng không,<device_name> hiện đang đóng cửa
+blinds,opening,What is the <device_name> doing,The <device_name> are opening,<device_name> đang làm gì,<device_name> đang mở
+blinds,closing,Are the <device_name> closing,The <device_name> are currently closing,<device_name> có đóng không,<device_name> hiện đang đóng cửa
 blinds,closing,What's the status of the <device_name>,The <device_name> are closing,Tình trạng của <device_name> là gì,<device_name> đang đóng
-media_player,on,Is the <device_name> on,The <device_name> is currently on,Là __ph0__ trên,<device_name> hiện đang ở
+media_player,on,Is the <device_name> on,The <device_name> is currently on,Là <device_name> trên,<device_name> hiện đang ở
 media_player,on,What's the current status of the <device_name>,The <device_name> is on,Trạng thái hiện tại của <device_name>,<device_name> đang trên
-media_player,off,Is the <device_name> off,The <device_name> is currently off,Là __ph0__ tắt,<device_name> hiện đang tắt
-media_player,off,Can you tell me if the <device_name> is off,The <device_name> is off,Bạn có thể cho tôi biết nếu __ph0__ tắt,<device_name> bị tắt
-media_player,idle,What's the <device_name> doing,The <device_name> is idle,__Ph0__ đang làm gì,<device_name> không hoạt động
-media_player,idle,Is the <device_name> idle,The <device_name> is currently idle,Là __ph0__ nhàn rỗi,<device_name> hiện đang nhàn rỗi
-media_player,playing,Is the <device_name> playing,The <device_name> is currently playing,__Ph0__ có chơi không,<device_name> hiện đang chơi
-media_player,playing,Can you tell me if the <device_name> is playing,The <device_name> is playing,Bạn có thể cho tôi biết nếu __ph0__ đang chơi,<device_name> đang chơi
-media_player,paused,What's the status of the <device_name>,The <device_name> is paused,Tình trạng của <device_name> là gì,__Ph0__ bị tạm dừng
-media_player,paused,Is the <device_name> paused,The <device_name> is currently paused,__Ph0__ có bị tạm dừng không,<device_name> hiện đang bị tạm dừng
-media_player,standby,What is the <device_name> doing,The <device_name> is in standby,__Ph0__ đang làm gì,<device_name> ở chế độ chờ
-media_player,standby,Is the <device_name> in standby,The <device_name> is currently in standby,Là __ph0__ ở chế độ chờ,<device_name> hiện đang ở chế độ chờ
-lock,unlocked,Is the <device_name> unlocked,The <device_name> is currently unlocked,__Ph0__ có được mở khóa không,<device_name> hiện đang được mở khóa
+media_player,off,Is the <device_name> off,The <device_name> is currently off,Là <device_name> tắt,<device_name> hiện đang tắt
+media_player,off,Can you tell me if the <device_name> is off,The <device_name> is off,Bạn có thể cho tôi biết nếu <device_name> tắt,<device_name> bị tắt
+media_player,idle,What's the <device_name> doing,The <device_name> is idle,<device_name> đang làm gì,<device_name> không hoạt động
+media_player,idle,Is the <device_name> idle,The <device_name> is currently idle,Là <device_name> nhàn rỗi,<device_name> hiện đang nhàn rỗi
+media_player,playing,Is the <device_name> playing,The <device_name> is currently playing,<device_name> có chơi không,<device_name> hiện đang chơi
+media_player,playing,Can you tell me if the <device_name> is playing,The <device_name> is playing,Bạn có thể cho tôi biết nếu <device_name> đang chơi,<device_name> đang chơi
+media_player,paused,What's the status of the <device_name>,The <device_name> is paused,Tình trạng của <device_name> là gì,<device_name> bị tạm dừng
+media_player,paused,Is the <device_name> paused,The <device_name> is currently paused,<device_name> có bị tạm dừng không,<device_name> hiện đang bị tạm dừng
+media_player,standby,What is the <device_name> doing,The <device_name> is in standby,<device_name> đang làm gì,<device_name> ở chế độ chờ
+media_player,standby,Is the <device_name> in standby,The <device_name> is currently in standby,Là <device_name> ở chế độ chờ,<device_name> hiện đang ở chế độ chờ
+lock,unlocked,Is the <device_name> unlocked,The <device_name> is currently unlocked,<device_name> có được mở khóa không,<device_name> hiện đang được mở khóa
 lock,unlocked,What's the status of the <device_name>,The <device_name> is unlocked,Tình trạng của <device_name> là gì,<device_name> được mở khóa
-lock,locked,Is the <device_name> locked,The <device_name> is currently locked,__Ph0__ có bị khóa không,<device_name> hiện đang bị khóa
-lock,locked,Can you tell me if the <device_name> is locked,The <device_name> is locked,Bạn có thể cho tôi biết nếu __ph0__ bị khóa,<device_name> bị khóa
-lock,unlocking,What is the <device_name> doing,The <device_name> is unlocking,__Ph0__ đang làm gì,<device_name> đang mở khóa
-lock,unlocking,Is the <device_name> unlocking,The <device_name> is currently unlocking,__Ph0__ mở khóa có phải không,<device_name> hiện đang mở khóa
+lock,locked,Is the <device_name> locked,The <device_name> is currently locked,<device_name> có bị khóa không,<device_name> hiện đang bị khóa
+lock,locked,Can you tell me if the <device_name> is locked,The <device_name> is locked,Bạn có thể cho tôi biết nếu <device_name> bị khóa,<device_name> bị khóa
+lock,unlocking,What is the <device_name> doing,The <device_name> is unlocking,<device_name> đang làm gì,<device_name> đang mở khóa
+lock,unlocking,Is the <device_name> unlocking,The <device_name> is currently unlocking,<device_name> mở khóa có phải không,<device_name> hiện đang mở khóa
 lock,locking,Is the <device_name> locking,The <device_name> is currently locking,Là khóa <device_name>,<device_name> hiện đang khóa
-lock,locking,What's the status of the <device_name>,The <device_name> is locking,Tình trạng của <device_name> là gì,__Ph0__ đang khóa
-lock,jammed,What is the <device_name> doing,The <device_name> is jammed,__Ph0__ đang làm gì,__Ph0__ bị kẹt
-lock,jammed,Is the <device_name> jammed,The <device_name> is currently jammed,Là __ph0__ bị kẹt,__Ph0__ hiện đang bị kẹt
-light,on,Is the <device_name> active,The <device_name> is currently on,__Ph0__ có hoạt động không,<device_name> hiện đang ở
-light,on,Is the <device_name> powered,The <device_name> is on,__Ph0__ có được cung cấp không,<device_name> đang trên
-light,off,Is the <device_name> deactivated,The <device_name> is currently off,__Ph0__ có bị vô hiệu hóa không,<device_name> hiện đang tắt
-fan,on,Is the <device_name> spinning,The <device_name> is currently on,__Ph0__ có quay vòng không,<device_name> hiện đang ở
-fan,on,Is the <device_name> blowing air,The <device_name> is on,__Ph0__ có thổi không khí không,<device_name> đang trên
-fan,off,Is the <device_name> idle,The <device_name> is currently off,Là __ph0__ nhàn rỗi,<device_name> hiện đang tắt
-fan,off,Is the <device_name> still,The <device_name> is off,__Ph0__ vẫn chưa,<device_name> bị tắt
-lock,unlocked,Is the <device_name> open,The <device_name> is currently unlocked,__Ph0__ có mở không,<device_name> hiện đang được mở khóa
-lock,unlocked,Is the <device_name> unsecured,The <device_name> is unlocked,__Ph0__ không được bảo đảm,<device_name> được mở khóa
-lock,locked,Is the <device_name> secure,The <device_name> is currently locked,__Ph0__ có an toàn không,<device_name> hiện đang bị khóa
-lock,locked,Is the <device_name> sealed,The <device_name> is locked,__Ph0__ có được niêm phong không,<device_name> bị khóa
-garage_door,open,Is the <device_name> unsealed,The <device_name> is currently open,__Ph0__ chưa được tiết lộ,<device_name> hiện đang mở
-garage_door,closed,Is the <device_name> shut,The <device_name> is currently closed,__Ph0__ có đóng không,<device_name> hiện đang đóng cửa
-blinds,open,Is the <device_name> pulled up,The <device_name> are currently open,__Ph0__ có bị kéo lên không,<device_name> hiện đang mở
-blinds,closed,Is the <device_name> pulled down,The <device_name> are currently closed,__Ph0__ có bị kéo xuống không,<device_name> hiện đang đóng cửa
-light,on,Is the <device_name> lit,The <device_name> is currently on,__Ph0__ có sáng không,<device_name> hiện đang ở
-light,off,Is the <device_name> turned off,Yes <device_name> is off,__Ph0__ có bị tắt không,Có <device_name> bị tắt
-light,on,Uh can you check if the <device_name> is on or something,The <device_name> is currently on,Uh bạn có thể kiểm tra xem __ph0__ có bật hay không,<device_name> hiện đang ở
-light,off,Hey what's up with the <device_name> is it off,The <device_name> is currently off,"Này, có chuyện gì với __ph0__",<device_name> hiện đang tắt
-fan,on,So is the <device_name> whirling away,The <device_name> is indeed on,__Ph0__ quay đi __ph0__,<device_name> thực sự là trên
-fan,off,Any idea if the <device_name> is off,The <device_name> is currently off,Bất kỳ ý tưởng nào nếu __ph0__ tắt,<device_name> hiện đang tắt
-lock,unlocked,Hey is the <device_name> unlocked or what,The <device_name> is currently unlocked,Này là __ph0__ được mở khóa hay sao,<device_name> hiện đang được mở khóa
-lock,locked,Can you tell me if the <device_name> is all locked up,The <device_name> is indeed locked,Bạn có thể cho tôi biết nếu __ph0__ đều bị khóa,<device_name> thực sự bị khóa
-garage_door,open,Hey did we leave the <device_name> open,Yes the <device_name> is currently open,"Này, chúng tôi đã để __ph0__ mở",Có __ph0__ hiện đang mở
-garage_door,closed,Is the <device_name> actually closed,The <device_name> is indeed closed,__Ph0__ có thực sự đóng không,<device_name> thực sự đã đóng
-blinds,open,Are the <device_name> up or what,The <device_name> are currently open,__Ph0__ lên hay sao,<device_name> hiện đang mở
+lock,locking,What's the status of the <device_name>,The <device_name> is locking,Tình trạng của <device_name> là gì,<device_name> đang khóa
+lock,jammed,What is the <device_name> doing,The <device_name> is jammed,<device_name> đang làm gì,<device_name> bị kẹt
+lock,jammed,Is the <device_name> jammed,The <device_name> is currently jammed,Là <device_name> bị kẹt,<device_name> hiện đang bị kẹt
+light,on,Is the <device_name> active,The <device_name> is currently on,<device_name> có hoạt động không,<device_name> hiện đang ở
+light,on,Is the <device_name> powered,The <device_name> is on,<device_name> có được cung cấp không,<device_name> đang trên
+light,off,Is the <device_name> deactivated,The <device_name> is currently off,<device_name> có bị vô hiệu hóa không,<device_name> hiện đang tắt
+fan,on,Is the <device_name> spinning,The <device_name> is currently on,<device_name> có quay vòng không,<device_name> hiện đang ở
+fan,on,Is the <device_name> blowing air,The <device_name> is on,<device_name> có thổi không khí không,<device_name> đang trên
+fan,off,Is the <device_name> idle,The <device_name> is currently off,Là <device_name> nhàn rỗi,<device_name> hiện đang tắt
+fan,off,Is the <device_name> still,The <device_name> is off,<device_name> vẫn chưa,<device_name> bị tắt
+lock,unlocked,Is the <device_name> open,The <device_name> is currently unlocked,<device_name> có mở không,<device_name> hiện đang được mở khóa
+lock,unlocked,Is the <device_name> unsecured,The <device_name> is unlocked,<device_name> không được bảo đảm,<device_name> được mở khóa
+lock,locked,Is the <device_name> secure,The <device_name> is currently locked,<device_name> có an toàn không,<device_name> hiện đang bị khóa
+lock,locked,Is the <device_name> sealed,The <device_name> is locked,<device_name> có được niêm phong không,<device_name> bị khóa
+garage_door,open,Is the <device_name> unsealed,The <device_name> is currently open,<device_name> chưa được tiết lộ,<device_name> hiện đang mở
+garage_door,closed,Is the <device_name> shut,The <device_name> is currently closed,<device_name> có đóng không,<device_name> hiện đang đóng cửa
+blinds,open,Is the <device_name> pulled up,The <device_name> are currently open,<device_name> có bị kéo lên không,<device_name> hiện đang mở
+blinds,closed,Is the <device_name> pulled down,The <device_name> are currently closed,<device_name> có bị kéo xuống không,<device_name> hiện đang đóng cửa
+light,on,Is the <device_name> lit,The <device_name> is currently on,<device_name> có sáng không,<device_name> hiện đang ở
+light,off,Is the <device_name> turned off,Yes <device_name> is off,<device_name> có bị tắt không,Có <device_name> bị tắt
+light,on,Uh can you check if the <device_name> is on or something,The <device_name> is currently on,Uh bạn có thể kiểm tra xem <device_name> có bật hay không,<device_name> hiện đang ở
+light,off,Hey what's up with the <device_name> is it off,The <device_name> is currently off,"Này, có chuyện gì với <device_name>",<device_name> hiện đang tắt
+fan,on,So is the <device_name> whirling away,The <device_name> is indeed on,<device_name> quay đi <device_name>,<device_name> thực sự là trên
+fan,off,Any idea if the <device_name> is off,The <device_name> is currently off,Bất kỳ ý tưởng nào nếu <device_name> tắt,<device_name> hiện đang tắt
+lock,unlocked,Hey is the <device_name> unlocked or what,The <device_name> is currently unlocked,Này là <device_name> được mở khóa hay sao,<device_name> hiện đang được mở khóa
+lock,locked,Can you tell me if the <device_name> is all locked up,The <device_name> is indeed locked,Bạn có thể cho tôi biết nếu <device_name> đều bị khóa,<device_name> thực sự bị khóa
+garage_door,open,Hey did we leave the <device_name> open,Yes the <device_name> is currently open,"Này, chúng tôi đã để <device_name> mở",Có <device_name> hiện đang mở
+garage_door,closed,Is the <device_name> actually closed,The <device_name> is indeed closed,<device_name> có thực sự đóng không,<device_name> thực sự đã đóng
+blinds,open,Are the <device_name> up or what,The <device_name> are currently open,<device_name> lên hay sao,<device_name> hiện đang mở
 blinds,closed,So did we lower the <device_name>,The <device_name> are indeed closed,Chúng ta cũng đã hạ thấp <device_name>,<device_name> thực sự đã đóng
-light,on,Hey is the <device_name> shining,The <device_name> is currently on,Này là __ph0__ tỏa sáng,<device_name> hiện đang ở
-light,off,Uh is the <device_name> off,The <device_name> is indeed off,Uh là __ph0__ tắt,<device_name> thực sự là tắt
-fan,on,Can you confirm if the <device_name> is running,The <device_name> is currently on,Bạn có thể xác nhận nếu __ph0__ đang chạy,<device_name> hiện đang ở
-fan,off,Is the <device_name> taking a break,The <device_name> is off at the moment,__Ph0__ có nghỉ không,<device_name> đang tắt vào lúc này
-lock,unlocked,So is the <device_name> open,The <device_name> is currently unlocked,__Ph0__ mở ra cũng vậy,<device_name> hiện đang được mở khóa
-lock,locked,Is the <device_name> bolted,The <device_name> is indeed locked,__Ph0__ có được bắt vít không,<device_name> thực sự bị khóa
-light,on,Is the <device_name> off,Actually the <device_name> is currently on,Là __ph0__ tắt,Trên thực tế <device_name> hiện đang ở
-light,off,Is the <device_name> on,No the <device_name> is off right now,Là __ph0__ trên,Không có __ph0__ ngay bây giờ
-fan,on,Is the <device_name> off,Actually the <device_name> is on at the moment,Là __ph0__ tắt,"Trên thực tế, __ph0__ đang bật"
-fan,off,Is the <device_name> blowing air,Sorry the <device_name> is currently off,__Ph0__ có thổi không khí không,Xin lỗi __ph0__ hiện đang tắt
-lock,locked,Is the <device_name> unlocked,No the <device_name> is currently locked,__Ph0__ có được mở khóa không,Không có <device_name> hiện đang bị khóa
-lock,unlocked,Is the <device_name> locked,No the <device_name> is currently unlocked,__Ph0__ có bị khóa không,Không có <device_name> hiện đang được mở khóa
-garage_door,open,Is the <device_name> closed,No the <device_name> is currently open,__Ph0__ có đóng không,Không có <device_name> hiện đang mở
-garage_door,closed,Is the <device_name> open,No the <device_name> is currently closed,__Ph0__ có mở không,Không có <device_name> hiện đang đóng cửa
-blinds,open,Are the <device_name> closed,No the <device_name> are currently open,__Ph0__ có đóng không,Không có <device_name> hiện đang mở
-blinds,closed,Are the <device_name> open,No the <device_name> are currently closed,__Ph0__ có mở không,Không có __ph0__ hiện đang đóng cửa
-light,on,Uh can you check if the <device_name> is off,No the <device_name> is actually on,Uh bạn có thể kiểm tra xem __ph0__ có tắt không,Không có <device_name> thực sự là trên
-light,off,Hey is the <device_name> shining,No the <device_name> is currently off,Này là __ph0__ tỏa sáng,Không có <device_name> hiện đang tắt
-fan,on,Is the <device_name> taking a break,No the <device_name> is on right now,__Ph0__ có nghỉ không,Không có __ph0__ đang ở ngay bây giờ
-fan,off,Is the <device_name> whirling away,No the <device_name> is off at the moment,Là __ph0__ quay cuồng,Không có <device_name> đang tắt vào lúc này
-lock,unlocked,Is the <device_name> bolted,No the <device_name> is currently unlocked,__Ph0__ có được bắt vít không,Không có <device_name> hiện đang được mở khóa
-lock,locked,Is the <device_name> free and clear,No the <device_name> is actually locked,__Ph0__ miễn phí và rõ ràng,Không có __ph0__ thực sự bị khóa
-garage_door,open,Is the <device_name> shut,No the <device_name> is currently open,__Ph0__ có đóng không,Không có <device_name> hiện đang mở
-garage_door,closed,Did we leave the <device_name> open,No the <device_name> is closed,Chúng ta đã để __ph0__ mở,Không đóng cửa <device_name>
-blinds,open,Did we lower the <device_name>,No the <device_name> are actually open,Chúng ta đã hạ thấp __ph0__,Không có <device_name> thực sự mở
-blinds,closed,Is the <device_name> pulled up,No the <device_name> are currently closed,__Ph0__ có bị kéo lên không,Không có __ph0__ hiện đang đóng cửa
-media_player,on,Is the <device_name> off,No the <device_name> is currently on,Là __ph0__ tắt,Không có <device_name> hiện đang ở
-media_player,off,Is the <device_name> playing,No the <device_name> is off right now,__Ph0__ có chơi không,Không có __ph0__ ngay bây giờ
-media_player,idle,Is the <device_name> playing some music,No the <device_name> is idle at the moment,__Ph0__ có chơi một số nhạc không,Không có __ph0__ không hoạt động vào lúc này
-media_player,playing,Is the <device_name> paused,No the <device_name> is actually playing,__Ph0__ có bị tạm dừng không,Không có __ph0__ thực sự đang chơi
-media_player,paused,Is the <device_name> in standby,No the <device_name> is paused right now,Là __ph0__ ở chế độ chờ,Không có __ph0__ được tạm dừng ngay bây giờ
-media_player,standby,Is the <device_name> playing,No the <device_name> is in standby,__Ph0__ có chơi không,Không có __ph0__ ở chế độ chờ
-garage_door,opening,Is the <device_name> closing,No the <device_name> is currently opening,__Ph0__ có đóng không,Không có <device_name> hiện đang mở
+light,on,Hey is the <device_name> shining,The <device_name> is currently on,Này là <device_name> tỏa sáng,<device_name> hiện đang ở
+light,off,Uh is the <device_name> off,The <device_name> is indeed off,Uh là <device_name> tắt,<device_name> thực sự là tắt
+fan,on,Can you confirm if the <device_name> is running,The <device_name> is currently on,Bạn có thể xác nhận nếu <device_name> đang chạy,<device_name> hiện đang ở
+fan,off,Is the <device_name> taking a break,The <device_name> is off at the moment,<device_name> có nghỉ không,<device_name> đang tắt vào lúc này
+lock,unlocked,So is the <device_name> open,The <device_name> is currently unlocked,<device_name> mở ra cũng vậy,<device_name> hiện đang được mở khóa
+lock,locked,Is the <device_name> bolted,The <device_name> is indeed locked,<device_name> có được bắt vít không,<device_name> thực sự bị khóa
+light,on,Is the <device_name> off,Actually the <device_name> is currently on,Là <device_name> tắt,Trên thực tế <device_name> hiện đang ở
+light,off,Is the <device_name> on,No the <device_name> is off right now,Là <device_name> trên,Không có <device_name> ngay bây giờ
+fan,on,Is the <device_name> off,Actually the <device_name> is on at the moment,Là <device_name> tắt,"Trên thực tế, <device_name> đang bật"
+fan,off,Is the <device_name> blowing air,Sorry the <device_name> is currently off,<device_name> có thổi không khí không,Xin lỗi <device_name> hiện đang tắt
+lock,locked,Is the <device_name> unlocked,No the <device_name> is currently locked,<device_name> có được mở khóa không,Không có <device_name> hiện đang bị khóa
+lock,unlocked,Is the <device_name> locked,No the <device_name> is currently unlocked,<device_name> có bị khóa không,Không có <device_name> hiện đang được mở khóa
+garage_door,open,Is the <device_name> closed,No the <device_name> is currently open,<device_name> có đóng không,Không có <device_name> hiện đang mở
+garage_door,closed,Is the <device_name> open,No the <device_name> is currently closed,<device_name> có mở không,Không có <device_name> hiện đang đóng cửa
+blinds,open,Are the <device_name> closed,No the <device_name> are currently open,<device_name> có đóng không,Không có <device_name> hiện đang mở
+blinds,closed,Are the <device_name> open,No the <device_name> are currently closed,<device_name> có mở không,Không có <device_name> hiện đang đóng cửa
+light,on,Uh can you check if the <device_name> is off,No the <device_name> is actually on,Uh bạn có thể kiểm tra xem <device_name> có tắt không,Không có <device_name> thực sự là trên
+light,off,Hey is the <device_name> shining,No the <device_name> is currently off,Này là <device_name> tỏa sáng,Không có <device_name> hiện đang tắt
+fan,on,Is the <device_name> taking a break,No the <device_name> is on right now,<device_name> có nghỉ không,Không có <device_name> đang ở ngay bây giờ
+fan,off,Is the <device_name> whirling away,No the <device_name> is off at the moment,Là <device_name> quay cuồng,Không có <device_name> đang tắt vào lúc này
+lock,unlocked,Is the <device_name> bolted,No the <device_name> is currently unlocked,<device_name> có được bắt vít không,Không có <device_name> hiện đang được mở khóa
+lock,locked,Is the <device_name> free and clear,No the <device_name> is actually locked,<device_name> miễn phí và rõ ràng,Không có <device_name> thực sự bị khóa
+garage_door,open,Is the <device_name> shut,No the <device_name> is currently open,<device_name> có đóng không,Không có <device_name> hiện đang mở
+garage_door,closed,Did we leave the <device_name> open,No the <device_name> is closed,Chúng ta đã để <device_name> mở,Không đóng cửa <device_name>
+blinds,open,Did we lower the <device_name>,No the <device_name> are actually open,Chúng ta đã hạ thấp <device_name>,Không có <device_name> thực sự mở
+blinds,closed,Is the <device_name> pulled up,No the <device_name> are currently closed,<device_name> có bị kéo lên không,Không có <device_name> hiện đang đóng cửa
+media_player,on,Is the <device_name> off,No the <device_name> is currently on,Là <device_name> tắt,Không có <device_name> hiện đang ở
+media_player,off,Is the <device_name> playing,No the <device_name> is off right now,<device_name> có chơi không,Không có <device_name> ngay bây giờ
+media_player,idle,Is the <device_name> playing some music,No the <device_name> is idle at the moment,<device_name> có chơi một số nhạc không,Không có <device_name> không hoạt động vào lúc này
+media_player,playing,Is the <device_name> paused,No the <device_name> is actually playing,<device_name> có bị tạm dừng không,Không có <device_name> thực sự đang chơi
+media_player,paused,Is the <device_name> in standby,No the <device_name> is paused right now,Là <device_name> ở chế độ chờ,Không có <device_name> được tạm dừng ngay bây giờ
+media_player,standby,Is the <device_name> playing,No the <device_name> is in standby,<device_name> có chơi không,Không có <device_name> ở chế độ chờ
+garage_door,opening,Is the <device_name> closing,No the <device_name> is currently opening,<device_name> có đóng không,Không có <device_name> hiện đang mở
 garage_door,closing,Is the <device_name> opening,No the <device_name> is currently closing,Là <device_name> mở đầu,Không có <device_name> hiện đang đóng cửa
-blinds,opening,Are the <device_name> closing,No the <device_name> are opening,__Ph0__ có đóng không,Không có <device_name> đang mở
-blinds,closing,Are the <device_name> opening,No the <device_name> are closing,Là <device_name> mở đầu,Không có __ph0__ đang đóng
+blinds,opening,Are the <device_name> closing,No the <device_name> are opening,<device_name> có đóng không,Không có <device_name> đang mở
+blinds,closing,Are the <device_name> opening,No the <device_name> are closing,Là <device_name> mở đầu,Không có <device_name> đang đóng
 lock,unlocking,Is the <device_name> locking,No the <device_name> is unlocking,Là khóa <device_name>,Không có <device_name> đang mở khóa
-lock,locking,Is the <device_name> unlocking,No the <device_name> is locking,__Ph0__ mở khóa có phải không,Không có __ph0__ đang khóa
-lock,jammed,Is the <device_name> unlocked,No the <device_name> is jammed,__Ph0__ có được mở khóa không,Không có __ph0__ bị kẹt
-light,on,Is the <device_name> dark,No the <device_name> is currently on,__Ph0__ có tối không,Không có <device_name> hiện đang ở
-light,off,Is the <device_name> shining,No the <device_name> is off,__Ph0__ có tỏa sáng không,Không có <device_name> bị tắt
-fan,on,Is the <device_name> idle,No the <device_name> is actually on,Là __ph0__ nhàn rỗi,Không có <device_name> thực sự là trên
-fan,off,Is the <device_name> blowing air,No the <device_name> is off right now,__Ph0__ có thổi không khí không,Không có __ph0__ ngay bây giờ
-lock,unlocked,Is the <device_name> secure,No the <device_name> is currently unlocked,__Ph0__ có an toàn không,Không có <device_name> hiện đang được mở khóa
-lock,locked,Is the <device_name> open,No the <device_name> is locked,__Ph0__ có mở không,Không có __ph0__ bị khóa
-lock,jammed,Is the <device_name> locking,No the <device_name> is jammed,Là khóa <device_name>,Không có __ph0__ bị kẹt
-light,on,Is the <device_name> off,No the <device_name> is on,Là __ph0__ tắt,Không có <device_name> đang trên
-light,off,Is the <device_name> active,No the <device_name> is off,__Ph0__ có hoạt động không,Không có <device_name> bị tắt
-light,on,Is the <device_name> on or off,The <device_name> is on,__Ph0__ trên hoặc tắt là,<device_name> đang trên
-light,off,Is the <device_name> on or off,The <device_name> is off,__Ph0__ trên hoặc tắt là,<device_name> bị tắt
-fan,on,Is the <device_name> on or off,The <device_name> is on,__Ph0__ trên hoặc tắt là,<device_name> đang trên
-fan,off,Is the <device_name> on or off,The <device_name> is off,__Ph0__ trên hoặc tắt là,<device_name> bị tắt
-garage_door,open,Is the <device_name> open or closed,The <device_name> is open,__Ph0__ mở hoặc đóng,<device_name> đang mở
-garage_door,closed,Is the <device_name> open or closed,The <device_name> is closed,__Ph0__ mở hoặc đóng,<device_name> được đóng
+lock,locking,Is the <device_name> unlocking,No the <device_name> is locking,<device_name> mở khóa có phải không,Không có <device_name> đang khóa
+lock,jammed,Is the <device_name> unlocked,No the <device_name> is jammed,<device_name> có được mở khóa không,Không có <device_name> bị kẹt
+light,on,Is the <device_name> dark,No the <device_name> is currently on,<device_name> có tối không,Không có <device_name> hiện đang ở
+light,off,Is the <device_name> shining,No the <device_name> is off,<device_name> có tỏa sáng không,Không có <device_name> bị tắt
+fan,on,Is the <device_name> idle,No the <device_name> is actually on,Là <device_name> nhàn rỗi,Không có <device_name> thực sự là trên
+fan,off,Is the <device_name> blowing air,No the <device_name> is off right now,<device_name> có thổi không khí không,Không có <device_name> ngay bây giờ
+lock,unlocked,Is the <device_name> secure,No the <device_name> is currently unlocked,<device_name> có an toàn không,Không có <device_name> hiện đang được mở khóa
+lock,locked,Is the <device_name> open,No the <device_name> is locked,<device_name> có mở không,Không có <device_name> bị khóa
+lock,jammed,Is the <device_name> locking,No the <device_name> is jammed,Là khóa <device_name>,Không có <device_name> bị kẹt
+light,on,Is the <device_name> off,No the <device_name> is on,Là <device_name> tắt,Không có <device_name> đang trên
+light,off,Is the <device_name> active,No the <device_name> is off,<device_name> có hoạt động không,Không có <device_name> bị tắt
+light,on,Is the <device_name> on or off,The <device_name> is on,<device_name> trên hoặc tắt là,<device_name> đang trên
+light,off,Is the <device_name> on or off,The <device_name> is off,<device_name> trên hoặc tắt là,<device_name> bị tắt
+fan,on,Is the <device_name> on or off,The <device_name> is on,<device_name> trên hoặc tắt là,<device_name> đang trên
+fan,off,Is the <device_name> on or off,The <device_name> is off,<device_name> trên hoặc tắt là,<device_name> bị tắt
+garage_door,open,Is the <device_name> open or closed,The <device_name> is open,<device_name> mở hoặc đóng,<device_name> đang mở
+garage_door,closed,Is the <device_name> open or closed,The <device_name> is closed,<device_name> mở hoặc đóng,<device_name> được đóng
 blinds,open,Are the <device_name> open or closed,The <device_name> are open,<device_name> mở hoặc đóng,<device_name> được mở
 blinds,closed,Are the <device_name> open or closed,The <device_name> are closed,<device_name> mở hoặc đóng,<device_name> được đóng lại
-media_player,on,Is the <device_name> on or off,The <device_name> is on,__Ph0__ trên hoặc tắt là,<device_name> đang trên
-media_player,off,Is the <device_name> on or off,The <device_name> is off,__Ph0__ trên hoặc tắt là,<device_name> bị tắt
+media_player,on,Is the <device_name> on or off,The <device_name> is on,<device_name> trên hoặc tắt là,<device_name> đang trên
+media_player,off,Is the <device_name> on or off,The <device_name> is off,<device_name> trên hoặc tắt là,<device_name> bị tắt
 lock,unlocked,Is the <device_name> locked or unlocked,The <device_name> is unlocked,<device_name> bị khóa hoặc mở khóa,<device_name> được mở khóa
 lock,locked,Is the <device_name> locked or unlocked,The <device_name> is locked,<device_name> bị khóa hoặc mở khóa,<device_name> bị khóa
-media_player,playing,Is the <device_name> playing or paused,The <device_name> is playing,__Ph0__ chơi hoặc tạm dừng,<device_name> đang chơi
-media_player,paused,Is the <device_name> playing or paused,The <device_name> is paused,__Ph0__ chơi hoặc tạm dừng,__Ph0__ bị tạm dừng
+media_player,playing,Is the <device_name> playing or paused,The <device_name> is playing,<device_name> chơi hoặc tạm dừng,<device_name> đang chơi
+media_player,paused,Is the <device_name> playing or paused,The <device_name> is paused,<device_name> chơi hoặc tạm dừng,<device_name> bị tạm dừng
 garage_door,opening,Is the <device_name> opening or closing,The <device_name> is opening,Là <device_name> mở hoặc đóng,<device_name> đang mở
-garage_door,closing,Is the <device_name> opening or closing,The <device_name> is closing,Là <device_name> mở hoặc đóng,__Ph0__ đang đóng
+garage_door,closing,Is the <device_name> opening or closing,The <device_name> is closing,Là <device_name> mở hoặc đóng,<device_name> đang đóng
 blinds,opening,Are the <device_name> opening or closing,The <device_name> are opening,Là <device_name> mở hoặc đóng,<device_name> đang mở
 blinds,closing,Are the <device_name> opening or closing,The <device_name> are closing,Là <device_name> mở hoặc đóng,<device_name> đang đóng
 lock,unlocking,Is the <device_name> locking or unlocking,The <device_name> is unlocking,Là khóa <device_name> hoặc mở khóa,<device_name> đang mở khóa
-lock,locking,Is the <device_name> locking or unlocking,The <device_name> is locking,Là khóa <device_name> hoặc mở khóa,__Ph0__ đang khóa
-lock,jammed,Is the <device_name> locked or jammed,The <device_name> is jammed,__Ph0__ bị khóa hoặc bị kẹt,__Ph0__ bị kẹt
-media_player,idle,Is the <device_name> idle or in standby,The <device_name> is idle,Là __ph0__ nhàn rỗi hoặc ở chế độ chờ,<device_name> không hoạt động
-media_player,standby,Is the <device_name> idle or in standby,The <device_name> is in standby,Là __ph0__ nhàn rỗi hoặc ở chế độ chờ,<device_name> ở chế độ chờ
-light,on,Is the <device_name> on or dim,The <device_name> is on,Là __ph0__ trên hoặc mờ,<device_name> đang trên
-light,off,Is the <device_name> on or dim,The <device_name> is off,Là __ph0__ trên hoặc mờ,<device_name> bị tắt
-fan,on,Is the <device_name> spinning or still,The <device_name> is spinning,Là <device_name> quay hay vẫn còn,__Ph0__ đang quay
+lock,locking,Is the <device_name> locking or unlocking,The <device_name> is locking,Là khóa <device_name> hoặc mở khóa,<device_name> đang khóa
+lock,jammed,Is the <device_name> locked or jammed,The <device_name> is jammed,<device_name> bị khóa hoặc bị kẹt,<device_name> bị kẹt
+media_player,idle,Is the <device_name> idle or in standby,The <device_name> is idle,Là <device_name> nhàn rỗi hoặc ở chế độ chờ,<device_name> không hoạt động
+media_player,standby,Is the <device_name> idle or in standby,The <device_name> is in standby,Là <device_name> nhàn rỗi hoặc ở chế độ chờ,<device_name> ở chế độ chờ
+light,on,Is the <device_name> on or dim,The <device_name> is on,Là <device_name> trên hoặc mờ,<device_name> đang trên
+light,off,Is the <device_name> on or dim,The <device_name> is off,Là <device_name> trên hoặc mờ,<device_name> bị tắt
+fan,on,Is the <device_name> spinning or still,The <device_name> is spinning,Là <device_name> quay hay vẫn còn,<device_name> đang quay
 fan,off,Is the <device_name> spinning or still,The <device_name> is still,Là <device_name> quay hay vẫn còn,<device_name> vẫn còn
-lock,unlocked,Is the <device_name> secure or unsecure,The <device_name> is unsecure,__Ph0__ an toàn hoặc không an toàn,<device_name> không an toàn
-lock,locked,Is the <device_name> secure or unsecure,The <device_name> is secure,__Ph0__ an toàn hoặc không an toàn,<device_name> an toàn
-lock,jammed,Is the <device_name> secure or jammed,The <device_name> is jammed,__Ph0__ an toàn hoặc bị kẹt,__Ph0__ bị kẹt
-light,on,What's the current condition of the <device_name>,The <device_name> is on,Tình trạng hiện tại của __ph0__ là gì,<device_name> đang trên
-light,off,How's the <device_name> looking right now,The <device_name> is off,__Ph0__ trông như thế nào ngay bây giờ,<device_name> bị tắt
+lock,unlocked,Is the <device_name> secure or unsecure,The <device_name> is unsecure,<device_name> an toàn hoặc không an toàn,<device_name> không an toàn
+lock,locked,Is the <device_name> secure or unsecure,The <device_name> is secure,<device_name> an toàn hoặc không an toàn,<device_name> an toàn
+lock,jammed,Is the <device_name> secure or jammed,The <device_name> is jammed,<device_name> an toàn hoặc bị kẹt,<device_name> bị kẹt
+light,on,What's the current condition of the <device_name>,The <device_name> is on,Tình trạng hiện tại của <device_name> là gì,<device_name> đang trên
+light,off,How's the <device_name> looking right now,The <device_name> is off,<device_name> trông như thế nào ngay bây giờ,<device_name> bị tắt
 fan,on,What's happening with the <device_name>,The <device_name> is on,Điều gì đang xảy ra với <device_name>,<device_name> đang trên
 fan,off,Can you give me an update on the <device_name>,The <device_name> is off,Bạn có thể cho tôi một bản cập nhật trên <device_name>,<device_name> bị tắt
-garage_door,open,Fill me in on the <device_name> would you,The <device_name> is open,Điền vào tôi trên __ph0__ bạn sẽ,<device_name> đang mở
-garage_door,closed,What's the situation with the <device_name>,The <device_name> is closed,Tình huống với __ph0__ là gì,<device_name> được đóng
-blinds,open,What's the latest on the <device_name>,The <device_name> are open,Cái mới nhất trên __ph0__,<device_name> được mở
-blinds,closed,Can you update me on the <device_name>,The <device_name> are closed,Bạn có thể cập nhật cho tôi trên __ph0__,<device_name> được đóng lại
+garage_door,open,Fill me in on the <device_name> would you,The <device_name> is open,Điền vào tôi trên <device_name> bạn sẽ,<device_name> đang mở
+garage_door,closed,What's the situation with the <device_name>,The <device_name> is closed,Tình huống với <device_name> là gì,<device_name> được đóng
+blinds,open,What's the latest on the <device_name>,The <device_name> are open,Cái mới nhất trên <device_name>,<device_name> được mở
+blinds,closed,Can you update me on the <device_name>,The <device_name> are closed,Bạn có thể cập nhật cho tôi trên <device_name>,<device_name> được đóng lại
 media_player,on,What's the status of the <device_name>,The <device_name> is on,Tình trạng của <device_name> là gì,<device_name> đang trên
-media_player,off,How's the <device_name> doing,The <device_name> is off,__Ph0__ thế nào,<device_name> bị tắt
-lock,unlocked,What's the word on the <device_name>,The <device_name> is unlocked,Từ đó là gì trên __ph0__,<device_name> được mở khóa
-lock,locked,How's it going with the <device_name>,The <device_name> is locked,Thế nào rồi với __ph0__,<device_name> bị khóa
-media_player,playing,Can you clue me in on the <device_name>,The <device_name> is playing,Bạn có thể manh thnet với tôi trên __ph0__,<device_name> đang chơi
-media_player,paused,What's going down with the <device_name>,The <device_name> is paused,Điều gì sẽ xảy ra với <device_name>,__Ph0__ bị tạm dừng
-garage_door,opening,Any news on the <device_name>,The <device_name> is opening,Bất kỳ tin tức nào trên __ph0__,<device_name> đang mở
-garage_door,closing,What's the scoop on the <device_name>,The <device_name> is closing,Cái muỗng trên __ph0__ là gì,__Ph0__ đang đóng
+media_player,off,How's the <device_name> doing,The <device_name> is off,<device_name> thế nào,<device_name> bị tắt
+lock,unlocked,What's the word on the <device_name>,The <device_name> is unlocked,Từ đó là gì trên <device_name>,<device_name> được mở khóa
+lock,locked,How's it going with the <device_name>,The <device_name> is locked,Thế nào rồi với <device_name>,<device_name> bị khóa
+media_player,playing,Can you clue me in on the <device_name>,The <device_name> is playing,Bạn có thể manh thnet với tôi trên <device_name>,<device_name> đang chơi
+media_player,paused,What's going down with the <device_name>,The <device_name> is paused,Điều gì sẽ xảy ra với <device_name>,<device_name> bị tạm dừng
+garage_door,opening,Any news on the <device_name>,The <device_name> is opening,Bất kỳ tin tức nào trên <device_name>,<device_name> đang mở
+garage_door,closing,What's the scoop on the <device_name>,The <device_name> is closing,Cái muỗng trên <device_name> là gì,<device_name> đang đóng
 blinds,opening,Got any updates on the <device_name>,The <device_name> are opening,Có bất kỳ cập nhật nào trên <device_name>,<device_name> đang mở
-blinds,closing,What's happening with the <device_name> now,The <device_name> are closing,Điều gì đang xảy ra với __ph0__ bây giờ,<device_name> đang đóng
+blinds,closing,What's happening with the <device_name> now,The <device_name> are closing,Điều gì đang xảy ra với <device_name> bây giờ,<device_name> đang đóng
 lock,unlocking,What's the latest update on the <device_name>,The <device_name> is unlocking,Bản cập nhật mới nhất trên <device_name>,<device_name> đang mở khóa
-lock,locking,Any changes with the <device_name>,The <device_name> is locking,Bất kỳ thay đổi nào với <device_name>,__Ph0__ đang khóa
+lock,locking,Any changes with the <device_name>,The <device_name> is locking,Bất kỳ thay đổi nào với <device_name>,<device_name> đang khóa
 light,on,What's up with the <device_name>,The <device_name> is on,Có chuyện gì với <device_name>,<device_name> đang trên
 light,off,whats the <device_name> status,The <device_name> is off,Trạng thái <device_name> là gì,<device_name> bị tắt
 fan,on,Is <device_name> active,The <device_name> is on,Là <device_name> hoạt động,<device_name> đang trên
 fan,off,Status of <device_name>,The <device_name> is off,Tình trạng của <device_name>,<device_name> bị tắt
 garage_door,open,<device_name> update,The <device_name> is open,<device_name> Cập nhật,<device_name> đang mở
 garage_door,closed,<device_name> current state,The <device_name> is closed,<device_name> Trạng thái hiện tại,<device_name> được đóng
-blinds,open,How's the <device_name>,The <device_name> are open,__Ph0__ như thế nào,<device_name> được mở
+blinds,open,How's the <device_name>,The <device_name> are open,<device_name> như thế nào,<device_name> được mở
 blinds,closed,Update on <device_name>,The <device_name> are closed,Cập nhật trên <device_name>,<device_name> được đóng lại
 media_player,on,what is the State of <device_name>,The <device_name> is on,Trạng thái của <device_name> là gì,<device_name> đang trên
 media_player,off,Any news on <device_name>,The <device_name> is off,Bất kỳ tin tức nào trên <device_name>,<device_name> bị tắt
-lock,unlocked,How's the <device_name>,The <device_name> is unlocked,__Ph0__ như thế nào,<device_name> được mở khóa
+lock,unlocked,How's the <device_name>,The <device_name> is unlocked,<device_name> như thế nào,<device_name> được mở khóa
 lock,locked,<device_name> okay,The <device_name> is locked,<device_name> Được rồi,<device_name> bị khóa
 media_player,playing,Is <device_name> active,The <device_name> is playing,Là <device_name> hoạt động,<device_name> đang chơi
-media_player,paused,<device_name> state,The <device_name> is paused,<device_name> Nhà nước,__Ph0__ bị tạm dừng
-garage_door,opening,What's <device_name> doing,The <device_name> is opening,__Ph0__ đang làm gì,<device_name> đang mở
-garage_door,closing,Status of <device_name>,The <device_name> is closing,Tình trạng của <device_name>,__Ph0__ đang đóng
+media_player,paused,<device_name> state,The <device_name> is paused,<device_name> Nhà nước,<device_name> bị tạm dừng
+garage_door,opening,What's <device_name> doing,The <device_name> is opening,<device_name> đang làm gì,<device_name> đang mở
+garage_door,closing,Status of <device_name>,The <device_name> is closing,Tình trạng của <device_name>,<device_name> đang đóng
 blinds,opening,<device_name> update,The <device_name> are opening,<device_name> Cập nhật,<device_name> đang mở
-blinds,closing,How's the <device_name>,The <device_name> are closing,__Ph0__ như thế nào,<device_name> đang đóng
+blinds,closing,How's the <device_name>,The <device_name> are closing,<device_name> như thế nào,<device_name> đang đóng
 lock,unlocking,State of <device_name>,The <device_name> is unlocking,Trạng thái của <device_name>,<device_name> đang mở khóa
-lock,locking,Is <device_name> okay,The <device_name> is locking,__Ph0__ có ổn không,__Ph0__ đang khóa
-light,on,What's <device_name> doing,The <device_name> is on,__Ph0__ đang làm gì,<device_name> đang trên
+lock,locking,Is <device_name> okay,The <device_name> is locking,<device_name> có ổn không,<device_name> đang khóa
+light,on,What's <device_name> doing,The <device_name> is on,<device_name> đang làm gì,<device_name> đang trên
 light,off,Is <device_name> active,The <device_name> is off,Là <device_name> hoạt động,<device_name> bị tắt
 fan,on,<device_name> status now,The <device_name> is on,<device_name> trạng thái ngay bây giờ,<device_name> đang trên
 fan,off,Current state of <device_name>,The <device_name> is off,Trạng thái hiện tại của <device_name>,<device_name> bị tắt
-light,on,Is <device_name> working,The <device_name> is on,Là __ph0__ hoạt động,<device_name> đang trên
+light,on,Is <device_name> working,The <device_name> is on,Là <device_name> hoạt động,<device_name> đang trên
 light,off,Update on <device_name>,The <device_name> is off,Cập nhật trên <device_name>,<device_name> bị tắt
-fan,on,How's the <device_name>,The <device_name> is on,__Ph0__ như thế nào,<device_name> đang trên
+fan,on,How's the <device_name>,The <device_name> is on,<device_name> như thế nào,<device_name> đang trên
 fan,off,Status of <device_name>,The <device_name> is off,Tình trạng của <device_name>,<device_name> bị tắt
-light,on,<device_name> condition,The <device_name> is on,__Ph0__ điều kiện,<device_name> đang trên
+light,on,<device_name> condition,The <device_name> is on,<device_name> điều kiện,<device_name> đang trên
 light,off,What's up with <device_name>,The <device_name> is off,Có chuyện gì với <device_name>,<device_name> bị tắt
 media_player,on;<volume>,What's the volume on <device_name>?,The volume on <device_name> is at <volume>.,Khối lượng trên <device_name> là bao nhiêu?,Khối lượng trên <device_name> là <volume>.
 media_player,off,Can you check the volume level of <device_name>?,"<device_name> is off, so I can't check the volume level currently.",Bạn có thể kiểm tra mức âm lượng của <device_name> không?,"<device_name> TẮT, vì vậy tôi không thể kiểm tra mức âm lượng hiện tại."
@@ -212,7 +212,7 @@ media_player,off,Is there anything playing on <device_name>?,Nothing is playing 
 media_player,idle,Can you tell me what was last played on <device_name>?,The last media played on <device_name> was <media>.,Bạn có thể cho tôi biết những gì được chơi cuối cùng trên <device_name>?,Các phương tiện truyền thông cuối cùng được phát trên <device_name> là <media>.
 media_player,playing,What is playing on <device_name> at the moment?,The song <media> is playing on <device_name> right now.,Điều gì đang chơi trên <device_name> vào lúc này?,Bài hát <media> đang phát trên <device_name> ngay bây giờ.
 media_player,paused,What media was paused on <device_name>?,<media> was paused on <device_name>.,Những phương tiện truyền thông nào đã bị tạm dừng trên <device_name>?,<media> đã bị tạm dừng trên <device_name>.
-media_player,on,"I hear something from <device_name>, what is it?",<device_name> is not currently playing anything.,"Tôi nghe thấy một cái gì đó từ __ph0__, nó là gì?",<device_name> hiện không chơi bất cứ điều gì.
+media_player,on,"I hear something from <device_name>, what is it?",<device_name> is not currently playing anything.,"Tôi nghe thấy một cái gì đó từ <device_name>, nó là gì?",<device_name> hiện không chơi bất cứ điều gì.
 media_player,playing,"I like this track on <device_name>, what is it?",You're listening to <media> on <device_name>.,"Tôi thích bài hát này trên <device_name>, nó là gì?",Bạn đang nghe <media> trên <device_name>.
 media_player,paused,Can you name the movie that's on <device_name>?,The movie currently paused on <device_name> is <media>.,Bạn có thể đặt tên cho bộ phim trên <device_name>?,Bộ phim hiện đang tạm dừng trên <device_name> là <media>.
 media_player,standby,What was the last show watched on <device_name>?,The last show watched on <device_name> was <media>.,Chương trình cuối cùng được xem trên <device_name> là gì?,Chương trình cuối cùng được xem trên <device_name> là <media>.
@@ -221,9 +221,9 @@ light,on;<color>;<brightness>,What's the brightness of <device_name>?,The bright
 light,on;<color>;<brightness>,Can you tell me the color of <device_name>?,<device_name> is currently showing <color>.,Bạn có thể cho tôi biết màu của <device_name>?,<device_name> hiện đang hiển thị <color>.
 light,on;<color>;<brightness>,Is <device_name> set to a bright or dim setting?,<device_name> is set to a <brightness> brightness level.,<device_name> được đặt thành cài đặt sáng hay mờ?,<device_name> được đặt thành một mức độ sáng <brightness>.
 light,on;<color>;<brightness>,What hue is <device_name> displaying?,<device_name> is displaying a <color> hue.,Huế nào là <device_name> hiển thị?,<device_name> đang hiển thị một màu <color>.
-light,on;<color>;<brightness>,How bright is <device_name> right now?,<device_name> is currently at <brightness>% brightness.,Làm thế nào sáng là __ph0__ ngay bây giờ?,<device_name> hiện đang ở mức độ sáng __PH1 __%.
+light,on;<color>;<brightness>,How bright is <device_name> right now?,<device_name> is currently at <brightness>% brightness.,Làm thế nào sáng là <device_name> ngay bây giờ?,<device_name> hiện đang ở mức độ sáng __PH1 __%.
 light,on;<color>;<brightness>,I'd like to know the current color of <device_name>.,The current color of <device_name> is <color>.,Tôi muốn biết màu hiện tại của <device_name>.,Màu hiện tại của <device_name> là <color>.
-light,on;<color>;<brightness>,Is <device_name> more on the dim side or the bright side?,<device_name> is more on the <brightness> side.,__Ph0__ có nhiều hơn ở mặt mờ hay mặt sáng không?,<device_name> là nhiều hơn ở phía <brightness>.
+light,on;<color>;<brightness>,Is <device_name> more on the dim side or the bright side?,<device_name> is more on the <brightness> side.,<device_name> có nhiều hơn ở mặt mờ hay mặt sáng không?,<device_name> là nhiều hơn ở phía <brightness>.
 light,on;<color>;<brightness>,What color setting is <device_name> on?,<device_name> is set to <color> color setting.,Cài đặt màu nào <device_name> trên?,<device_name> được đặt thành cài đặt màu <color>.
 light,on;<color>;<brightness>,Could you check the brightness level of <device_name> for me?,"Sure, the brightness level of <device_name> is <brightness>.",Bạn có thể kiểm tra mức độ sáng của <device_name> cho tôi không?,"Chắc chắn, mức độ sáng của <device_name> là <brightness>."
 light,on;<color>;<brightness>,"Tell me, what's the current hue of <device_name>?",The current hue of <device_name> is <color>.,"Nói cho tôi biết, màu sắc hiện tại của <device_name> là gì?",Màu sắc hiện tại của <device_name> là <color>.
@@ -231,44 +231,44 @@ light,off,What's the brightness of <device_name>?,The device <device_name> is tu
 light,off,Can you tell me the color of <device_name>?,<device_name> is turned off.,Bạn có thể cho tôi biết màu của <device_name>?,<device_name> bị tắt.
 light,off,Is <device_name> set to a bright or dim setting?,"No, <device_name> is turned off.",<device_name> được đặt thành cài đặt sáng hay mờ?,"Không, <device_name> bị tắt."
 light,off,What hue is <device_name> displaying?,<device_name> is actually turned off.,Huế nào là <device_name> hiển thị?,<device_name> thực sự bị tắt.
-light,off,How bright is <device_name> right now?,<device_name> is turned off.,Làm thế nào sáng là __ph0__ ngay bây giờ?,<device_name> bị tắt.
+light,off,How bright is <device_name> right now?,<device_name> is turned off.,Làm thế nào sáng là <device_name> ngay bây giờ?,<device_name> bị tắt.
 media_player,playing;<media>;<volume>,What's currently playing on <device_name>?,<device_name> is playing <media> at volume level <volume>.,Điều gì hiện đang chơi trên <device_name>?,<device_name> đang chơi <media> ở mức khối lượng <volume>.
 media_player,paused;<media>;<volume>,Can you tell me what's paused on <device_name>?,<device_name> has <media> paused at volume level <volume>.,Bạn có thể cho tôi biết những gì tạm dừng trên <device_name>?,<device_name> có <media> tạm dừng ở mức khối lượng <volume>.
 media_player,idle;<volume>,Is there anything playing on <device_name>?,<device_name> is currently idle with the volume set to <volume>.,Có bất cứ điều gì chơi trên <device_name>?,<device_name> hiện đang nhàn rỗi với âm lượng được đặt thành <volume>.
-media_player,playing;<media>;<volume>,What song is <device_name> playing?,<device_name> is playing the song <media> at volume <volume>.,__Ph0__ chơi bài hát gì?,<device_name> đang chơi bài hát <media> ở tập <volume>.
+media_player,playing;<media>;<volume>,What song is <device_name> playing?,<device_name> is playing the song <media> at volume <volume>.,<device_name> chơi bài hát gì?,<device_name> đang chơi bài hát <media> ở tập <volume>.
 media_player,paused;<media>;<volume>,What was the last thing played on <device_name>?,"The last media played on <device_name> was <media>, currently paused at volume <volume>.",Điều cuối cùng được chơi trên <device_name> là gì?,"Các phương tiện truyền thông cuối cùng được phát trên <device_name> là <media>, hiện đang dừng lại ở tập <volume>."
-media_player,idle;<volume>,Is <device_name> active right now?,"<device_name> is currently idle, the volume is set to <volume>.",__Ph0__ có hoạt động ngay bây giờ không?,"<device_name> hiện đang nhàn rỗi, âm lượng được đặt thành <volume>."
-media_player,playing;<media>;<volume>,What's on <device_name> at the moment?,<device_name> is currently playing <media> at volume <volume>.,Có gì trên __ph0__ vào lúc này?,<device_name> hiện đang chơi <media> ở tập <volume>.
+media_player,idle;<volume>,Is <device_name> active right now?,"<device_name> is currently idle, the volume is set to <volume>.",<device_name> có hoạt động ngay bây giờ không?,"<device_name> hiện đang nhàn rỗi, âm lượng được đặt thành <volume>."
+media_player,playing;<media>;<volume>,What's on <device_name> at the moment?,<device_name> is currently playing <media> at volume <volume>.,Có gì trên <device_name> vào lúc này?,<device_name> hiện đang chơi <media> ở tập <volume>.
 media_player,paused;<media>;<volume>,"I forgot what I paused on <device_name>, can you remind me?","You paused <media> on <device_name>, and the volume is set to <volume>.","Tôi quên những gì tôi dừng lại trên <device_name>, bạn có thể nhắc tôi không?",Bạn đã tạm dừng <media> trên <device_name> và âm lượng được đặt thành <volume>.
 media_player,idle;<volume>,Is <device_name> turned off or on?,"<device_name> is on but idle, with volume at <volume>.",<device_name> có bị tắt hay bật không?,"<device_name> là trên nhưng nhàn rỗi, với khối lượng ở <volume>."
 media_player,playing;<media>;<volume>,I'd like to know what's playing on <device_name>.,"Currently, <media> is playing on <device_name> at volume level <volume>.",Tôi muốn biết những gì đang chơi trên <device_name>.,"Hiện tại, <media> đang chơi trên <device_name> ở mức khối lượng <volume>."
 vacuum,cleaning,Is the <device_name> vacuum running right now?,The vacuum is running.,Máy hút bụi <device_name> có chạy ngay bây giờ không?,Máy hút bụi đang chạy.
 vacuum,cleaning,Is the <device_name> vacuum on?,It is. Your home is currently being cleaned.,Có phải <device_name> không?,Nó là. Nhà của bạn hiện đang được làm sạch.
-vacuum,cleaning,Is <device_name> cleaning?,"Yes, <device_name> is currently vacuuming.",__Ph0__ có làm sạch không?,"Có, <device_name> hiện đang hút bụi."
+vacuum,cleaning,Is <device_name> cleaning?,"Yes, <device_name> is currently vacuuming.",<device_name> có làm sạch không?,"Có, <device_name> hiện đang hút bụi."
 vacuum,cleaning,What is the <device_name> vacuum doing right now?,The <device_name> vacuum is currently cleaning the house.,Máy hút bụi <device_name> đang làm gì ngay bây giờ?,Máy hút bụi <device_name> hiện đang dọn dẹp nhà cửa.
-vacuum,cleaning,What is <device_name> doing right now?,<device_name> is currently cleaning.,__Ph0__ đang làm gì ngay bây giờ?,<device_name> hiện đang dọn dẹp.
+vacuum,cleaning,What is <device_name> doing right now?,<device_name> is currently cleaning.,<device_name> đang làm gì ngay bây giờ?,<device_name> hiện đang dọn dẹp.
 vacuum,docked,What is the <device_name> vacuum doing right now?,The <device_name> vacuum is currently docked.,Máy hút bụi <device_name> đang làm gì ngay bây giờ?,Máy hút bụi <device_name> hiện đang được neo.
-vacuum,docked,What is <device_name> doing right now?,<device_name> is currently docked.,__Ph0__ đang làm gì ngay bây giờ?,<device_name> hiện đang được neo.
-vacuum,docked,Is <device_name> on its base right now?,"Yes, <device_name> is at its base.",__Ph0__ có trên cơ sở của nó ngay bây giờ không?,"Vâng, __ph0__ là ở cơ sở của nó."
-vacuum,docked,Where is the <device_name> vacuum?,On its dock at the moment.,__Ph0__ chân không ở đâu?,Trên bến tàu của nó vào lúc này.
+vacuum,docked,What is <device_name> doing right now?,<device_name> is currently docked.,<device_name> đang làm gì ngay bây giờ?,<device_name> hiện đang được neo.
+vacuum,docked,Is <device_name> on its base right now?,"Yes, <device_name> is at its base.",<device_name> có trên cơ sở của nó ngay bây giờ không?,"Vâng, <device_name> là ở cơ sở của nó."
+vacuum,docked,Where is the <device_name> vacuum?,On its dock at the moment.,<device_name> chân không ở đâu?,Trên bến tàu của nó vào lúc này.
 vacuum,paused,What is the <device_name> vacuum doing right now?,The <device_name> vacuum is paused.,Máy hút bụi <device_name> đang làm gì ngay bây giờ?,Máy hút bụi <device_name> được tạm dừng.
-vacuum,paused,What is <device_name> doing right now?,<device_name> is paused.,__Ph0__ đang làm gì ngay bây giờ?,<device_name> bị tạm dừng.
+vacuum,paused,What is <device_name> doing right now?,<device_name> is paused.,<device_name> đang làm gì ngay bây giờ?,<device_name> bị tạm dừng.
 vacuum,idle,What is the <device_name> vacuum doing right now?,The <device_name> vacuum is stopped.,Máy hút bụi <device_name> đang làm gì ngay bây giờ?,Máy hút bụi <device_name> được dừng lại.
-vacuum,idle,What is <device_name> doing right now?,<device_name> is stopped.,__Ph0__ đang làm gì ngay bây giờ?,<device_name> bị dừng lại.
+vacuum,idle,What is <device_name> doing right now?,<device_name> is stopped.,<device_name> đang làm gì ngay bây giờ?,<device_name> bị dừng lại.
 vacuum,error,What is the <device_name> vacuum doing right now?,The <device_name> vacuum is stuck or having issues that need to be corrected.,Máy hút bụi <device_name> đang làm gì ngay bây giờ?,Máy hút bụi <device_name> bị kẹt hoặc có vấn đề cần được sửa chữa.
-vacuum,error,What is <device_name> doing right now?,<device_name> is stuck or having issues.,__Ph0__ đang làm gì ngay bây giờ?,<device_name> bị mắc kẹt hoặc gặp vấn đề.
+vacuum,error,What is <device_name> doing right now?,<device_name> is stuck or having issues.,<device_name> đang làm gì ngay bây giờ?,<device_name> bị mắc kẹt hoặc gặp vấn đề.
 todo,1,How many items on on my <device_name> right now?,There is currently 1 item on your <device_name>.,Có bao nhiêu mục trên <device_name> của tôi ngay bây giờ?,Hiện tại có 1 mục trên <device_name> của bạn.
 todo,2,How many things are on the <device_name> at the moment?,There are 2 things on the <device_name> currently.,Hiện tại có bao nhiêu thứ trên <device_name>?,Hiện tại có 2 điều trên <device_name>.
 todo,3,What is the current number of items on your <device_name>?,"Yes, there are currently 3 items on your <device_name>.",Số lượng mục hiện tại trên <device_name> của bạn là bao nhiêu?,"Có, hiện có 3 mục trên <device_name> của bạn."
 todo,4,How many objects are there on the <device_name> presently?,"Yes, there are 4 objects presently on the <device_name>.",Hiện tại có bao nhiêu đối tượng trên <device_name>?,"Có, có 4 đối tượng hiện tại trên <device_name>."
-todo,5,Could you tell me how many pieces there are on the <device_name> at this time?,I can tell you that there are 5 pieces on the <device_name> at this time.,Bạn có thể cho tôi biết có bao nhiêu mảnh trên __ph0__ tại thời điểm này?,Tôi có thể nói với bạn rằng có 5 mảnh trên <device_name> tại thời điểm này.
+todo,5,Could you tell me how many pieces there are on the <device_name> at this time?,I can tell you that there are 5 pieces on the <device_name> at this time.,Bạn có thể cho tôi biết có bao nhiêu mảnh trên <device_name> tại thời điểm này?,Tôi có thể nói với bạn rằng có 5 mảnh trên <device_name> tại thời điểm này.
 todo,6,What's the count of items on the <device_name> now?,The count of items on the <device_name> now is 6.,Số lượng các mặt hàng trên <device_name> bây giờ là gì?,Số lượng các mục trên <device_name> bây giờ là 6.
 todo,7,How many units can be found on my <device_name> at the present moment?,You will find 7 units on my <device_name> at the present moment.,Có bao nhiêu đơn vị có thể được tìm thấy trên <device_name> của tôi tại thời điểm hiện tại?,Bạn sẽ tìm thấy 7 đơn vị trên <device_name> của tôi tại thời điểm hiện tại.
 todo,8,Could you inform me as to how many articles are located on the <device_name> right now?,I'd be happy to inform you that there are 8 articles located on the <device_name> right now.,Bạn có thể thông báo cho tôi về việc có bao nhiêu bài viết trên <device_name> ngay bây giờ không?,Tôi rất vui khi thông báo với bạn rằng có 8 bài viết trên <device_name> ngay bây giờ.
 todo,9,Is it possible for you to disclose how many components there are on the <device_name> currently?,It is possible for me to disclose that there are 9 components on the <device_name> currently.,Bạn có thể tiết lộ có bao nhiêu thành phần trên <device_name> hiện tại không?,Tôi có thể tiết lộ rằng có 9 thành phần trên <device_name> hiện tại.
-todo,10,May I ask for the quantity of items on the <device_name> at present?,The quantity of items on the <device_name> is currently 10.,Tôi có thể yêu cầu số lượng các mặt hàng trên __ph0__ hiện tại không?,Số lượng các mặt hàng trên <device_name> hiện là 10.
-todo,11,Would you be able to tell me how many things there are on the <device_name> now?,"Yes, I can tell you that there are 11 things on the <device_name> now.",Bạn có thể cho tôi biết có bao nhiêu thứ trên __ph0__ bây giờ không?,"Vâng, tôi có thể nói với bạn rằng có 11 điều trên <device_name> bây giờ."
+todo,10,May I ask for the quantity of items on the <device_name> at present?,The quantity of items on the <device_name> is currently 10.,Tôi có thể yêu cầu số lượng các mặt hàng trên <device_name> hiện tại không?,Số lượng các mặt hàng trên <device_name> hiện là 10.
+todo,11,Would you be able to tell me how many things there are on the <device_name> now?,"Yes, I can tell you that there are 11 things on the <device_name> now.",Bạn có thể cho tôi biết có bao nhiêu thứ trên <device_name> bây giờ không?,"Vâng, tôi có thể nói với bạn rằng có 11 điều trên <device_name> bây giờ."
 todo,12,Can you enlighten me as to the number of items on the <device_name>?,I'd be pleased to enlighten you that there are 12 items on the <device_name>.,Bạn có thể khai sáng cho tôi số lượng các mặt hàng trên <device_name> không?,Tôi rất vui khi được khai sáng cho bạn rằng có 12 mục trên <device_name>.
-timer,active;<duration>;<remaining>,How much time left on the <device_name>?,The <device_name> is set for <duration>. There is currently <remaining> remaining.,Bao nhiêu thời gian còn lại trên __ph0__?,<device_name> được đặt cho <duration>. Hiện tại còn lại <remaining>.
-timer,active;<duration>;<remaining>,How long before the <device_name> goes off?,The <device_name> will go off in <remaining>.,Bao lâu trước khi __ph0__ tắt?,<device_name> sẽ tắt trong <remaining>.
+timer,active;<duration>;<remaining>,How much time left on the <device_name>?,The <device_name> is set for <duration>. There is currently <remaining> remaining.,Bao nhiêu thời gian còn lại trên <device_name>?,<device_name> được đặt cho <duration>. Hiện tại còn lại <remaining>.
+timer,active;<duration>;<remaining>,How long before the <device_name> goes off?,The <device_name> will go off in <remaining>.,Bao lâu trước khi <device_name> tắt?,<device_name> sẽ tắt trong <remaining>.
 timer,active;<duration>;<remaining>,When is the <device_name> set to go off?,The <device_name> is set for <duration> and will go off in <remaining>.,Khi nào <device_name> được thiết lập?,<device_name> được đặt cho <duration> và sẽ tắt trong <remaining>.
