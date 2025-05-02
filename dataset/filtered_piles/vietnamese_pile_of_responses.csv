@@ -642,7 +642,7 @@ timer.start,Initiating a timer for <duration>.,en,assistant,0,Bắt đầu một
 timer.start,Your timer called <device_name> for <duration> starts now.,en,assistant,0,Bộ đếm thời gian của bạn gọi là <device_name> cho <duration> bắt đầu ngay bây giờ.
 timer.start,Timer activated for <duration>.,en,assistant,0,Hẹn giờ được kích hoạt cho <duration>.
 timer.start,Commencing timer for a duration of <duration>.,en,assistant,0,Bắt đầu hẹn giờ trong thời gian <duration>.   
-timer.start,<duration> countdown has begun on timer <device_name>.,<duration> Đếm ngược đã bắt đầu trên bộ đếm thời gian <device_name>.
+timer.start,<duration> countdown has begun on timer <device_name>.,en,assisstant,0,<duration> Đếm ngược đã bắt đầu trên bộ đếm thời gian <device_name>.
 timer.start,Setting a timer for <duration>.,en,assistant,0,Đặt bộ hẹn giờ cho <duration>.
 timer.cancel,Timer has been canceled.,en,assistant,0,Hẹn giờ đã bị hủy bỏ.
 timer.cancel,Successfully halted the timer.,en,assistant,0,Tạm dừng thành công bộ hẹn giờ.
