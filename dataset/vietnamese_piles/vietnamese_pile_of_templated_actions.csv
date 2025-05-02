@@ -43,7 +43,7 @@ fan|garage_door|lock,turn_off|close|lock,Turn off <device_name1> close <device_n
 fan|garage_door|lock,turn_on|open|unlock,Turn on <device_name1> open <device_name2> and unlock <device_name3>,1,Bật <device_name1> Mở <device_name2> và mở khóa <device_name3>
 fan|light,turn_on|turn_off,Activate <device_name1> and deactivate <device_name2>,1,Kích hoạt <device_name1> và vô hiệu hóa <device_name2>
 fan|light|lock,decrease_speed|toggle|lock,Slow down <device_name1> toggle <device_name2> and lock <device_name3>,1,Làm chậm <device_name1> Tăng <device_name2> và khóa <device_name3>
-fan|lock,decrease_speed|unlock,Slow down the <device_name1> and unlock the <device_name2>,1,Làm chậm <device_name> và mở khóa <device_name2>
+fan|lock,decrease_speed|unlock,Slow down the <device_name1> and unlock the <device_name2>,1,Làm chậm <device_name1> và mở khóa <device_name2>
 garage_door,close,Close the <device_name>,1,Đóng <device_name>
 garage_door,close,Lower the <device_name>,1,Hạ <device_name>
 garage_door,close,Shut the <device_name>,1,Tắt <device_name>
@@ -72,7 +72,7 @@ light,turn_on,Please switch on the <device_name>,1,Vui lòng bật <device_name>
 light|blinds,turn_off|close,Turn off <device_name1> and close <device_name2>,1,Tắt <device_name1> và đóng <device_name2>
 light|blinds|fan,turn_on|close|decrease_speed,Turn on <device_name1> close <device_name2> and slow down <device_name3>,1,Bật <device_name1> Đóng <device_name2> và làm chậm <device_name3>
 light|blinds|garage_door,turn_on|open|close,Turn on <device_name1> open <device_name2> and close <device_name3>,1,Bật <device_name1> Mở <device_name2> và đóng <device_name3>
-light|blinds|lock,turn_off|close|lock,Turn off the <device_name1> close the <device_name2> and lock the <device_name3>,1,Tắt <device_name1> Đóng <device_name2> và khóa __ph2__
+light|blinds|lock,turn_off|close|lock,Turn off the <device_name1> close the <device_name2> and lock the <device_name3>,1,Tắt <device_name1> Đóng <device_name2> và khóa <device_name3>
 light|blinds|lock,turn_off|close|unlock,Turn off <device_name1> close <device_name2> and unlock <device_name3>,1,Tắt <device_name1> Đóng <device_name2> và mở khóa <device_name3>
 light|fan,toggle|decrease_speed,Toggle <device_name1> and slow down <device_name2>,1,Chuyển đổi <device_name1> và làm chậm <device_name2>
 light|fan,toggle|increase_speed,Toggle <device_name1> and speed up <device_name2>,1,Chuyển đổi <device_name1> và tăng tốc <device_name2>
@@ -86,7 +86,7 @@ light|fan|blinds,turn_off|decrease_speed|close,Turn off <device_name1> slow down
 light|fan|blinds,turn_off|turn_off|close,Turn off <device_name1> and <device_name2> and close <device_name3>,1,Tắt <device_name1> và <device_name2> và đóng <device_name3>
 light|fan|garage_door,toggle|decrease_speed|open,Toggle <device_name1> slow down <device_name2> and open <device_name3>,1,Chuyển đổi <device_name1> chậm lại <device_name2> và mở <device_name3>
 light|fan|garage_door,turn_off|turn_on|close,Turn off <device_name1> turn on <device_name2> and close <device_name3>,1,Tắt <device_name1> Bật <device_name2> và đóng <device_name3>
-light|fan|garage_door,turn_on|toggle|open,Switch on the <device_name1> flip the <device_name2> and lift the <device_name3>,1,Bật <device_name1> lật <device_name2> và nâng __ph2__
+light|fan|garage_door,turn_on|toggle|open,Switch on the <device_name1> flip the <device_name2> and lift the <device_name3>,1,Bật <device_name1> lật <device_name2> và nâng <device_name3>
 light|fan|garage_door,turn_on|turn_on|open,Turn on <device_name1> and <device_name2> and open <device_name3>,1,Bật <device_name1> và <device_name2> và mở <device_name3>
 light|fan|lock,toggle|toggle|lock,Toggle both <device_name1> and <device_name2> and lock <device_name3>,1,Chuyển đổi cả <device_name1> và <device_name2> và khóa <device_name3>
 light|fan|lock,turn_off|turn_off|unlock,Turn off <device_name1> and <device_name2> and unlock <device_name3>,1,Tắt <device_name1> và <device_name2> và mở khóa <device_name3>
@@ -112,7 +112,7 @@ lock|blinds,lock|close,Lock the <device_name1> and lower the <device_name2>,1,Kh
 lock|garage_door,lock|close,Secure the <device_name1> and shut the <device_name2>,1,Bảo vệ <device_name1> và đóng <device_name2>
 light,turn_on,Make sure the <device_name> is on,1,Đảm bảo <device_name> được bật
 fan,turn_on,Make sure the <device_name> is on,1,Đảm bảo <device_name> được bật
-lock|lock|garage_door,lock|lock|close,Make sure <device_name1> and <device_name2> are locked and the <device_name3> is closed,1,Đảm bảo <device_name1> và <device_name2> bị khóa và __ph2__ được đóng lại
+lock|lock|garage_door,lock|lock|close,Make sure <device_name1> and <device_name2> are locked and the <device_name3> is closed,1,Đảm bảo <device_name1> và <device_name2> bị khóa và <device_name3> được đóng lại
 light,turn_off,Ensure the <device_name> is off,1,Đảm bảo <device_name> bị tắt
 fan,turn_off,Ensure the <device_name> is off,1,Đảm bảo <device_name> bị tắt
 garage_door,close,Make certain the <device_name> is closed,1,Đảm bảo <device_name> được đóng lại
@@ -134,9 +134,6 @@ fan,turn_on,Make certain the <device_name> is running,1,Đảm bảo <device_nam
 switch,turn_on,Can you turn on <device_name>?,1,Bạn có thể bật <device_name> không?
 switch,turn_off,Please switch off <device_name>.,1,Vui lòng tắt <device_name>.
 switch,toggle,Could you toggle <device_name>?,1,Bạn có thể chuyển đổi <device_name> không?
-switch,turn_on,"I need <device_name> on,1
-switch,turn_off,Turn off <device_name>",1,"Tôi cần <device_name> trên, 1
-Chuyển đổi, Turn_off, Tắt <device_name>"
 switch,toggle,Can <device_name> be toggled?,1,<device_name> có thể được bật không?
 switch,turn_on,Activate <device_name>.,1,Kích hoạt <device_name>.
 switch,turn_off,Deactivate <device_name>.,1,Vô hiệu hóa <device_name>.
@@ -144,51 +141,24 @@ switch,toggle,Is it possible to toggle the <device_name>?,1,Có thể chuyển �
 switch,turn_on,Let's have <device_name> on.,1,Hãy có <device_name> trên.
 switch,turn_off,We don't need <device_name> on anymore.,1,Chúng tôi không cần <device_name> trên nữa.
 switch,toggle,Toggle <device_name> for me.,1,Chuyển đổi <device_name> cho tôi.
-switch,turn_on,"Switch on <device_name>,1
-switch,turn_off,I'd like <device_name> off now.""",1,"Bật __PH0 __, 1
-Chuyển đổi, Turn_off, tôi muốn tắt <device_name> ngay bây giờ. """
 switch,toggle,Can you change the state of <device_name>?,1,Bạn có thể thay đổi trạng thái của <device_name> không?
 switch,turn_on,Please turn on <device_name>.,1,Vui lòng bật <device_name>.
-switch,turn_off,"Shut off <device_name>,1
-switch,toggle,A quick toggle of <device_name>",1,"Tắt __PH0 __, 1
-chuyển đổi, chuyển đổi, chuyển đổi nhanh <device_name>"
 switch,turn_on,<device_name> needs to be on.,1,<device_name> cần phải được bật.
-switch,turn_off,Time to turn <device_name> off.,1,Thời gian để tắt <device_name> TẮT.
+switch,turn_off,Time to turn <device_name> off.,1,Đến lúc tắt <device_name>.
 media_player,volume_up,Increase the volume on <device_name>.,1,Tăng khối lượng trên <device_name>.
 media_player,volume_up,Turn up <device_name> a bit.,1,Bật <device_name> một chút.
-media_player,volume_up,"Louder on <device_name>,1
-media_player,volume_down,Can you lower <device_name>'s volume?""",1,"To hơn trên __ph0 __, 1
-Media_Player, Volume_down, bạn có thể hạ âm lượng của __PH0 __ không? """
 media_player,volume_down,Decrease the volume on <device_name>.,1,Giảm âm lượng trên <device_name>.
-media_player,volume_down,"Turn down <device_name>,1
-media_player,volume_mute,Mute <device_name>",1,"Tắt xuống __PH0 __, 1
-Media_Player, Volume_Mute, Mute <device_name>"
 media_player,volume_mute,Silence <device_name> for a moment.,1,Im lặng <device_name> trong giây lát.
 media_player,volume_mute,Can you mute <device_name>?,1,Bạn có thể tắt tiếng <device_name>?
 media_player,media_play,Start playing on <device_name>.,1,Bắt đầu chơi trên <device_name>.
 media_player,media_play,Can you play <device_name>?,1,Bạn có thể chơi <device_name> không?
-media_player,media_play,"Play the media on <device_name>,1
-media_player,media_pause,Pause <device_name>.""",1,"Phát phương tiện trên __PH0 __, 1
-Media_Player, Media_Pause, Tạm dừng <device_name>. """
 media_player,media_pause,Can you pause <device_name>?,1,Bạn có thể tạm dừng <device_name>?
-media_player,media_pause,"Hold the playback on <device_name>,1
-media_player,media_stop,Stop <device_name> completely.""",1,"Giữ bản phát lại trên __PH0 __, 1
-Media_Player, Media_Stop, Dừng <device_name> hoàn toàn. """
 media_player,media_stop,Can you stop playback on <device_name>?,1,Bạn có thể ngừng phát lại trên <device_name> không?
-media_player,media_stop,"End the session on <device_name>,1
-media_player,media_next_track,Next track on <device_name>",1,"Kết thúc phiên trên __PH0 __, 1
-Media_Player, media_next_track, theo dõi tiếp theo trên <device_name>"
 media_player,media_next_track,Advance <device_name> to the next song.,1,Tiến bộ <device_name> cho bài hát tiếp theo.
 media_player,media_next_track,Skip this track on <device_name>.,1,Bỏ qua bản nhạc này trên <device_name>.
-media_player,media_previous_track,"Previous track on <device_name>,1
-media_player,media_previous_track,Rewind to the previous song on <device_name>.""",1,"Bản nhạc trước trên __PH0 __, 1
-Media_Player, Media_Previous_Track, tua lại bài hát trước trên <device_name>. """
 media_player,media_previous_track,Can we go back a track on <device_name>?,1,Chúng ta có thể quay lại một bản nhạc trên <device_name> không?
 climate,set_temperature,Set the temperature to <temp_f> degrees.,8,Đặt nhiệt độ thành <temp_f> độ.
 climate,set_temperature,Can you change the temperature to <temp_c> Celsius?,8,Bạn có thể thay đổi nhiệt độ thành <temp_c> celsius không?
-climate,set_temperature,"I'd like the room at <temp_f> degrees Fahrenheit,8
-climate,set_temperature,Please adjust the temperature to <temp_f> degrees.""",8,"Tôi muốn căn phòng ở <device_name> độ Fahrenheit, 8
-khí hậu, set_temate, vui lòng điều chỉnh nhiệt độ thành <device_name> độ. """
 climate,set_temperature,Can you lower the temperature to <temp_c>?,8,Bạn có thể hạ nhiệt độ xuống <temp_c> không?
 climate,set_temperature,Raise the temperature to <temp_f> degrees,8,Nâng nhiệt độ lên <temp_f> độ
 climate,set_humidity,Increase the humidity to <humidity>.,8,Tăng độ ẩm lên <humidity>.
@@ -200,21 +170,18 @@ climate,set_fan_mode,Change the air conditioning fan to <fan_mode>.,8,Thay đổ
 climate,set_hvac_mode,Switch the system to <hvac_mode> mode.,8,Chuyển hệ thống sang chế độ <hvac_mode>.
 climate,set_hvac_mode,Can we set the HVAC to <hvac_mode>?,8,Chúng ta có thể đặt HVAC thành <hvac_mode> không?
 climate,set_hvac_mode,Change the HVAC to <hvac_mode>.,8,Thay đổi HVAC thành <hvac_mode>.
-light,turn_on,Set the brightness of <device_name> to <brightness>%.,8,Đặt độ sáng của <device_name> thành __PH1 __%.
+light,turn_on,Set the brightness of <device_name> to <brightness>%.,8,Đặt độ sáng của <device_name> thành <brightness>%.
 light,turn_on,Dim <device_name> to <brightness> percent brightness.,8,Dim <device_name> đến <brightness> phần trăm độ sáng.
 light,turn_on,Brighten <device_name> to <brightness>.,8,Làm sáng <device_name> đến <brightness>.
 light,turn_on,Adjust <device_name> brightness to <brightness>.,8,Điều chỉnh <device_name> Độ sáng thành <brightness>.
-light,turn_on,Increase <device_name>'s brightness to <brightness>.,8,Tăng độ sáng của __PH0 __ lên <brightness>.
+light,turn_on,Increase <device_name>'s brightness to <brightness>.,8,Tăng độ sáng của <device_name> lên <brightness>.
 light,turn_on,Lower the brightness of <device_name> to <brightness>.,8,Hạ độ sáng của <device_name> xuống <brightness>.
-light,turn_on,Can you set <device_name>'s brightness level to <brightness> percent?,8,Bạn có thể đặt mức độ sáng của __PH0 __ thành <brightness> phần trăm không?
-light,turn_on,I'd like <device_name> at <brightness> percent brightness,8,Tôi muốn <device_name> ở __ph1__ độ sáng phần trăm
-light,turn_on,Can you make <device_name> <color>?,8,Bạn có thể làm <device_name> __ph1__?
+light,turn_on,Can you set <device_name>'s brightness level to <brightness> percent?,8,Bạn có thể đặt mức độ sáng của <device_name> thành <brightness> phần trăm không?
+light,turn_on,I'd like <device_name> at <brightness> percent brightness,8,Tôi muốn <device_name> ở <color> độ sáng phần trăm
+light,turn_on,Can you make <device_name> <color>?,8,Bạn có thể làm <device_name> <color>?
 light,turn_on,Change the color of <device_name> to <color>.,8,Thay đổi màu của <device_name> thành <color>.
 light,turn_on,Change <device_name> to a <color> hue.,8,Thay đổi <device_name> thành <color> HUE.
 light,turn_on,Set <device_name> to be <color>.,8,Đặt <device_name> thành <color>.
-light,turn_on,"I want <device_name> to be <color>"",8
-light,turn_on,Can you make <device_name> shine in <color>?""",8,"Tôi muốn <device_name> là __ph1 __ "", 8
-Ánh sáng, Turn_on, bạn có thể làm <device_name> tỏa sáng trong __ph1__ không? """
 light,turn_on,Turn <device_name> to a <color> shade.,8,Biến <device_name> thành bóng <color>.
 light,turn_on,Turn <device_name> <color>.,8,Biến <device_name> <color>.
 light,turn_on,I want <device_name> at a <color> setting.,8,Tôi muốn <device_name> ở cài đặt <color>.
