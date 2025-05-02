@@ -5,10 +5,10 @@ blinds,close,Shut the <device_name>,1,Tắt <device_name>
 blinds,open,Lift the <device_name> blinds,1,Nâng rèm <device_name>
 blinds,open,Open the <device_name>,1,Mở <device_name>
 blinds,open,Raise the <device_name>,1,Nâng cao <device_name>
-blinds,stop,Freeze the <device_name>,1,Đóng băng __ph0__
-blinds,stop,Halt the <device_name>,1,Dừng __ph0__
+blinds,stop,Freeze the <device_name>,1,Đóng băng <device_name>
+blinds,stop,Halt the <device_name>,1,Dừng <device_name>
 blinds,stop,Stop the <device_name>,1,Dừng <device_name>
-blinds,toggle,Flip the <device_name> state,1,Lật trạng thái __ph0__
+blinds,toggle,Flip the <device_name> state,1,Lật trạng thái <device_name>
 blinds,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
 blinds,toggle,Toggle the <device_name>,1,Chuyển đổi <device_name>
 blinds|fan,close|turn_off,Close <device_name1> and deactivate <device_name2>,1,Đóng <device_name1> và vô hiệu hóa <device_name2>
@@ -16,11 +16,11 @@ blinds|fan,open|increase_speed,Raise the <device_name1> and speed up the <device
 blinds|light,open|turn_on,Raise <device_name1> and activate <device_name2>,1,Nâng <device_name1> và kích hoạt <device_name2>
 fan,decrease_speed,Decrease the <device_name> speed,1,Giảm tốc độ <device_name>
 fan,decrease_speed,Lower the <device_name> speed,1,Hạ tốc độ <device_name>
-fan,decrease_speed,Slow down the <device_name>,1,Làm chậm __ph0__
+fan,decrease_speed,Slow down the <device_name>,1,Làm chậm <device_name>
 fan,increase_speed,Increase the <device_name> speed,1,Tăng tốc độ <device_name>
-fan,increase_speed,Ramp up the <device_name> speed,1,Tăng tốc độ __ph0__
+fan,increase_speed,Ramp up the <device_name> speed,1,Tăng tốc độ <device_name>
 fan,increase_speed,Speed up the <device_name>,1,Tăng tốc <device_name>
-fan,toggle,Flip the <device_name> on or off,1,Bật hoặc tắt __ph0__
+fan,toggle,Flip the <device_name> on or off,1,Bật hoặc tắt <device_name>
 fan,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
 fan,toggle,Toggle the <device_name>,1,Chuyển đổi <device_name>
 fan,turn_off,Deactivate the <device_name>,1,Vô hiệu hóa <device_name>
@@ -43,24 +43,24 @@ fan|garage_door|lock,turn_off|close|lock,Turn off <device_name1> close <device_n
 fan|garage_door|lock,turn_on|open|unlock,Turn on <device_name1> open <device_name2> and unlock <device_name3>,1,Bật <device_name1> Mở <device_name2> và mở khóa <device_name3>
 fan|light,turn_on|turn_off,Activate <device_name1> and deactivate <device_name2>,1,Kích hoạt <device_name1> và vô hiệu hóa <device_name2>
 fan|light|lock,decrease_speed|toggle|lock,Slow down <device_name1> toggle <device_name2> and lock <device_name3>,1,Làm chậm <device_name1> Tăng <device_name2> và khóa <device_name3>
-fan|lock,decrease_speed|unlock,Slow down the <device_name1> and unlock the <device_name2>,1,Làm chậm __ph0__ và mở khóa <device_name2>
+fan|lock,decrease_speed|unlock,Slow down the <device_name1> and unlock the <device_name2>,1,Làm chậm <device_name> và mở khóa <device_name2>
 garage_door,close,Close the <device_name>,1,Đóng <device_name>
 garage_door,close,Lower the <device_name>,1,Hạ <device_name>
 garage_door,close,Shut the <device_name>,1,Tắt <device_name>
 garage_door,open,Lift the <device_name>,1,Nâng <device_name>
 garage_door,open,Open the <device_name>,1,Mở <device_name>
 garage_door,open,Raise the <device_name>,1,Nâng cao <device_name>
-garage_door,stop,Freeze the <device_name>,1,Đóng băng __ph0__
-garage_door,stop,Halt the <device_name>,1,Dừng __ph0__
+garage_door,stop,Freeze the <device_name>,1,Đóng băng <device_name>
+garage_door,stop,Halt the <device_name>,1,Dừng <device_name>
 garage_door,stop,Stop the <device_name>,1,Dừng <device_name>
-garage_door,toggle,Flip the <device_name> state,1,Lật trạng thái __ph0__
+garage_door,toggle,Flip the <device_name> state,1,Lật trạng thái <device_name>
 garage_door,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
 garage_door,toggle,Toggle the <device_name>,1,Chuyển đổi <device_name>
 garage_door|blinds,open|open,Open the <device_name1> and lift the <device_name2>,1,Mở <device_name1> và nâng <device_name2>
 garage_door|fan,close|turn_off,Close <device_name1> and deactivate <device_name2>,1,Đóng <device_name1> và vô hiệu hóa <device_name2>
 garage_door|light,open|turn_on,Open <device_name1> and activate <device_name2>,1,Mở <device_name1> và kích hoạt <device_name2>
 garage_door|lock,open|unlock,Open <device_name1> and unlock <device_name2>,1,Mở <device_name1> và mở khóa <device_name2>
-light,toggle,Flip the <device_name> on or off,1,Bật hoặc tắt __ph0__
+light,toggle,Flip the <device_name> on or off,1,Bật hoặc tắt <device_name>
 light,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
 light,toggle,Toggle the <device_name> state,1,Chuyển đổi trạng thái <device_name>
 light,turn_off,Deactivate the <device_name>,1,Vô hiệu hóa <device_name>
@@ -105,39 +105,39 @@ light|lock,turn_on|lock,Turn on <device_name1> and lock <device_name2>,1,Bật <
 lock,lock,Engage the <device_name> lock,1,Tham gia khóa <device_name>
 lock,lock,Lock the <device_name>,1,Khóa <device_name>
 lock,lock,Secure the <device_name>,1,Bảo mật <device_name>
-lock,unlock,Disengage the <device_name> lock,1,Giải phóng khóa __ph0__
+lock,unlock,Disengage the <device_name> lock,1,Giải phóng khóa <device_name>
 lock,unlock,Unlock the <device_name>,1,Mở khóa <device_name>
-lock,unlock,Unsecure the <device_name>,1,Không an toàn __ph0__
+lock,unlock,Unsecure the <device_name>,1,Không an toàn <device_name>
 lock|blinds,lock|close,Lock the <device_name1> and lower the <device_name2>,1,Khóa <device_name1> và hạ thấp <device_name2>
 lock|garage_door,lock|close,Secure the <device_name1> and shut the <device_name2>,1,Bảo vệ <device_name1> và đóng <device_name2>
 light,turn_on,Make sure the <device_name> is on,1,Đảm bảo <device_name> được bật
 fan,turn_on,Make sure the <device_name> is on,1,Đảm bảo <device_name> được bật
 lock|lock|garage_door,lock|lock|close,Make sure <device_name1> and <device_name2> are locked and the <device_name3> is closed,1,Đảm bảo <device_name1> và <device_name2> bị khóa và __ph2__ được đóng lại
-light,turn_off,Ensure the <device_name> is off,1,Đảm bảo __ph0__ bị tắt
-fan,turn_off,Ensure the <device_name> is off,1,Đảm bảo __ph0__ bị tắt
-garage_door,close,Make certain the <device_name> is closed,1,Đảm bảo __ph0__ được đóng lại
-blinds,open,See to it that the <device_name> are open,1,Xem với nó rằng __ph0__ đang mở
+light,turn_off,Ensure the <device_name> is off,1,Đảm bảo <device_name> bị tắt
+fan,turn_off,Ensure the <device_name> is off,1,Đảm bảo <device_name> bị tắt
+garage_door,close,Make certain the <device_name> is closed,1,Đảm bảo <device_name> được đóng lại
+blinds,open,See to it that the <device_name> are open,1,Xem với nó rằng <device_name> đang mở
 lock,lock,Ensure <device_name> is secure,1,Đảm bảo <device_name> an toàn
 light,toggle,Can you flip the <device_name>,1,Bạn có thể lật <device_name>
 fan,increase_speed,Step up the speed of the <device_name>,1,Bước lên tốc độ của <device_name>
-garage_door,open,Make certain the <device_name> is open,1,Hãy chắc chắn rằng __ph0__ đang mở
-blinds,close,See to it that the <device_name> are closed,1,Xem với nó rằng __ph0__ được đóng lại
+garage_door,open,Make certain the <device_name> is open,1,Hãy chắc chắn rằng <device_name> đang mở
+blinds,close,See to it that the <device_name> are closed,1,Xem với nó rằng <device_name> được đóng lại
 lock,unlock,Make sure <device_name> is unlocked,1,Đảm bảo <device_name> được mở khóa
-fan,decrease_speed,Slow down the <device_name>,1,Làm chậm __ph0__
+fan,decrease_speed,Slow down the <device_name>,1,Làm chậm <device_name>
 light,turn_on,Confirm that the <device_name> is on,1,Xác nhận rằng <device_name> đang trên
 garage_door,stop,Stop the <device_name> right now,1,Dừng <device_name> ngay bây giờ
 light,turn_off,Confirm that the <device_name> is off,1,Xác nhận rằng <device_name> bị tắt
 garage_door,toggle,Toggle the <device_name> position,1,Chuyển đổi vị trí <device_name>
 blinds,toggle,Switch the state of the <device_name>,1,Chuyển trạng thái của <device_name>
 lock,lock,Lock down the <device_name>,1,Khóa <device_name>
-fan,turn_on,Make certain the <device_name> is running,1,Đảm bảo __ph0__ đang chạy
+fan,turn_on,Make certain the <device_name> is running,1,Đảm bảo <device_name> đang chạy
 switch,turn_on,Can you turn on <device_name>?,1,Bạn có thể bật <device_name> không?
 switch,turn_off,Please switch off <device_name>.,1,Vui lòng tắt <device_name>.
 switch,toggle,Could you toggle <device_name>?,1,Bạn có thể chuyển đổi <device_name> không?
 switch,turn_on,"I need <device_name> on,1
-switch,turn_off,Turn off <device_name>",1,"Tôi cần __ph0__ trên, 1
+switch,turn_off,Turn off <device_name>",1,"Tôi cần <device_name> trên, 1
 Chuyển đổi, Turn_off, Tắt <device_name>"
-switch,toggle,Can <device_name> be toggled?,1,__Ph0__ có thể được bật không?
+switch,toggle,Can <device_name> be toggled?,1,<device_name> có thể được bật không?
 switch,turn_on,Activate <device_name>.,1,Kích hoạt <device_name>.
 switch,turn_off,Deactivate <device_name>.,1,Vô hiệu hóa <device_name>.
 switch,toggle,Is it possible to toggle the <device_name>?,1,Có thể chuyển đổi <device_name> không?
@@ -152,7 +152,7 @@ switch,turn_on,Please turn on <device_name>.,1,Vui lòng bật <device_name>.
 switch,turn_off,"Shut off <device_name>,1
 switch,toggle,A quick toggle of <device_name>",1,"Tắt __PH0 __, 1
 chuyển đổi, chuyển đổi, chuyển đổi nhanh <device_name>"
-switch,turn_on,<device_name> needs to be on.,1,__Ph0__ cần phải được bật.
+switch,turn_on,<device_name> needs to be on.,1,<device_name> cần phải được bật.
 switch,turn_off,Time to turn <device_name> off.,1,Thời gian để tắt <device_name> TẮT.
 media_player,volume_up,Increase the volume on <device_name>.,1,Tăng khối lượng trên <device_name>.
 media_player,volume_up,Turn up <device_name> a bit.,1,Bật <device_name> một chút.
@@ -162,8 +162,8 @@ Media_Player, Volume_down, bạn có thể hạ âm lượng của __PH0 __ khô
 media_player,volume_down,Decrease the volume on <device_name>.,1,Giảm âm lượng trên <device_name>.
 media_player,volume_down,"Turn down <device_name>,1
 media_player,volume_mute,Mute <device_name>",1,"Tắt xuống __PH0 __, 1
-Media_Player, Volume_Mute, Mute __Ph0__"
-media_player,volume_mute,Silence <device_name> for a moment.,1,Im lặng __ph0__ trong giây lát.
+Media_Player, Volume_Mute, Mute <device_name>"
+media_player,volume_mute,Silence <device_name> for a moment.,1,Im lặng <device_name> trong giây lát.
 media_player,volume_mute,Can you mute <device_name>?,1,Bạn có thể tắt tiếng <device_name>?
 media_player,media_play,Start playing on <device_name>.,1,Bắt đầu chơi trên <device_name>.
 media_player,media_play,Can you play <device_name>?,1,Bạn có thể chơi <device_name> không?
@@ -187,8 +187,8 @@ media_player,media_previous_track,Can we go back a track on <device_name>?,1,Ch�
 climate,set_temperature,Set the temperature to <temp_f> degrees.,8,Đặt nhiệt độ thành <temp_f> độ.
 climate,set_temperature,Can you change the temperature to <temp_c> Celsius?,8,Bạn có thể thay đổi nhiệt độ thành <temp_c> celsius không?
 climate,set_temperature,"I'd like the room at <temp_f> degrees Fahrenheit,8
-climate,set_temperature,Please adjust the temperature to <temp_f> degrees.""",8,"Tôi muốn căn phòng ở __ph0__ độ Fahrenheit, 8
-khí hậu, set_temate, vui lòng điều chỉnh nhiệt độ thành __ph0__ độ. """
+climate,set_temperature,Please adjust the temperature to <temp_f> degrees.""",8,"Tôi muốn căn phòng ở <device_name> độ Fahrenheit, 8
+khí hậu, set_temate, vui lòng điều chỉnh nhiệt độ thành <device_name> độ. """
 climate,set_temperature,Can you lower the temperature to <temp_c>?,8,Bạn có thể hạ nhiệt độ xuống <temp_c> không?
 climate,set_temperature,Raise the temperature to <temp_f> degrees,8,Nâng nhiệt độ lên <temp_f> độ
 climate,set_humidity,Increase the humidity to <humidity>.,8,Tăng độ ẩm lên <humidity>.
@@ -208,12 +208,12 @@ light,turn_on,Increase <device_name>'s brightness to <brightness>.,8,Tăng độ
 light,turn_on,Lower the brightness of <device_name> to <brightness>.,8,Hạ độ sáng của <device_name> xuống <brightness>.
 light,turn_on,Can you set <device_name>'s brightness level to <brightness> percent?,8,Bạn có thể đặt mức độ sáng của __PH0 __ thành <brightness> phần trăm không?
 light,turn_on,I'd like <device_name> at <brightness> percent brightness,8,Tôi muốn <device_name> ở __ph1__ độ sáng phần trăm
-light,turn_on,Can you make <device_name> <color>?,8,Bạn có thể làm __ph0__ __ph1__?
+light,turn_on,Can you make <device_name> <color>?,8,Bạn có thể làm <device_name> __ph1__?
 light,turn_on,Change the color of <device_name> to <color>.,8,Thay đổi màu của <device_name> thành <color>.
 light,turn_on,Change <device_name> to a <color> hue.,8,Thay đổi <device_name> thành <color> HUE.
 light,turn_on,Set <device_name> to be <color>.,8,Đặt <device_name> thành <color>.
 light,turn_on,"I want <device_name> to be <color>"",8
-light,turn_on,Can you make <device_name> shine in <color>?""",8,"Tôi muốn __ph0__ là __ph1 __ "", 8
+light,turn_on,Can you make <device_name> shine in <color>?""",8,"Tôi muốn <device_name> là __ph1 __ "", 8
 Ánh sáng, Turn_on, bạn có thể làm <device_name> tỏa sáng trong __ph1__ không? """
 light,turn_on,Turn <device_name> to a <color> shade.,8,Biến <device_name> thành bóng <color>.
 light,turn_on,Turn <device_name> <color>.,8,Biến <device_name> <color>.
@@ -221,11 +221,11 @@ light,turn_on,I want <device_name> at a <color> setting.,8,Tôi muốn <device_n
 light,turn_on,Set <device_name> to a <color> color.,8,Đặt <device_name> thành màu <color>.
 light,turn_on,Please set <device_name> to a <color> color.,8,Vui lòng đặt <device_name> thành màu <color>.
 light,turn_on,Make <device_name> glow <color>.,8,Tạo <device_name> phát sáng <color>.
-light,turn_on,Could you turn <device_name> to <color>?,8,Bạn có thể chuyển __ph0__ thành __ph1__ không?
+light,turn_on,Could you turn <device_name> to <color>?,8,Bạn có thể chuyển <device_name> thành __ph1__ không?
 light,turn_on,Please change <device_name> to <color>.,8,Vui lòng thay đổi <device_name> thành <color>.
 light,turn_on,Adjust <device_name> to <color> color.,8,Điều chỉnh <device_name> thành màu <color>.
 light,turn_on,Switch <device_name> color to <color>.,8,Chuyển <device_name> Màu sang <color>.
-light,turn_on,Can <device_name> be <color> now?,8,__Ph0__ có thể là __ph1__ bây giờ không?
+light,turn_on,Can <device_name> be <color> now?,8,<device_name> có thể là __ph1__ bây giờ không?
 light,turn_on,Let's have <device_name> in <color>.,8,Hãy có <device_name> trong <color>.
 light,turn_on,I'd like <device_name> to change to <color>.,8,Tôi muốn <device_name> thay đổi thành <color>.
 light,turn_on,Can <device_name> display a <color> light?,8,<device_name> có thể hiển thị ánh sáng <color> không?
@@ -234,20 +234,20 @@ vacuum,start,Start cleaning with <device_name>.,2,Bắt đầu làm sạch với
 vacuum,start,Begin vacuuming with <device_name>.,2,Bắt đầu hút bụi với <device_name>.
 vacuum,start,Activate <device_name> to clean.,2,Kích hoạt <device_name> để làm sạch.
 vacuum,start,Could you please start <device_name>?,2,Bạn có thể vui lòng bắt đầu <device_name>?
-vacuum,start,"Hey, get <device_name> going, would you?",2,"Này, nhận __ph0__ đi, bạn sẽ?"
+vacuum,start,"Hey, get <device_name> going, would you?",2,"Này, nhận <device_name> đi, bạn sẽ?"
 vacuum,stop,Stop <device_name>'s operation.,2,Dừng hoạt động của __PH0 __.
 vacuum,stop,Please halt <device_name>'s current task,2,Vui lòng tạm dừng nhiệm vụ hiện tại của __PH0 __
 vacuum,stop,Please stop <device_name>,2,Vui lòng dừng <device_name>
-vacuum,stop,Can you make <device_name> stop?,2,Bạn có thể làm cho __ph0__ dừng lại?
+vacuum,stop,Can you make <device_name> stop?,2,Bạn có thể làm cho <device_name> dừng lại?
 vacuum,stop,Stop <device_name> from cleaning.,2,Dừng <device_name> làm sạch.
 vacuum,pause,Freeze <device_name>'s current task.,2,Đóng băng __PH0 __ Nhiệm vụ hiện tại của.
 vacuum,pause,Would you mind pausing <device_name> for a moment?,2,Bạn có phiền khi tạm dừng <device_name> trong giây lát không?
-vacuum,pause,"Hey, can we put <device_name> on pause, please?",2,"Này, chúng ta có thể đặt __ph0__ tạm dừng không?"
+vacuum,pause,"Hey, can we put <device_name> on pause, please?",2,"Này, chúng ta có thể đặt <device_name> tạm dừng không?"
 vacuum,pause,Pause the <device_name> cleaning.,2,Tạm dừng việc làm sạch <device_name>.
 vacuum,pause,Pause <device_name>,2,Tạm dừng <device_name>
 vacuum,return_to_base,Send <device_name> back to its base.,2,Gửi <device_name> trở lại căn cứ của nó.
 vacuum,return_to_base,"Please send <device_name> back to its base, if you would.",2,"Vui lòng gửi <device_name> trở lại căn cứ của nó, nếu bạn muốn."
-vacuum,return_to_base,"Time to head home, <device_name>. Can you call it back?",2,"Thời gian để về nhà, __ph0__. Bạn có thể gọi nó lại không?"
+vacuum,return_to_base,"Time to head home, <device_name>. Can you call it back?",2,"Thời gian để về nhà, <device_name>. Bạn có thể gọi nó lại không?"
 vacuum,return_to_base,Direct <device_name> to dock.,2,Trực tiếp <device_name> đến bến tàu.
 vacuum,return_to_base,Return <device_name> to its charging station.,2,Trả lại <device_name> cho trạm sạc của nó.
 todo,add_item,Please add <todo> to my <device_name>.,8,Vui lòng thêm <todo> vào <device_name> của tôi.
@@ -260,7 +260,7 @@ todo,add_item,May I request that <todo> be included in the <device_name>?,8,Tôi
 todo,add_item,It would be much appreciated if <todo> could be put on the <device_name>.,8,Sẽ được đánh giá cao nếu <todo> có thể được đặt trên <device_name>.
 todo,add_item,Shall we append <todo> to my <device_name>?,8,Chúng ta sẽ nối <todo> vào <device_name> của tôi chứ?
 todo,add_item,"Let's add <todo> to the <device_name>""",8,"Hãy thêm <todo> vào __ph1__ """
-todo,add_item,Could you place <todo> onto my <device_name>?,8,Bạn có thể đặt __ph0__ lên __ph1__ của tôi không?
+todo,add_item,Could you place <todo> onto my <device_name>?,8,Bạn có thể đặt <device_name> lên __ph1__ của tôi không?
 todo,add_item,Will you be so kind as to incorporate <todo> into the <device_name>?,8,Bạn sẽ tử tế đến mức kết hợp <todo> vào <device_name> chứ?
 todo,add_item,Is it possible to include <todo> in the <device_name>?,8,Có thể bao gồm <todo> trong <device_name> không?
 todo,add_item,Could we add <todo> to my <device_name>?,8,Chúng ta có thể thêm <todo> vào <device_name> của tôi không?
