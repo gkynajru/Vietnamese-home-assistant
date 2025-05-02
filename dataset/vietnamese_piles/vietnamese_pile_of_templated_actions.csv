@@ -188,11 +188,11 @@ light,turn_on,I want <device_name> at a <color> setting.,8,Tôi muốn <device_n
 light,turn_on,Set <device_name> to a <color> color.,8,Đặt <device_name> thành màu <color>.
 light,turn_on,Please set <device_name> to a <color> color.,8,Vui lòng đặt <device_name> thành màu <color>.
 light,turn_on,Make <device_name> glow <color>.,8,Tạo <device_name> phát sáng <color>.
-light,turn_on,Could you turn <device_name> to <color>?,8,Bạn có thể chuyển <device_name> thành __ph1__ không?
+light,turn_on,Could you turn <device_name> to <color>?,8,Bạn có thể chuyển <device_name> thành <color> không?
 light,turn_on,Please change <device_name> to <color>.,8,Vui lòng thay đổi <device_name> thành <color>.
 light,turn_on,Adjust <device_name> to <color> color.,8,Điều chỉnh <device_name> thành màu <color>.
 light,turn_on,Switch <device_name> color to <color>.,8,Chuyển <device_name> Màu sang <color>.
-light,turn_on,Can <device_name> be <color> now?,8,<device_name> có thể là __ph1__ bây giờ không?
+light,turn_on,Can <device_name> be <color> now?,8,<device_name> có thể là <color> bây giờ không?
 light,turn_on,Let's have <device_name> in <color>.,8,Hãy có <device_name> trong <color>.
 light,turn_on,I'd like <device_name> to change to <color>.,8,Tôi muốn <device_name> thay đổi thành <color>.
 light,turn_on,Can <device_name> display a <color> light?,8,<device_name> có thể hiển thị ánh sáng <color> không?
@@ -201,13 +201,13 @@ vacuum,start,Start cleaning with <device_name>.,2,Bắt đầu làm sạch với
 vacuum,start,Begin vacuuming with <device_name>.,2,Bắt đầu hút bụi với <device_name>.
 vacuum,start,Activate <device_name> to clean.,2,Kích hoạt <device_name> để làm sạch.
 vacuum,start,Could you please start <device_name>?,2,Bạn có thể vui lòng bắt đầu <device_name>?
-vacuum,start,"Hey, get <device_name> going, would you?",2,"Này, nhận <device_name> đi, bạn sẽ?"
-vacuum,stop,Stop <device_name>'s operation.,2,Dừng hoạt động của __PH0 __.
-vacuum,stop,Please halt <device_name>'s current task,2,Vui lòng tạm dừng nhiệm vụ hiện tại của __PH0 __
+vacuum,start,"Hey, get <device_name> going, would you?",2,"Này, nhận <device_name> đi?"
+vacuum,stop,Stop <device_name>'s operation.,2,Dừng hoạt động của <device_name>.
+vacuum,stop,Please halt <device_name>'s current task,2,Vui lòng tạm dừng nhiệm vụ hiện tại của 
 vacuum,stop,Please stop <device_name>,2,Vui lòng dừng <device_name>
 vacuum,stop,Can you make <device_name> stop?,2,Bạn có thể làm cho <device_name> dừng lại?
 vacuum,stop,Stop <device_name> from cleaning.,2,Dừng <device_name> làm sạch.
-vacuum,pause,Freeze <device_name>'s current task.,2,Đóng băng __PH0 __ Nhiệm vụ hiện tại của.
+vacuum,pause,Freeze <device_name>'s current task.,2, Dừng hành động hiện tại của <device_name>.
 vacuum,pause,Would you mind pausing <device_name> for a moment?,2,Bạn có phiền khi tạm dừng <device_name> trong giây lát không?
 vacuum,pause,"Hey, can we put <device_name> on pause, please?",2,"Này, chúng ta có thể đặt <device_name> tạm dừng không?"
 vacuum,pause,Pause the <device_name> cleaning.,2,Tạm dừng việc làm sạch <device_name>.
@@ -219,16 +219,16 @@ vacuum,return_to_base,Direct <device_name> to dock.,2,Trực tiếp <device_name
 vacuum,return_to_base,Return <device_name> to its charging station.,2,Trả lại <device_name> cho trạm sạc của nó.
 todo,add_item,Please add <todo> to my <device_name>.,8,Vui lòng thêm <todo> vào <device_name> của tôi.
 todo,add_item,Can you add <todo> to the <device_name>?,8,Bạn có thể thêm <todo> vào <device_name> không?
-todo,add_item,I need <todo> added to my <device_name>.,8,Tôi cần <todo> được thêm vào __ph1__ của tôi.
+todo,add_item,I need <todo> added to my <device_name>.,8,Tôi cần <todo> được thêm vào <device_name> của tôi.
 todo,add_item,Go ahead and add <todo> to the <device_name>.,8,Đi trước và thêm <todo> vào <device_name>.
 todo,add_item,Could you please input <todo> into my <device_name>?,8,Bạn có thể vui lòng nhập <todo> vào <device_name> của tôi không?
-todo,add_item,Kindly insert <todo> onto the <device_name>.,8,Vui lòng chèn <todo> vào ____.
+todo,add_item,Kindly insert <todo> onto the <device_name>.,8,Vui lòng chèn <todo> vào <device_name>.
 todo,add_item,May I request that <todo> be included in the <device_name>?,8,Tôi có thể yêu cầu <todo> được đưa vào <device_name> không?
 todo,add_item,It would be much appreciated if <todo> could be put on the <device_name>.,8,Sẽ được đánh giá cao nếu <todo> có thể được đặt trên <device_name>.
 todo,add_item,Shall we append <todo> to my <device_name>?,8,Chúng ta sẽ nối <todo> vào <device_name> của tôi chứ?
-todo,add_item,"Let's add <todo> to the <device_name>""",8,"Hãy thêm <todo> vào __ph1__ """
-todo,add_item,Could you place <todo> onto my <device_name>?,8,Bạn có thể đặt <device_name> lên __ph1__ của tôi không?
-todo,add_item,Will you be so kind as to incorporate <todo> into the <device_name>?,8,Bạn sẽ tử tế đến mức kết hợp <todo> vào <device_name> chứ?
+todo,add_item,"Let's add <todo> to the <device_name>""",8,"Hãy thêm <todo> vào <device_name>"" """
+todo,add_item,Could you place <todo> onto my <device_name>?,8,Bạn có thể đặt <todo> lên <device_name> của tôi không?
+todo,add_item,Will you be so kind as to incorporate <todo> into the <device_name>?,8,Bạn sẽ kết hợp <todo> vào <device_name> chứ?
 todo,add_item,Is it possible to include <todo> in the <device_name>?,8,Có thể bao gồm <todo> trong <device_name> không?
 todo,add_item,Could we add <todo> to my <device_name>?,8,Chúng ta có thể thêm <todo> vào <device_name> của tôi không?
 timer,start,Please set my <device_name> for <duration>.,8,Vui lòng đặt <device_name> của tôi cho <duration>.
