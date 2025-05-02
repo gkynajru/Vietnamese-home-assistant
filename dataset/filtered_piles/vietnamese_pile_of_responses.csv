@@ -8,9 +8,6 @@ blinds.close,"Sure, closing the blinds.",en,assistant,0,"Chắc chắn, đóng r
 blinds.stop,Stopping the blinds now.,en,assistant,0,Dừng rèm bây giờ.
 blinds.stop,I'll stop the blinds for you.,en,assistant,0,Tôi sẽ dừng rèm cho bạn.
 blinds.stop,"Sure, halting the blinds movement.",en,assistant,0,"Chắc chắn, tạm dừng phong trào rèm."
-blinds.toggle,Toggling the blinds state for you.,en,assistant,0,Chuyển đổi trạng thái rèm cho bạn.
-blinds.toggle,Switching the blinds' state now.,en,assistant,0,Chuyển đổi trạng thái của rèm bây giờ.
-blinds.toggle,I'll toggle the blinds for you.,en,assistant,0,Tôi sẽ chuyển đổi rèm cho bạn.
 blinds.open,Lifting <device_name> blinds as requested,en,assistant,0,Nâng <device_name> rèm theo yêu cầu
 blinds.open,Opening <device_name> now,en,assistant,0,Mở <device_name> ngay bây giờ
 blinds.open,Raising <device_name> for you,en,assistant,0,Tăng <device_name> cho bạn
@@ -22,10 +19,6 @@ blinds.close,Closing <device_name> for you,en,assistant,0,Đóng <device_name> c
 blinds.close,Lowering <device_name> now,en,assistant,0,Hạ thấp <device_name> ngay bây giờ
 blinds.close,Shutting <device_name> as requested,en,assistant,0,Tắt <device_name> theo yêu cầu
 blinds.close,Lowering <device_name>,en,assistant,0,Hạ thấp <device_name>
-blinds.toggle,Flipping <device_name> state now,en,assistant,0,Lật __ph0__ trạng thái ngay bây giờ
-blinds.toggle,Switching <device_name> state as requested,en,assistant,0,Chuyển đổi trạng thái <device_name> theo yêu cầu
-blinds.toggle,Toggling <device_name> for you,en,assistant,0,Chuyển đổi <device_name> cho bạn
-blinds.toggle,Toggling <device_name>,en,assistant,0,Chuyển đổi <device_name>
 climate.set_humidity,Increasing humidity to <humidity>.,en,assistant,0,Tăng độ ẩm lên <humidity>.
 climate.set_humidity,Setting humidity to <humidity> percent.,en,assistant,0,Đặt độ ẩm thành <humidity> phần trăm.
 climate.set_humidity,Adjusting humidity to <humidity>%.,en,assistant,0,Điều chỉnh độ ẩm thành __PH0 __%.
@@ -49,18 +42,12 @@ fan.turn_on,"Sure, turning on the fan now.",en,assistant,0,"Chắc chắn, bật
 fan.turn_off,Switching off the fan as requested.,en,assistant,0,Tắt quạt theo yêu cầu.
 fan.turn_off,I'll turn off the fan for you.,en,assistant,0,Tôi sẽ tắt quạt cho bạn.
 fan.turn_off,"Okay, turning off the fan.",en,assistant,0,"Được rồi, tắt quạt."
-fan.toggle,I'll toggle the fan's state for you.,en,assistant,0,Tôi sẽ chuyển trạng thái của người hâm mộ cho bạn.
-fan.toggle,Toggling the fan now.,en,assistant,0,Chuyển đổi quạt ngay bây giờ.
-fan.toggle,Switching the fan's state for you.,en,assistant,0,Chuyển đổi trạng thái của người hâm mộ cho bạn.
 fan.increase_speed,Increasing the fan speed for you.,en,assistant,0,Tăng tốc độ quạt cho bạn.
 fan.increase_speed,"Sure, speeding up the fan now.",en,assistant,0,"Chắc chắn, tăng tốc cho quạt bây giờ."
 fan.increase_speed,I'll go ahead and make the fan faster.,en,assistant,0,Tôi sẽ tiếp tục và làm cho người hâm mộ nhanh hơn.
 fan.decrease_speed,Reducing the fan speed as you requested.,en,assistant,0,Giảm tốc độ quạt như bạn yêu cầu.
 fan.decrease_speed,I'll slow down the fan for you.,en,assistant,0,Tôi sẽ làm chậm quạt cho bạn.
 fan.decrease_speed,"Sure, decreasing the fan speed.",en,assistant,0,"Chắc chắn, giảm tốc độ quạt."
-fan.toggle,Flipping <device_name> state for you,en,assistant,0,Lật __ph0__ trạng thái cho bạn
-fan.toggle,Switching <device_name> state as requested,en,assistant,0,Chuyển đổi trạng thái <device_name> theo yêu cầu
-fan.toggle,Toggling <device_name> now,en,assistant,0,Chuyển đổi <device_name> ngay bây giờ
 fan.turn_on,Activating <device_name> now,en,assistant,0,Kích hoạt <device_name> ngay bây giờ
 fan.turn_on,Starting <device_name> for you,en,assistant,0,Bắt đầu <device_name> cho bạn
 fan.turn_on,"Certainly, starting <device_name>",en,assistant,0,"Chắc chắn, bắt đầu __ph0__"
@@ -87,9 +74,6 @@ garage_door.close,"Sure, closing the garage door.",en,assistant,0,"Chắc chắn
 garage_door.stop,Stopping the garage door now.,en,assistant,0,Dừng cửa nhà để xe bây giờ.
 garage_door.stop,I'll stop the garage door for you.,en,assistant,0,Tôi sẽ dừng cửa nhà để xe cho bạn.
 garage_door.stop,"Sure, I'll halt the garage door movement.",en,assistant,0,"Chắc chắn, tôi sẽ tạm dừng chuyển động cửa nhà để xe."
-garage_door.toggle,Toggling the garage door state for you.,en,assistant,0,Chuyển đổi trạng thái cửa nhà để xe cho bạn.
-garage_door.toggle,I'll switch the garage door's state now.,en,assistant,0,Tôi sẽ chuyển trạng thái của cửa nhà để xe ngay bây giờ.
-garage_door.toggle,Switching the garage door's state for you.,en,assistant,0,Chuyển đổi trạng thái của cửa nhà để xe cho bạn.
 garage_door.open,Lifting <device_name> for you,en,assistant,0,Nâng __ph0__ cho bạn
 garage_door.open,Opening <device_name> now,en,assistant,0,Mở <device_name> ngay bây giờ
 garage_door.open,Raising <device_name> as requested,en,assistant,0,Tăng <device_name> theo yêu cầu
@@ -102,23 +86,12 @@ garage_door.close,Closing <device_name> now,en,assistant,0,Đóng <device_name> 
 garage_door.close,Lowering <device_name> for you,en,assistant,0,Hạ thấp __ph0__ cho bạn
 garage_door.close,Shutting <device_name> as requested,en,assistant,0,Tắt <device_name> theo yêu cầu
 garage_door.close,Closing <device_name>,en,assistant,0,Đóng <device_name>
-garage_door.toggle,Flipping <device_name> state now,en,assistant,0,Lật __ph0__ trạng thái ngay bây giờ
-garage_door.toggle,Switching <device_name> state as requested,en,assistant,0,Chuyển đổi trạng thái <device_name> theo yêu cầu
-garage_door.toggle,Toggling <device_name> for you,en,assistant,0,Chuyển đổi <device_name> cho bạn
-garage_door.toggle,Toggling <device_name>,en,assistant,0,Chuyển đổi <device_name>
 light.turn_on,Turning on the light for you.,en,assistant,0,Bật đèn cho bạn.
 light.turn_on,"Sure, I'll turn on the light now.",en,assistant,0,"Chắc chắn, tôi sẽ bật đèn ngay bây giờ."
 light.turn_on,I'll go ahead and turn the light on.,en,assistant,0,Tôi sẽ tiếp tục và bật đèn.
 light.turn_off,Turning off the light as requested.,en,assistant,0,Tắt đèn theo yêu cầu.
 light.turn_off,I'll switch off the light for you.,en,assistant,0,Tôi sẽ tắt đèn cho bạn.
 light.turn_off,"Sure, turning off the light.",en,assistant,0,"Chắc chắn, tắt đèn."
-light.toggle,Toggling the light for you.,en,assistant,0,Chuyển đổi ánh sáng cho bạn.
-light.toggle,Switching the light's state now.,en,assistant,0,Chuyển đổi trạng thái của đèn ngay bây giờ.
-light.toggle,I'll toggle the light for you.,en,assistant,0,Tôi sẽ chuyển ánh sáng cho bạn.
-light.toggle,Flipping the <device_name> state,en,assistant,0,Lật trạng thái __ph0__
-light.toggle,Switching <device_name> state as requested,en,assistant,0,Chuyển đổi trạng thái <device_name> theo yêu cầu
-light.toggle,Toggling <device_name> for you,en,assistant,0,Chuyển đổi <device_name> cho bạn
-light.toggle,Toggling <device_name>,en,assistant,0,Chuyển đổi <device_name>
 light.turn_on,Activation of <device_name> in progress,en,assistant,0,Kích hoạt <device_name> đang diễn ra
 light.turn_on,"Certainly, turning on <device_name> now",en,assistant,0,"Chắc chắn, bật __ph0__"
 light.turn_on,Switching on <device_name> for you,en,assistant,0,Bật <device_name> cho bạn
@@ -174,9 +147,6 @@ media_player.turn_on,"Sure, activating the media player.",en,assistant,0,"Chắc
 media_player.turn_off,Turning off the media player as requested.,en,assistant,0,Tắt trình phát phương tiện theo yêu cầu.
 media_player.turn_off,I'll switch off the media player.,en,assistant,0,Tôi sẽ tắt trình phát phương tiện.
 media_player.turn_off,"Sure, deactivating the media player.",en,assistant,0,"Chắc chắn, hủy kích hoạt trình phát phương tiện."
-media_player.toggle,Toggling the media player for you.,en,assistant,0,Chuyển đổi trình phát phương tiện cho bạn.
-media_player.toggle,Switching the media player's state.,en,assistant,0,Chuyển đổi trạng thái của trình phát phương tiện.
-media_player.toggle,I'll toggle the media player.,en,assistant,0,Tôi sẽ chuyển đổi trình phát phương tiện.
 media_player.volume_up,Increasing the volume for you.,en,assistant,0,Tăng khối lượng cho bạn.
 media_player.volume_up,"Sure, turning up the volume now.",en,assistant,0,"Chắc chắn, bật lên âm lượng ngay bây giờ."
 media_player.volume_up,I'll go ahead and raise the volume.,en,assistant,0,Tôi sẽ tiếp tục và nâng âm lượng.
@@ -188,7 +158,6 @@ media_player.volume_mute,I'll mute the media player now.,en,assistant,0,Tôi s�
 media_player.volume_mute,"Sure, muting the volume.",en,assistant,0,"Chắc chắn, tắt âm lượng."
 media_player.media_play_pause,Toggling play/pause on the media player.,en,assistant,0,Chuyển đổi chơi/tạm dừng trên trình phát phương tiện.
 media_player.media_play_pause,Switching between play and pause.,en,assistant,0,Chuyển đổi giữa chơi và tạm dừng.
-media_player.media_play_pause,I'll toggle between play and pause for you.,en,assistant,0,Tôi sẽ chuyển đổi giữa chơi và tạm dừng cho bạn.
 media_player.media_play,Starting media playback.,en,assistant,0,Bắt đầu phát lại phương tiện truyền thông.
 media_player.media_play,I'll start playing the media for you.,en,assistant,0,Tôi sẽ bắt đầu chơi phương tiện truyền thông cho bạn.
 media_player.media_play,"Sure, beginning playback.",en,assistant,0,"Chắc chắn, bắt đầu phát lại."
@@ -234,15 +203,6 @@ switch.turn_on,I'll go ahead and turn the switch on.,en,assistant,0,Tôi sẽ ti
 switch.turn_off,Turning off the switch as requested.,en,assistant,0,Tắt công tắc theo yêu cầu.
 switch.turn_off,I'll switch off the device for you.,en,assistant,0,Tôi sẽ tắt thiết bị cho bạn.
 switch.turn_off,"Sure, turning off the switch.",en,assistant,0,"Chắc chắn, tắt công tắc."
-switch.toggle,Toggling the switch for you.,en,assistant,0,Chuyển đổi công tắc cho bạn.
-switch.toggle,Changing the switch's state now.,en,assistant,0,Thay đổi trạng thái của công tắc ngay bây giờ.
-switch.toggle,I'll toggle the switch for you.,en,assistant,0,Tôi sẽ chuyển đổi công tắc cho bạn.
-switch.toggle,Toggling <device_name>.,en,assistant,0,Chuyển đổi <device_name>.
-switch.toggle,"Yes, toggling <device_name>.",en,assistant,0,"Có, chuyển đổi <device_name>."
-switch.toggle,"Yes, I can toggle <device_name>.",en,assistant,0,"Có, tôi có thể chuyển đổi <device_name>."
-switch.toggle,Toggling <device_name> as requested.,en,assistant,0,Chuyển đổi <device_name> theo yêu cầu.
-switch.toggle,Changing the state of <device_name>.,en,assistant,0,Thay đổi trạng thái của <device_name>.
-switch.toggle,Quickly toggling <device_name>.,en,assistant,0,Nhanh chóng chuyển đổi __ph0__.
 switch.turn_on,Turning on <device_name> now.,en,assistant,0,Bật <device_name> ngay bây giờ.
 switch.turn_on,I'm turning on <device_name>.,en,assistant,0,Tôi đang bật <device_name>.
 switch.turn_on,Activating <device_name>.,en,assistant,0,Kích hoạt <device_name>.
@@ -269,8 +229,6 @@ fan.decrease_speed,reducing <device_name>,en,assistant,1,Giảm <device_name>
 fan.increase_speed,speeding up <device_name>,en,assistant,1,Tăng tốc <device_name>
 fan.increase_speed,increasing speed of <device_name>,en,assistant,1,Tăng tốc độ <device_name>
 fan.increase_speed,ramping up <device_name>,en,assistant,1,tăng cường __ph0__
-fan.toggle,toggling <device_name>,en,assistant,1,Chuyển đổi <device_name>
-fan.toggle,flipping <device_name>,en,assistant,1,lật __ph0__
 fan.turn_off,stopping <device_name>,en,assistant,1,Dừng <device_name>
 fan.turn_off,turning off <device_name>,en,assistant,1,Tắt <device_name>
 fan.turn_off,deactivating <device_name>,en,assistant,1,vô hiệu hóa <device_name>
@@ -282,8 +240,6 @@ garage_door.close,closing <device_name>,en,assistant,1,Đóng <device_name>
 garage_door.open,opening <device_name>,en,assistant,1,Mở đầu <device_name>
 garage_door.open,lifting <device_name>,en,assistant,1,Nâng <device_name>
 garage_door.stop,stopping <device_name>,en,assistant,1,Dừng <device_name>
-light.toggle,toggling <device_name>,en,assistant,1,Chuyển đổi <device_name>
-light.toggle,flipping <device_name>,en,assistant,1,lật __ph0__
 light.turn_off,turning off <device_name>,en,assistant,1,Tắt <device_name>
 light.turn_off,deactivating <device_name>,en,assistant,1,vô hiệu hóa <device_name>
 light.turn_off,lowering <device_name>,en,assistant,1,hạ thấp <device_name>
@@ -305,9 +261,6 @@ blinds.close,"Aye, closin' the blinds.",en,pirate,0,"Aye, đóng cửa 'rèm."
 blinds.stop,Stopin' the blinds now.,en,pirate,0,Ngăn chặn rèm bây giờ.
 blinds.stop,I'll halt the blinds for ye.,en,pirate,0,Tôi sẽ tạm dừng rèm cho các bạn.
 blinds.stop,"Aye, haltin' the blinds' movement.",en,pirate,0,"Aye, chuyển động của Rèm '."
-blinds.toggle,Togglin' the blinds' state for ye.,en,pirate,0,Togglin 'The Rèm' Trạng thái cho các ngươi.
-blinds.toggle,Switchin' the blinds' state now.,en,pirate,0,Chuyển đổi trạng thái của rèm 'bây giờ.
-blinds.toggle,I'll be togglin' the blinds for ye.,en,pirate,0,Tôi sẽ là người rèm cho các ngươi.
 blinds.open,Liftin' <device_name> blinds yarr,en,pirate,0,Liftin '__ph0__ rèm yarr
 blinds.open,Openin' <device_name> now,en,pirate,0,Openin '__ph0__ bây giờ
 blinds.open,Raisin' <device_name> for ye,en,pirate,0,Raisin '__ph0__ cho các ngươi
@@ -319,10 +272,6 @@ blinds.close,Closin' <device_name> for ye,en,pirate,0,Closin '__ph0__ cho các b
 blinds.close,Lowerin' <device_name> now,en,pirate,0,Lowerin '__ph0__ bây giờ
 blinds.close,Shuttin' <device_name> yarr,en,pirate,0,Shuttin '__ph0__ yarr
 blinds.close,Lowerin' <device_name>,en,pirate,0,Hạ thấp '__ph0__
-blinds.toggle,Flippin' <device_name> state now,en,pirate,0,Flippin '__ph0__ trạng thái ngay bây giờ
-blinds.toggle,Switchin' <device_name> state yarr,en,pirate,0,Switchin '__ph0__ State Yarr
-blinds.toggle,Togglin' <device_name> for ye,en,pirate,0,Togglin '__ph0__ cho các bạn
-blinds.toggle,Togglin' <device_name>,en,pirate,0,Togglin '__ph0__
 climate.set_humidity,"Yarrr, rampin' up humidity to <humidity>, by the sea!",en,pirate,0,"Yarrr, tăng độ ẩm lên __ph0__, bên bờ biển!"
 climate.set_humidity,"Arrr, settin' humidity to <humidity> percent, as ye wish!",en,pirate,0,"Arrr, giải quyết độ ẩm cho __ph0__ phần trăm, như bạn ước!"
 climate.set_humidity,"By Davy Jones' locker, adjustin' humidity to <humidity>%!",en,pirate,0,"Bởi tủ khóa của Davy Jones, điều chỉnh độ ẩm thành __ph0 __%!"
@@ -331,7 +280,7 @@ climate.set_fan_mode,"Arr, puttin' the fan on <fan_mode>, steady as she goes!",e
 climate.set_fan_mode,"Shiver me timbers, changin' the fan to <fan_mode> setting!",en,pirate,0,"Rùng mình gỗ, thay đổi 'quạt thành <fan_mode> cài đặt!"
 climate.set_hvac_mode,"Blimey, switchin' to <hvac_mode> mode, full sail ahead!",en,pirate,0,"Blimey, chuyển sang chế độ <hvac_mode>, đi thuyền đầy đủ phía trước!"
 climate.set_hvac_mode,"Arrr, settin' the HVAC to <hvac_mode>, steady as she goes!",en,pirate,0,"Arrr, giải quyết HVAC đến __ph0__, ổn định khi cô ấy đi!"
-climate.set_hvac_mode,"By the powers, changin' HVAC to <hvac_mode> mode!",en,pirate,0 ,"Bằng các quyền lực, Changin 'HVac thành <hvac_mode> Chế độ!"
+climate.set_hvac_mode,"By the powers, changin' HVAC to <hvac_mode> mode!",en,pirate,0,"Bằng các quyền lực, Changin 'HVac thành <hvac_mode> Chế độ!"
 climate.set_temperature,"Arr, settin' temperature to <temp_f> degrees, as warm as the Caribbean sun!",en,pirate,0,"Mảng, giải quyết nhiệt độ đến __ph0__ độ, ấm như mặt trời Caribbean!"
 climate.set_temperature,"Yarrr, changin' temperature to <temp_c> Celsius, cooler than the deep blue!",en,pirate,0,"Yarrr, nhiệt độ thay đổi thành __ph0__ C, mát hơn màu xanh đậm!"
 climate.set_temperature,"Heave ho, settin' the room to <temp_f> degrees Fahrenheit, warm as a pirate's grog!",en,pirate,0,"Heave ho, định cư phòng đến __ph0__ độ Fahrenheit, ấm áp như một kẻ cướp biển!"
@@ -346,18 +295,12 @@ fan.turn_on,"Yar, turnin' on the fan now!",en,pirate,0,"Yar, Turnin 'trên ngư�
 fan.turn_off,"Killin' the fan as ye requested, matey.",en,pirate,0,"Killin 'người hâm mộ như các ngươi yêu cầu, Matey."
 fan.turn_off,I'll snuff out the fan for ye.,en,pirate,0,Tôi sẽ dập tắt người hâm mộ cho các bạn.
 fan.turn_off,"Aye, turnin' off the fan.",en,pirate,0,"Aye, Turnin 'ra khỏi quạt."
-fan.toggle,I'll be flippin' the fan's state for ye.,en,pirate,0,Tôi sẽ là người hâm mộ của người hâm mộ cho các ngươi.
-fan.toggle,"Togglin' the fan now, by the stars!",en,pirate,0,"Togglin 'người hâm mộ bây giờ, bởi các vì sao!"
-fan.toggle,"Switchin' the fan's state for ye, savvy?",en,pirate,0,"Chuyển đổi trạng thái của người hâm mộ đối với các ngươi, hiểu biết?"
 fan.increase_speed,"Boostin' the fan speed for ye, swift as the wind!",en,pirate,0,"Boostin 'Tốc độ quạt cho các bạn, nhanh chóng như gió!"
 fan.increase_speed,"Sure as the tide, speedin' up the fan now.",en,pirate,0,"Chắc chắn là thủy triều, tốc độ cho người hâm mộ ngay bây giờ."
 fan.increase_speed,"I'll be makin' the fan faster, hold fast!",en,pirate,0,"Tôi sẽ là người hâm mộ nhanh hơn, giữ nhanh!"
 fan.decrease_speed,"Reducin' the fan speed as ye requested, quiet as the deep.",en,pirate,0,"Giảm tốc độ quạt khi các ngươi yêu cầu, yên tĩnh như sâu."
 fan.decrease_speed,"I'll slow down the fan for ye, easy as a calm sea.",en,pirate,0,"Tôi sẽ làm chậm quạt cho các ngươi, dễ dàng như một biển yên tĩnh."
 fan.decrease_speed,"Sure, decreasin' the fan speed, steady now.",en,pirate,0,"Chắc chắn, giảm tốc độ quạt, ổn định."
-fan.toggle,"Flippin' <device_name> state for ye, with a yo-ho-ho!",en,pirate,0,"Flippin '__ph0__ State for Ye, với một yo-ho-ho!"
-fan.toggle,"Switchin' <device_name> state as requested, on my honor!",en,pirate,0,"Switchin '__ph0__ State Theo yêu cầu, theo danh dự của tôi!"
-fan.toggle,"Togglin' <device_name> now, without a fuss!",en,pirate,0,"Togglin '__ph0__ Bây giờ, không cần ồn ào!"
 fan.turn_on,"Activatin' <device_name> now, set sail!",en,pirate,0,"Kích hoạt '__ph0__ Bây giờ, hãy ra khơi!"
 fan.turn_on,"Startin' <device_name> for ye, full speed ahead!",en,pirate,0,"Startin '__ph0__ cho các bạn, tốc độ tối đa phía trước!"
 fan.turn_on,"Certainly, startin' <device_name>, let's brave the squall!",en,pirate,0,"Chắc chắn, Startin '__ph0__, hãy dũng cảm với Squall!"
@@ -381,13 +324,6 @@ light.turn_on,"Settin' sail with the light on, I will!",en,pirate,0,"Đặt 'Cá
 light.turn_off,"Dousin' the lights as ye wish, matey.",en,pirate,0,"Dousin 'ánh đèn như bạn ước, Matey."
 light.turn_off,I'll be snuffin' out the light for ye.,en,pirate,0,Tôi sẽ snuffin 'ra khỏi ánh sáng cho các ngươi.
 light.turn_off,"Aye, extinguishin' the light.",en,pirate,0,"Aye, dập tắt ánh sáng."
-light.toggle,"Flippin' the light for ye, by the stars!",en,pirate,0,"Flippin 'ánh sáng cho các bạn, bởi các vì sao!"
-light.toggle,"Switchin' the light's state, on my honor!",en,pirate,0,"Switchin 'The Light's State, theo danh dự của tôi!"
-light.toggle,"I'll be togglin' the light for ye, savvy?",en,pirate,0,"Tôi sẽ chuyển sang ánh sáng cho các ngươi, hiểu biết?"
-light.toggle,"Flippin' the <device_name> state, with a yo-ho-ho!",en,pirate,0,"Flippin 'Nhà nước __ph0__, với một yo-ho-ho!"
-light.toggle,"Switchin' <device_name> state as commanded, arr!",en,pirate,0,"Switchin '__ph0__ State như được chỉ huy, ARR!"
-light.toggle,"Togglin' <device_name> for ye, without a fuss!",en,pirate,0,"Togglin '__ph0__ cho các bạn, không có một sự ồn ào!"
-light.toggle,"Togglin' <device_name>, ready for adventure!",en,pirate,0,"Togglin '__ph0__, sẵn sàng cho cuộc phiêu lưu!"
 light.turn_on,"Startin' up <device_name>, on the horizon!",en,pirate,0,"Startin 'Up __ph0__, trên đường chân trời!"
 light.turn_on,"Aye, brightenin' <device_name> now, clear as day!",en,pirate,0,"Aye, breatenin '__ph0__ Bây giờ, rõ ràng như ngày!"
 light.turn_on,"Switchin' on <device_name> for ye, like the northern star!",en,pirate,0,"Chuyển đổi trên __ph0__ cho các bạn, giống như ngôi sao phía bắc!"
@@ -424,19 +360,9 @@ light.turn_off,"Turnin' off <device_name>, let's keep to the shadows.",en,pirate
 light.turn_off,"Deactivatin' <device_name>, as quiet as the depths.",en,pirate,0,"Deactivatin '__ph0__, yên tĩnh như độ sâu."
 switch.turn_on,"Hoistin' the switch, readyin' for action, arr!",en,pirate,0,"Houston 'The Switch, Ready' cho hành động, là!"
 switch.turn_on,"Aye, lightin' up the deck with a flick o' the switch!",en,pirate,0,"Aye, thắp sáng 'lên boong với một cái búng tay' The Switch!"
-switch.turn_on,"Flippin' the switch, settin' sails for a bright journey!",en,pirate,0,"Flippin 'The Switch, Settin' Sails cho một cuộc hành trình tươi sáng!"
 switch.turn_off,"Dousin' the lights, makin' it dark as the ocean's abyss.",en,pirate,0,"Dousin 'The Lights, Makin' trời tối như vực thẳm của đại dương."
 switch.turn_off,"I'll be cuttin' the power, like calmin' the seas.",en,pirate,0,"Tôi sẽ là sức mạnh, giống như bình tĩnh."
 switch.turn_off,"Aye, plungin' us into darkness, like the cover of night.",en,pirate,0,"Aye, plungin 'chúng tôi vào bóng tối, giống như trang bìa của đêm."
-switch.toggle,"Flippin' the switch, like findin' fortune with a map!",en,pirate,0,"Flippin 'The Switch, như Findin' Fortune với một bản đồ!"
-switch.toggle,"Changin' course with the switch, as the wind shifts!",en,pirate,0,"Thay đổi khóa học với công tắc, khi gió thay đổi!"
-switch.toggle,"I'll be togglin' the switch, like navigatin' through storms!",en,pirate,0,"Tôi sẽ chuyển đổi 'công tắc, như điều hướng' qua các cơn bão!"
-switch.toggle,"Togglin' <device_name>, like hoistin' the Jolly Roger!",en,pirate,0,"Togglin '__ph0__, giống như Hoistin' The Jolly Roger!"
-switch.toggle,"Aye, flippin' <device_name>, as swift as a gale!",en,pirate,0,"Aye, flippin '__ph0__, nhanh chóng như một cơn gió!"
-switch.toggle,"Can do! Shiftin' <device_name>, like turnin' the helm.",en,pirate,0,"Có thể làm! Shiftin '__ph0__, như Turnin' The Helm."
-switch.toggle,"Togglin' <device_name>, on command, like a true buccaneer!",en,pirate,0,"Togglin '__ph0__, trên lệnh, giống như một buccaneer thực sự!"
-switch.toggle,"Shiftin' tides for <device_name>, like a skilled helmsman.",en,pirate,0,"Shiftin 'thủy triều cho __ph0__, giống như một người lái xe lành nghề."
-switch.toggle,"Quickly jugglin' <device_name>, like loot on the run!",en,pirate,0,"Nhanh chóng tung hứng '__ph0__, giống như loot trên đường chạy!"
 switch.turn_on,"Ignitin' <device_name>, like a beacon in the night!",en,pirate,0,"Ignitin '__ph0__, giống như một đèn hiệu trong đêm!"
 switch.turn_on,"I be lightin' up <device_name>, like a lantern in the crow's nest.",en,pirate,0,"Tôi là Lightin 'Up __Ph0__, giống như một chiếc đèn lồng trong tổ của Crow."
 switch.turn_on,"Activatin' <device_name>, set the course!",en,pirate,0,"Kích hoạt '__ph0__, đặt khóa học!"
@@ -457,18 +383,12 @@ fan.turn_on,"Boop beep, sure, turning on the fan now.",en,robot,0,"Boop Beep, ch
 fan.turn_off,"Beep boop, switching off the fan as requested.",en,robot,0,"Beep Boop, tắt quạt theo yêu cầu."
 fan.turn_off,"I'll turn off the fan for you, beep boop.",en,robot,0,"Tôi sẽ tắt quạt cho bạn, Beep Boop."
 fan.turn_off,"Okay, turning off the fan beep boop.""",en,robot,0,"Được rồi, tắt tiếng bíp của quạt. """
-fan.toggle,"Beep, I'll toggle the fan's state for you, boop.""",en,robot,0,"Beep, tôi sẽ chuyển trạng thái của người hâm mộ cho bạn, boop. """
-fan.toggle,"Toggling the fan now, beep boop.",en,robot,0,"Chuyển đổi quạt ngay bây giờ, Beep Boop."
-fan.toggle,"Switching the fan's state for you, beep boop.",en,robot,0,"Chuyển đổi trạng thái của người hâm mộ cho bạn, Beep Boop."
 fan.increase_speed,"Increasing the fan speed for you, beep boop.",en,robot,0,"Tăng tốc độ quạt cho bạn, Beep Boop."
 fan.increase_speed,"Sure, speeding up the fan now, beep boop.""",en,robot,0,"Chắc chắn, tăng tốc cho quạt bây giờ, Beep Boop. """
 fan.increase_speed,"I'll go ahead and make the fan faster, beep boop.",en,robot,0,"Tôi sẽ tiếp tục và làm cho người hâm mộ nhanh hơn, Beep Boop."
 fan.decrease_speed,"Reducing the fan speed as you requested, beep boop.",en,robot,0,"Giảm tốc độ quạt khi bạn yêu cầu, Beep Boop."
 fan.decrease_speed,"I'll slow down the fan for you, beep boop.",en,robot,0,"Tôi sẽ làm chậm quạt cho bạn, Beep Boop."
 fan.decrease_speed,"Sure, decreasing the fan speed, beep boop.""",en,robot,0,"Chắc chắn, giảm tốc độ quạt, tiếng bíp boop. """
-fan.toggle,"Flipping <device_name> state for you, beep boop",en,robot,0,"Lật __ph0__ trạng thái cho bạn, Beep Boop"
-fan.toggle,"Switching <device_name> state as requested, beep boop",en,robot,0,"Chuyển đổi trạng thái <device_name> theo yêu cầu, Beep Boop"
-fan.toggle,"Toggling <device_name> now, beep boop",en,robot,0,"Chuyển đổi <device_name> Bây giờ, Beep Boop"
 fan.turn_on,"Activating <device_name> now, beep boop",en,robot,0,"Kích hoạt <device_name> Bây giờ, Beep Boop"
 fan.turn_on,"Starting <device_name> for you, beep boop",en,robot,0,"Bắt đầu <device_name> cho bạn, Beep Boop"
 fan.turn_on,"Certainly, starting <device_name>, beep boop""",en,robot,0,"Chắc chắn, bắt đầu __ph0__, Beep Boop """
@@ -495,9 +415,6 @@ blinds.close,"Sure, closing the blinds, beep boop.",en,robot,0,"Chắc chắn, �
 blinds.stop,"Stopping the blinds now, beep boop.",en,robot,0,"Dừng rèm bây giờ, Beep Boop."
 blinds.stop,"I'll stop the blinds for you, beep boop.",en,robot,0,"Tôi sẽ dừng rèm cho bạn, Beep Boop."
 blinds.stop,"Sure, halting the blinds movement, beep boop.",en,robot,0,"Chắc chắn, tạm dừng chuyển động rèm, tiếng bíp boop."
-blinds.toggle,"Toggling the blinds state for you, beep boop.",en,robot,0,"Chuyển đổi trạng thái rèm cho bạn, Beep Boop."
-blinds.toggle,"Switching the blinds' state now, beep boop.",en,robot,0,"Chuyển đổi trạng thái của rèm ngay bây giờ, Beep Boop."
-blinds.toggle,"I'll toggle the blinds for you, beep boop.",en,robot,0,"Tôi sẽ chuyển đổi rèm cho bạn, Beep Boop."
 blinds.open,"Lifting <device_name> blinds as requested, beep boop",en,robot,0,"Nâng <device_name> Rèm theo yêu cầu, Beep Boop"
 blinds.open,"Opening <device_name> now, beep boop",en,robot,0,"Mở <device_name> Bây giờ, Beep Boop"
 blinds.open,"Raising <device_name> for you, beep boop",en,robot,0,"Nâng <device_name> cho bạn, Beep Boop"
@@ -509,10 +426,6 @@ blinds.close,"Closing <device_name> for you, beep boop",en,robot,0,"Đóng <devi
 blinds.close,"Lowering <device_name> now, beep boop",en,robot,0,"Hạ thấp <device_name> Bây giờ, Beep Boop"
 blinds.close,"Shutting <device_name> as requested, beep boop",en,robot,0,"Tắt <device_name> theo yêu cầu, Beep Boop"
 blinds.close,"Lowering <device_name>, beep boop",en,robot,0,"Hạ thấp <device_name>, Beep Boop"
-blinds.toggle,"Flipping <device_name> state now, beep boop",en,robot,0,"Lật __ph0__ trạng thái ngay bây giờ, Beep Boop"
-blinds.toggle,"Switching <device_name> state as requested, beep boop",en,robot,0,"Chuyển đổi trạng thái <device_name> theo yêu cầu, Beep Boop"
-blinds.toggle,"Toggling <device_name> for you, beep boop",en,robot,0,"Chuyển đổi <device_name> cho bạn, Beep Boop"
-blinds.toggle,"Toggling <device_name>, beep boop",en,robot,0,"Chuyển đổi <device_name>, Beep Boop"
 climate.set_humidity,"Beep, increasing humidity to <humidity>, boop.",en,robot,0,"Beep, tăng độ ẩm lên <humidity>, boop."
 climate.set_humidity,"Beep boop: Setting humidity to <humidity> percent, processing.",en,robot,0,"Beep Boop: Đặt độ ẩm thành <humidity> phần trăm, xử lý."
 climate.set_humidity,"Adjustment protocol initiated: humidity to <humidity>%, beep boop.",en,robot,0,"Giao thức điều chỉnh bắt đầu: Độ ẩm đến __PH0 __%, Beep Boop."
@@ -536,13 +449,6 @@ light.turn_on,"Proceeding with light activation, beep boop.",en,robot,0,"Tiến 
 light.turn_off,Deactivation sequence for light initiated as requested.,en,robot,0,Trình tự hủy kích hoạt cho ánh sáng bắt đầu theo yêu cầu.
 light.turn_off,"Commencing shutdown of light, beep boop.",en,robot,0,"Bắt đầu tắt ánh sáng, Beep Boop."
 light.turn_off,"Acknowledged, powering down the light.",en,robot,0,"Thừa nhận, cung cấp năng lượng cho ánh sáng."
-light.toggle,"Beep boop, toggling the light's state for optimal illumination.",en,robot,0,"Beep Boop, chuyển đổi trạng thái của ánh sáng để chiếu sáng tối ưu."
-light.toggle,"Executing state switch for the light, beep boop.",en,robot,0,"Thực hiện chuyển đổi trạng thái cho ánh sáng, tiếng bíp boop."
-light.toggle,Protocol engage: toggling light upon request.,en,robot,0,Giao thức tham gia: Chuyển đổi ánh sáng theo yêu cầu.
-light.toggle,"Flipping <device_name> state, processing command.",en,robot,0,"Lật <device_name> trạng thái, lệnh xử lý."
-light.toggle,"Switching <device_name> state as per directive, beep boop.",en,robot,0,"Chuyển đổi trạng thái <device_name> theo chỉ thị, Beep Boop."
-light.toggle,"Toggling <device_name>, execution in progress.",en,robot,0,"Chuyển đổi <device_name>, thực hiện trong tiến trình."
-light.toggle,"Execution protocol: toggling <device_name>, beep boop.",en,robot,0,"Giao thức thực thi: Toggling __Ph0__, Beep Boop."
 light.turn_on,"Activation of <device_name> initiated, standby for illumination.",en,robot,0,"Kích hoạt <device_name> bắt đầu, chờ chiếu sáng."
 light.turn_on,"Certainly, commencing <device_name> activation now.",en,robot,0,"Chắc chắn, bắt đầu kích hoạt <device_name> ngay bây giờ."
 light.turn_on,"Switching on <device_name>, initiating light sequence.",en,robot,0,"Bật <device_name>, bắt đầu trình tự ánh sáng."
@@ -586,9 +492,6 @@ garage_door.close,"Acknowledged, initiating garage door closing sequence.",en,ro
 garage_door.stop,"Halting garage door motion now, beep boop.",en,robot,0,"Tạm dừng chuyển động cửa nhà để xe, tiếng bíp boop."
 garage_door.stop,"Beep boop, executing stop command for the garage door.",en,robot,0,"Beep Boop, thực hiện lệnh dừng cho cửa nhà để xe."
 garage_door.stop,"Affirmative, ceasing garage door movement immediately.",en,robot,0,"Khẳng định, ngừng chuyển động cửa nhà để xe ngay lập tức."
-garage_door.toggle,"Toggling garage door state as per your request, beep boop.",en,robot,0,"Chuyển đổi trạng thái cửa nhà để xe theo yêu cầu của bạn, Beep Boop."
-garage_door.toggle,"Executing state alteration for the garage door, beep boop.",en,robot,0,"Thực hiện thay đổi trạng thái cho cửa nhà để xe, Beep Boop."
-garage_door.toggle,"Switching garage door state for optimal function, beep boop.",en,robot,0,"Chuyển đổi trạng thái cửa nhà để xe cho chức năng tối ưu, Beep Boop."
 garage_door.open,Lifting mechanism for <device_name> activated for you.,en,robot,0,Cơ chế nâng cho <device_name> được kích hoạt cho bạn.
 garage_door.open,"Opening <device_name> now, initiating sequence.",en,robot,0,"Mở <device_name> Bây giờ, bắt đầu trình tự."
 garage_door.open,"Raising <device_name> as per directive, beep boop.",en,robot,0,"Tăng <device_name> Theo chỉ thị, Beep Boop."
@@ -601,10 +504,6 @@ garage_door.close,"Initiating closure of <device_name> now, beep boop.",en,robot
 garage_door.close,"Lowering <device_name> for you, command processing.",en,robot,0,"Hạ thấp <device_name> cho bạn, xử lý lệnh."
 garage_door.close,Executing shutdown of <device_name> as requested.,en,robot,0,Thực hiện tắt máy <device_name> theo yêu cầu.
 garage_door.close,"Closure protocol for <device_name> activated, beep boop.",en,robot,0,"Giao thức đóng cho <device_name> được kích hoạt, Beep Boop."
-garage_door.toggle,"Flipping state of <device_name> now, operational change.",en,robot,0,"Lật trạng thái của <device_name> Bây giờ, thay đổi hoạt động."
-garage_door.toggle,"Switching <device_name> state as per your command, beep boop.",en,robot,0,"Chuyển đổi trạng thái <device_name> theo lệnh của bạn, Beep Boop."
-garage_door.toggle,"Toggling <device_name> for optimal functionality, beep boop.",en,robot,0,"Chuyển đổi <device_name> cho chức năng tối ưu, Beep Boop."
-garage_door.toggle,"State alteration for <device_name> initiated, beep boop.",en,robot,0,"Thay đổi trạng thái cho <device_name> bắt đầu, Beep Boop."
 vacuum.start,Starting <device_name> cleaning now.,en,assistant,0,Bắt đầu <device_name> làm sạch ngay bây giờ.
 vacuum.start,<device_name> is set to start cleaning.,en,assistant,0,<device_name> được thiết lập để bắt đầu làm sạch.
 vacuum.start,Initiating <device_name>'s cleaning cycle.,en,assistant,0,Bắt đầu chu kỳ làm sạch __PH0 __.

@@ -2,14 +2,11 @@ device_name,english_phrase,service_name,english_phrase_vi
 blinds.kitchen,Could you raise the kitchen blinds,open,Bạn có thể nâng rèm bếp không
 blinds.kitchen,Lower the kitchen blinds,close,Hạ thấp rèm nhà bếp
 blinds.kitchen,Stop the kitchen blinds where they are,stop,Dừng rèm nhà bếp nơi họ đang ở
-blinds.kitchen,Switch the state of the kitchen blinds,toggle,Chuyển đổi trạng thái của rèm nhà bếp
 blinds.living_room,Close the living room blinds,close,Đóng rèm phòng khách
 blinds.living_room,Open the living room blinds,open,Mở rèm phòng khách
 blinds.living_room,Stop adjusting the living room blinds,stop,Ngừng điều chỉnh rèm phòng khách
-blinds.living_room,Toggle the living room blinds,toggle,Chuyển đổi rèm phòng khách
 blinds.master_bedroom,Lift the master bedroom blinds,open,Nâng rèm phòng ngủ chính
 blinds.master_bedroom,Please halt the master bedroom blinds,stop,Vui lòng tạm dừng rèm phòng ngủ chính
-blinds.master_bedroom,Reverse the master bedroom blinds,toggle,Đảo ngược rèm phòng ngủ chính
 blinds.master_bedroom,Shut the master bedroom blinds,close,Tắt rèm phòng ngủ chính
 garage_door.basement,Please raise the basement garage door,open,Vui lòng nâng cửa nhà để xe tầng hầm
 garage_door.bike_storage,Activate the bike storage garage,open,Kích hoạt nhà để xe lưu trữ xe đạp
@@ -17,12 +14,10 @@ garage_door.bike_storage,Deactivate the bike storage garage,close,Vô hiệu hó
 garage_door.main,Close the main garage door,close,Đóng cửa nhà để xe chính
 garage_door.main,Open the main garage door,open,Mở cửa nhà để xe chính
 garage_door.main,Stop the main garage door,stop,Dừng cửa nhà để xe chính
-garage_door.main,Toggle the main garage door,toggle,Chuyển đổi cửa nhà để xe chính
 garage_door.one_car,Make sure the one car garage is closed,close,Đảm bảo rằng một nhà để xe được đóng lại
 garage_door.side,Could you lift the side garage door,open,Bạn có thể nâng cửa nhà để xe bên
 garage_door.side,Halt the side garage door,stop,Dừng cửa nhà để xe bên
 garage_door.side,Lower the side garage door,close,Hạ cửa nhà để xe bên
-garage_door.side,Switch the state of the side garage door,toggle,Chuyển đổi trạng thái của cửa nhà để xe bên
 garage_door.two_car,Open the two car garage,open,Mở hai gara ô tô
 light.bathroom_1,Could you illuminate the bathroom,turn_on,Bạn có thể chiếu sáng phòng tắm
 light.bathroom_1,Please extinguish the bathroom light,turn_off,Vui lòng dập tắt đèn phòng tắm
@@ -33,7 +28,6 @@ light.bathroom,Turn off the bathroom light,turn_off,Tắt đèn phòng tắm
 light.bathroom,Turn off the bathroom light,turn_off,Tắt đèn phòng tắm
 light.bedroom_1,Activate the bedroom light,turn_on,Kích hoạt đèn phòng ngủ
 light.bedroom_1,Deactivate the bedroom light,turn_off,Vô hiệu hóa đèn phòng ngủ
-light.bedroom_1,Toggle the bedroom light,toggle,Chuyển đổi đèn phòng ngủ
 light.bedroom_2,Switch off the bedroom light,turn_off,Tắt đèn phòng ngủ
 light.dining_room_1,Activate the lights in the dining room,turn_on,Kích hoạt đèn trong phòng ăn
 light.dining_room,Activate the dining room light,turn_on,Kích hoạt đèn phòng ăn
@@ -42,22 +36,17 @@ light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng �
 light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
 light.dining_room,Switch off the dining room light,turn_off,Tắt đèn phòng ăn
 light.dining_room,Turn off the dining room light,turn_off,Tắt đèn phòng ăn
-light.dining_table_above,Please toggle the light above the dining table,toggle,Vui lòng chuyển ánh sáng phía trên bàn ăn
 light.garden_1,Deactivate the garden light,turn_off,Vô hiệu hóa ánh sáng vườn
 light.garden_1,Switch on the garden light,turn_on,Bật đèn vườn
 light.garden_1,Turn on the garden light,turn_on,Bật đèn sân vườn
 light.garden_2,Activate the garden light,turn_on,Kích hoạt đèn làm vườn
 light.garden,Switch on the garden light,turn_on,Bật đèn vườn
 light.hallway,Switch off the hallway light,turn_off,Tắt đèn hành lang
-light.hallway,Switch the state of the light in the hallway,toggle,Chuyển đổi trạng thái của ánh sáng ở hành lang
-light.hallway,Toggle the hallway light,toggle,Chuyển đổi đèn hành lang
 light.hallway,Turn off the hallway light,turn_off,Tắt đèn hành lang
 light.hallway,Turn on the hallway light,turn_on,Bật đèn hành lang
 light.kitchen_1,Switch on the kitchen lights,turn_on,Bật đèn nhà bếp
-light.kitchen_1,Toggle the kitchen light,toggle,Chuyển đổi đèn nhà bếp
 light.kitchen_1,Turn on the kitchen light,turn_on,Bật đèn nhà bếp
 light.kitchen_2,Switch off the kitchen light,turn_off,Tắt đèn nhà bếp
-light.kitchen_2,Toggle the kitchen light,toggle,Chuyển đổi đèn nhà bếp
 light.kitchen_counter,Switch off the kitchen counter light,turn_off,Tắt đèn quầy bếp
 light.kitchen_counter,Switch on the kitchen counter light,turn_on,Bật đèn quầy bếp
 light.living_room_1,Switch off the living room light,turn_off,Tắt đèn phòng khách
@@ -67,18 +56,13 @@ light.master_bedroom_1,Deactivate the master bedroom light,turn_off,Vô hiệu h
 light.master_bedroom_1,Please activate the master bedroom light,turn_on,Vui lòng kích hoạt đèn phòng ngủ chính
 light.office_1,Enable the office light,turn_on,Bật đèn văn phòng
 light.office,Deactivate the office light,turn_off,Vô hiệu hóa đèn văn phòng
-light.office,Toggle the office light,toggle,Chuyển đổi đèn văn phòng
 light.patio,Deactivate the patio light,turn_off,Vô hiệu hóa ánh sáng hiên
 light.patio,Disable the patio light,turn_off,Tắt đèn hiên
 light.patio,Enable the patio light,turn_on,Bật đèn sân
 light.patio,Switch on the patio light,turn_on,Bật đèn hiên
-light.patio,Toggle the patio light,toggle,Chuyển đổi ánh sáng hiên
 light.patio,Turn on the patio light,turn_on,Bật đèn sân
 light.patio,Turn on the patio light,turn_on,Bật đèn sân
 light.study,Activate the study light,turn_on,Kích hoạt ánh sáng nghiên cứu
-light.study,Alter the light state in the study,toggle,Thay đổi trạng thái ánh sáng trong nghiên cứu
-light.study,Toggle the study light,toggle,Chuyển đổi đèn học tập
-light.study,Toggle the study light,toggle,Chuyển đổi đèn học tập
 light.study,Turn off the study light,turn_off,Tắt đèn học tập
 light.study,Turn off the study light,turn_off,Tắt đèn học tập
 light.dining_room_chandelier,Turn on the dining room light,turn_on,Bật đèn phòng ăn
@@ -182,14 +166,11 @@ switch.eve_energy_balcony,Turn on the balcony lighting.,turn_on,Bật ánh sáng
 switch.ecobee_garden,Turn off the garden lights.,turn_off,Tắt đèn vườn.
 switch.insteon_patio,Turn off the patio lights.,turn_off,Tắt đèn sân trong.
 switch.sengled_deck,Turn on the deck lighting.,turn_on,Bật đèn chiếu sáng.
-switch.osram_hallway,Toggle the hallway lights.,toggle,Chuyển đổi đèn hành lang.
 switch.wyze_study,Turn on the study room lights.,turn_on,Bật đèn phòng học.
 switch.radiant_office,Turn off the office lights.,turn_off,Tắt đèn văn phòng.
 switch.caseta_hallway_2,Turn on the second hallway lights.,turn_on,Bật đèn hành lang thứ hai.
 switch.z_wave_guest_bathroom,Turn off the guest bathroom fan.,turn_off,Tắt quạt phòng tắm của khách.
-switch.home_office_dimmer,Toggle the home office dimmer.,toggle,Chuyển đổi bộ làm mờ văn phòng tại nhà.
 switch.patio_heater_switch,Turn off the patio heater.,turn_off,Tắt lò sưởi hiên.
-switch.kitchen_under_cabinet,Toggle the kitchen under cabinet lights.,toggle,Chuyển đổi nhà bếp dưới đèn tủ.
 switch.hallway_dimmer,Could you dim the hallway lights?,turn_on,Bạn có thể làm mờ đèn hành lang không?
 switch.kitchen_fan,Please turn off the kitchen fan.,turn_off,Vui lòng tắt quạt nhà bếp.
 switch.garden_spotlights,Activate the garden spotlights.,turn_on,Kích hoạt đèn sân vườn.

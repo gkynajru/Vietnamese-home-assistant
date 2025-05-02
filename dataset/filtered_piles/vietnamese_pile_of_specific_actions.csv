@@ -8,9 +8,6 @@ blinds.open,master_bedroom,Lift the master bedroom blinds,Nâng rèm phòng ng�
 blinds.stop,kitchen,Stop the kitchen blinds where they are,Dừng rèm nhà bếp nơi họ đang ở
 blinds.stop,living_room,Stop adjusting the living room blinds,Ngừng điều chỉnh rèm phòng khách
 blinds.stop,master_bedroom,Please halt the master bedroom blinds,Vui lòng tạm dừng rèm phòng ngủ chính
-blinds.toggle,kitchen,Switch the state of the kitchen blinds,Chuyển đổi trạng thái của rèm nhà bếp
-blinds.toggle,living_room,Toggle the living room blinds,Chuyển đổi rèm phòng khách
-blinds.toggle,master_bedroom,Reverse the master bedroom blinds,Đảo ngược rèm phòng ngủ chính
 fan.decrease_speed,attic_1,Slow down the attic fan,Làm chậm quạt gác mái
 fan.decrease_speed,attic_1,Turn down the attic fan,Từ chối quạt gác mái
 fan.decrease_speed,attic,Slow down the fan in the attic,Làm chậm quạt trên gác mái
@@ -31,23 +28,6 @@ fan.increase_speed,guest_room,Increase the fan speed in the guest room,Tăng t�
 fan.increase_speed,hallway,Boost the fan speed in the hallway,Tăng tốc độ quạt ở hành lang
 fan.increase_speed,living_room,Increase the speed of the living room fan,Tăng tốc độ của quạt phòng khách
 fan.increase_speed,study,Ramp up the fan speed in the study,Tăng tốc độ quạt trong nghiên cứu
-fan.toggle,attic_2,Toggle the attic fan,Chuyển đổi quạt gác mái
-fan.toggle,attic,Change the fan status in the attic,Thay đổi trạng thái quạt trên gác mái
-fan.toggle,basement,Toggle the basement fan,Chuyển đổi quạt tầng hầm
-fan.toggle,bedroom_master,Switch the state of the master bedroom fan,Chuyển đổi trạng thái của quạt phòng ngủ chính
-fan.toggle,bedroom,Toggle the bedroom fan,Chuyển đổi quạt phòng ngủ
-fan.toggle,dining_table_above,Please toggle the fan above the dining table,Vui lòng chuyển quạt phía trên bàn ăn
-fan.toggle,driveway,Flip the driveway fan,Lật quạt đường lái xe
-fan.toggle,garage,Flip the fan in the garage,Lật quạt trong nhà để xe
-fan.toggle,guest_room,Can you toggle the fan in the guest room,Bạn có thể chuyển quạt trong phòng khách không
-fan.toggle,hallway,Switch the state of the fan in the hallway,Chuyển trạng thái của quạt trên hành lang
-fan.toggle,kitchen,Toggle the kitchen fan,Chuyển đổi quạt nhà bếp
-fan.toggle,living_room,Toggle the fan in the living room,Chuyển đổi quạt trong phòng khách
-fan.toggle,office,Toggle the office fan,Chuyển đổi quạt văn phòng
-fan.toggle,outdoor,Toggle the outdoor fan,Chuyển đổi quạt ngoài trời
-fan.toggle,pool,Change the status of the pool fan,Thay đổi trạng thái của quạt hồ bơi
-fan.toggle,shed,Switch the shed fan on or off,Bật hoặc tắt quạt
-fan.toggle,study,Alter the fan state in the study,Thay đổi trạng thái quạt trong nghiên cứu
 fan.turn_off,attic_1,Disable the attic fan,Tắt quạt Attic
 fan.turn_off,bedroom_master,Deactivate the master bedroom fan,Vô hiệu hóa quạt phòng ngủ chính
 fan.turn_off,dining_area,Please switch off the dining area fan,Vui lòng tắt quạt khu vực ăn uống
@@ -85,26 +65,6 @@ garage_door.open,side,Could you lift the side garage door,Bạn có thể nâng 
 garage_door.open,two_car,Open the two car garage,Mở hai gara ô tô
 garage_door.stop,main,Stop the main garage door,Dừng cửa nhà để xe chính
 garage_door.stop,side,Halt the side garage door,Dừng cửa nhà để xe bên
-garage_door.toggle,main,Toggle the main garage door,Chuyển đổi cửa nhà để xe chính
-garage_door.toggle,side,Switch the state of the side garage door,Chuyển đổi trạng thái của cửa nhà để xe bên
-light.toggle,attic,Change the light status in the attic,Thay đổi trạng thái ánh sáng trên gác mái
-light.toggle,bedroom_1,Toggle the bedroom light,Chuyển đổi đèn phòng ngủ
-light.toggle,dining_table_above,Please toggle the light above the dining table,Vui lòng chuyển ánh sáng phía trên bàn ăn
-light.toggle,driveway,Flip the driveway light,Lật đèn lái xe
-light.toggle,garage,Flip the light in the garage,Lật ánh sáng trong nhà để xe
-light.toggle,guest_room,Could you toggle the light in the guest room,Bạn có thể bật đèn trong phòng khách không
-light.toggle,guest_room,Toggle the guest room light,Chuyển đổi đèn phòng khách
-light.toggle,hallway,Switch the state of the light in the hallway,Chuyển đổi trạng thái của ánh sáng ở hành lang
-light.toggle,hallway,Toggle the hallway light,Chuyển đổi đèn hành lang
-light.toggle,kitchen_1,Toggle the kitchen light,Chuyển đổi đèn nhà bếp
-light.toggle,kitchen_2,Toggle the kitchen light,Chuyển đổi đèn nhà bếp
-light.toggle,office,Toggle the office light,Chuyển đổi đèn văn phòng
-light.toggle,outdoor,Toggle the outdoor light,Chuyển đổi ánh sáng ngoài trời
-light.toggle,patio,Toggle the patio light,Chuyển đổi ánh sáng hiên
-light.toggle,pool,Change the status of the pool light,Thay đổi trạng thái của ánh sáng hồ bơi
-light.toggle,shed,Switch the shed light on or off,Bật hoặc tắt đèn
-light.toggle,study,Alter the light state in the study,Thay đổi trạng thái ánh sáng trong nghiên cứu
-light.toggle,study,Toggle the study light,Chuyển đổi đèn học tập
 light.turn_off,bathroom_1,Please extinguish the bathroom light,Vui lòng dập tắt đèn phòng tắm
 light.turn_off,bathroom,Switch off the bathroom light,Tắt đèn phòng tắm
 light.turn_off,bathroom,Turn off the bathroom light,Tắt đèn phòng tắm
@@ -267,16 +227,6 @@ media_player.volume_up,dining_area_jukebox,Increase the jukebox volume in the di
 media_player.volume_up,rooftop_deck_audio,Raise the rooftop audio volume.,Tăng âm lượng âm thanh trên mái nhà.
 media_player.volume_up,greenhouse_radio,Increase the greenhouse radio volume.,Tăng khối lượng radio nhà kính.
 media_player.volume_up,utility_room_radio,Turn up the utility room radio.,Bật radio phòng tiện ích.
-switch.toggle,tp_link_kasa_porch,Toggle the porch lights.,Chuyển đổi đèn hiên nhà.
-switch.toggle,honeywell_home_office,Toggle the office lights.,Chuyển đổi đèn văn phòng.
-switch.toggle,sonoff_dining_room,Toggle the dining room lights.,Chuyển đổi đèn phòng ăn.
-switch.toggle,osram_hallway,Toggle the hallway lights.,Chuyển đổi đèn hành lang.
-switch.toggle,koogeek_basement,Toggle the basement lights.,Chuyển đổi đèn tầng hầm.
-switch.toggle,arlo_floodlights,Toggle the security floodlights.,Chuyển đổi đèn pha bảo mật.
-switch.toggle,broadlink_kitchenette,Toggle the kitchenette lights.,Chuyển đổi đèn bếp.
-switch.toggle,kasa_living_room,Toggle the living room lights.,Chuyển đổi đèn phòng khách.
-switch.toggle,home_office_dimmer,Toggle the home office dimmer.,Chuyển đổi bộ làm mờ văn phòng tại nhà.
-switch.toggle,kitchen_under_cabinet,Toggle the kitchen under cabinet lights.,Chuyển đổi nhà bếp dưới đèn tủ.
 switch.turn_off,belkin_wemo_garage,Turn off the garage switch.,Tắt công tắc nhà để xe.
 switch.turn_off,lutron_caseta_bedroom,Turn off the bedroom lights.,Tắt đèn phòng ngủ.
 switch.turn_off,samsung_smartthings_security,Turn off the security system.,Tắt hệ thống bảo mật.
@@ -394,7 +344,6 @@ light.turn_off,bar_light,Turn off bar light,Tắt đèn thanh
 light.turn_off,bar_light,Turn off the bar light,Tắt đèn thanh
 light.turn_off,dining_room_light,Deactivate dining room light,Đã hủy kích hoạt đèn phòng ăn
 light.turn_off,dining_room_light,Shut off dining room light,Tắt đèn phòng ăn
-light.turn_off,dining_room_light,Toggle the dining room light,Chuyển đổi đèn phòng ăn
 light.turn_off,front_light,Can we power down the front light?,Chúng ta có thể cung cấp năng lượng cho ánh sáng phía trước không?
 light.turn_off,front_light,Can we turn down the front light?,Chúng ta có thể tắt đèn trước không?
 light.turn_off,front_light,Can you turn off the lights on the front?,Bạn có thể tắt đèn ở mặt trước không?
@@ -442,7 +391,6 @@ light.turn_off,porch_light,Turn off porch light,Tắt đèn hiên
 light.turn_off,porch_light,Turn off the porch light,Tắt đèn hiên
 light.turn_off,porch_light,Deactivate porch light,Vô hiệu hóa ánh sáng hiên nhà
 light.turn_off,porch_light,Shut off porch light,Tắt đèn hiên
-light.turn_off,porch_light,Toggle the porch light,Chuyển đổi ánh sáng hiên nhà
 light.turn_off,porch_light,Can we power down the porch light?,Chúng ta có thể cung cấp năng lượng cho ánh sáng hiên nhà không?
 light.turn_off,porch_light,Can we turn down the porch light?,Chúng ta có thể tắt ánh sáng hiên nhà không?
 light.turn_off,porch_light,Can you turn off the lights on the porch?,Bạn có thể tắt đèn trên hiên nhà không?
@@ -497,7 +445,6 @@ light.turn_off,shower_light,Shut off shower light,Tắt đèn tắm
 light.turn_off,stair_light,stair light off,Ánh sáng cầu thang tắt
 light.turn_off,stair_light,Disable the stair lights.,Tắt đèn cầu thang.
 light.turn_off,stair_light,Shut off stairwell light,Tắt đèn cầu thang
-light.turn_off,stair_light,Toggle the stairwell light,Chuyển đổi đèn cầu thang
 light.turn_off,stair_light,Can we power down the stairwell light?,Chúng ta có thể cung cấp năng lượng cho đèn cầu thang không?
 light.turn_off,roof_light,Please switch off the roof light,Vui lòng tắt đèn mái
 light.turn_off,roof_light,Turn off roof light,Tắt đèn mái
@@ -512,7 +459,6 @@ light.turn_off,colins_lamp,Turn off Colin's lamp,Tắt đèn của Colin
 light.turn_off,neenas_lamp,Turn off Neena's lamp,Tắt đèn của Neena
 light.turn_off,roberts_lamp,Deactivate Robert's lamp,Vô hiệu hóa đèn của Robert
 light.turn_off,paulus_lamp,Shut off Paulus' lamp,Tắt đèn Paulus
-light.turn_off,peters_lamp,Toggle Peter's lamp,Chuyển đổi đèn của Peter
 light.turn_off,angelas_lamp,Can we power down Angela's lamp?,Chúng ta có thể cung cấp năng lượng cho đèn của Angela không?
 light.turn_off,entry_lamp,Please switch off entry lamp,Vui lòng tắt đèn nhập cảnh
 light.turn_off,entry_lamp,Turn off entry lamp,Tắt đèn vào
