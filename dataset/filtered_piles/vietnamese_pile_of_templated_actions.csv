@@ -8,9 +8,6 @@ blinds,open,Raise the <device_name>,1,Nâng cao <device_name>
 blinds,stop,Freeze the <device_name>,1,Đóng băng <device_name>
 blinds,stop,Halt the <device_name>,1,Dừng <device_name>
 blinds,stop,Stop the <device_name>,1,Dừng <device_name>
-blinds,toggle,Flip the <device_name> state,1,Lật trạng thái <device_name>
-blinds,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
-blinds,toggle,Toggle the <device_name>,1,Chuyển đổi <device_name>
 blinds|fan,close|turn_off,Close <device_name1> and deactivate <device_name2>,1,Đóng <device_name1> và vô hiệu hóa <device_name2>
 blinds|fan,open|increase_speed,Raise the <device_name1> and speed up the <device_name2>,1,Nâng <device_name1> và tăng tốc <device_name2>
 blinds|light,open|turn_on,Raise <device_name1> and activate <device_name2>,1,Nâng <device_name1> và kích hoạt <device_name2>
@@ -20,9 +17,6 @@ fan,decrease_speed,Slow down the <device_name>,1,Làm chậm <device_name>
 fan,increase_speed,Increase the <device_name> speed,1,Tăng tốc độ <device_name>
 fan,increase_speed,Ramp up the <device_name> speed,1,Tăng tốc độ <device_name>
 fan,increase_speed,Speed up the <device_name>,1,Tăng tốc <device_name>
-fan,toggle,Flip the <device_name> on or off,1,Bật hoặc tắt <device_name>
-fan,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
-fan,toggle,Toggle the <device_name>,1,Chuyển đổi <device_name>
 fan,turn_off,Deactivate the <device_name>,1,Vô hiệu hóa <device_name>
 fan,turn_off,Stop the <device_name> please,1,Xin hãy dừng <device_name>
 fan,turn_off,Turn off the <device_name>,1,Tắt <device_name>
@@ -42,7 +36,6 @@ fan|garage_door|light,turn_off|close|turn_off,Turn off <device_name1> and <devic
 fan|garage_door|lock,turn_off|close|lock,Turn off <device_name1> close <device_name2> and lock <device_name3>,1,Tắt <device_name1> Đóng <device_name2> và khóa <device_name3>
 fan|garage_door|lock,turn_on|open|unlock,Turn on <device_name1> open <device_name2> and unlock <device_name3>,1,Bật <device_name1> Mở <device_name2> và mở khóa <device_name3>
 fan|light,turn_on|turn_off,Activate <device_name1> and deactivate <device_name2>,1,Kích hoạt <device_name1> và vô hiệu hóa <device_name2>
-fan|light|lock,decrease_speed|toggle|lock,Slow down <device_name1> toggle <device_name2> and lock <device_name3>,1,Làm chậm <device_name1> Tăng <device_name2> và khóa <device_name3>
 fan|lock,decrease_speed|unlock,Slow down the <device_name1> and unlock the <device_name2>,1,Làm chậm <device_name1> và mở khóa <device_name2>
 garage_door,close,Close the <device_name>,1,Đóng <device_name>
 garage_door,close,Lower the <device_name>,1,Hạ <device_name>
@@ -53,16 +46,10 @@ garage_door,open,Raise the <device_name>,1,Nâng cao <device_name>
 garage_door,stop,Freeze the <device_name>,1,Đóng băng <device_name>
 garage_door,stop,Halt the <device_name>,1,Dừng <device_name>
 garage_door,stop,Stop the <device_name>,1,Dừng <device_name>
-garage_door,toggle,Flip the <device_name> state,1,Lật trạng thái <device_name>
-garage_door,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
-garage_door,toggle,Toggle the <device_name>,1,Chuyển đổi <device_name>
 garage_door|blinds,open|open,Open the <device_name1> and lift the <device_name2>,1,Mở <device_name1> và nâng <device_name2>
 garage_door|fan,close|turn_off,Close <device_name1> and deactivate <device_name2>,1,Đóng <device_name1> và vô hiệu hóa <device_name2>
 garage_door|light,open|turn_on,Open <device_name1> and activate <device_name2>,1,Mở <device_name1> và kích hoạt <device_name2>
 garage_door|lock,open|unlock,Open <device_name1> and unlock <device_name2>,1,Mở <device_name1> và mở khóa <device_name2>
-light,toggle,Flip the <device_name> on or off,1,Bật hoặc tắt <device_name>
-light,toggle,Switch the <device_name> state,1,Chuyển trạng thái <device_name>
-light,toggle,Toggle the <device_name> state,1,Chuyển đổi trạng thái <device_name>
 light,turn_off,Deactivate the <device_name>,1,Vô hiệu hóa <device_name>
 light,turn_off,Please switch off the <device_name>,1,Vui lòng tắt <device_name>
 light,turn_off,Turn off the <device_name>,1,Tắt <device_name>
@@ -74,33 +61,21 @@ light|blinds|fan,turn_on|close|decrease_speed,Turn on <device_name1> close <devi
 light|blinds|garage_door,turn_on|open|close,Turn on <device_name1> open <device_name2> and close <device_name3>,1,Bật <device_name1> Mở <device_name2> và đóng <device_name3>
 light|blinds|lock,turn_off|close|lock,Turn off the <device_name1> close the <device_name2> and lock the <device_name3>,1,Tắt <device_name1> Đóng <device_name2> và khóa <device_name3>
 light|blinds|lock,turn_off|close|unlock,Turn off <device_name1> close <device_name2> and unlock <device_name3>,1,Tắt <device_name1> Đóng <device_name2> và mở khóa <device_name3>
-light|fan,toggle|decrease_speed,Toggle <device_name1> and slow down <device_name2>,1,Chuyển đổi <device_name1> và làm chậm <device_name2>
-light|fan,toggle|increase_speed,Toggle <device_name1> and speed up <device_name2>,1,Chuyển đổi <device_name1> và tăng tốc <device_name2>
 light|fan,turn_off|turn_on,Turn off the <device_name1> and turn on <device_name2>,1,Tắt <device_name1> và bật <device_name2>
-light|fan,turn_on|toggle,Switch on <device_name1> and toggle <device_name2>,1,Bật <device_name1> và chuyển đổi <device_name2>
 light|fan,turn_on|turn_off,Turn on the <device_name1> and turn off the <device_name2>,1,Bật <device_name1> và tắt <device_name2>
 light|fan,turn_on|turn_on,Turn on both the <device_name1> and <device_name2>,1,Bật cả <device_name1> và <device_name2>
 light|fan,turn_on|turn_on,Turn on the <device_name1> and <device_name2>,1,Bật <device_name1> và <device_name2>
-light|fan|blinds,toggle|increase_speed|open,Toggle <device_name1> speed up <device_name2> and open <device_name3>,1,Chuyển đổi <device_name1> tăng tốc <device_name2> và mở <device_name3>
 light|fan|blinds,turn_off|decrease_speed|close,Turn off <device_name1> slow down <device_name2> and close <device_name3>,1,Tắt <device_name1> chậm lại <device_name2> và đóng <device_name3>
 light|fan|blinds,turn_off|turn_off|close,Turn off <device_name1> and <device_name2> and close <device_name3>,1,Tắt <device_name1> và <device_name2> và đóng <device_name3>
-light|fan|garage_door,toggle|decrease_speed|open,Toggle <device_name1> slow down <device_name2> and open <device_name3>,1,Chuyển đổi <device_name1> chậm lại <device_name2> và mở <device_name3>
 light|fan|garage_door,turn_off|turn_on|close,Turn off <device_name1> turn on <device_name2> and close <device_name3>,1,Tắt <device_name1> Bật <device_name2> và đóng <device_name3>
-light|fan|garage_door,turn_on|toggle|open,Switch on the <device_name1> flip the <device_name2> and lift the <device_name3>,1,Bật <device_name1> lật <device_name2> và nâng <device_name3>
 light|fan|garage_door,turn_on|turn_on|open,Turn on <device_name1> and <device_name2> and open <device_name3>,1,Bật <device_name1> và <device_name2> và mở <device_name3>
-light|fan|lock,toggle|toggle|lock,Toggle both <device_name1> and <device_name2> and lock <device_name3>,1,Chuyển đổi cả <device_name1> và <device_name2> và khóa <device_name3>
 light|fan|lock,turn_off|turn_off|unlock,Turn off <device_name1> and <device_name2> and unlock <device_name3>,1,Tắt <device_name1> và <device_name2> và mở khóa <device_name3>
 light|fan|lock,turn_on|increase_speed|lock,Turn on <device_name1> speed up <device_name2> and lock <device_name3>,1,BẬT <device_name1> TỐC ĐỘ LÊN <device_name2> và khóa <device_name3>
 light|fan|lock,turn_on|turn_on|unlock,Turn on both <device_name1> and <device_name2> and unlock <device_name3>,1,Bật cả <device_name1> và <device_name2> và mở khóa <device_name3>
-light|garage_door,toggle|stop,Toggle the <device_name1> and stop the <device_name2>,1,Chuyển đổi <device_name1> và dừng <device_name2>
 light|garage_door,turn_on|open,Switch on <device_name1> and open <device_name2>,1,Bật <device_name1> và mở <device_name2>
 light|garage_door,turn_on|open,Switch on the <device_name1> and open the <device_name2>,1,Bật <device_name1> và mở <device_name2>
 light|garage_door|lock,turn_on|open|lock,Turn on <device_name1> open <device_name2> and lock <device_name3>,1,Bật <device_name1> Mở <device_name2> và khóa <device_name3>
-light|light,toggle|toggle,Toggle both <device_name1> and <device_name2>,1,Chuyển đổi cả <device_name1> và <device_name2>
 light|light,turn_on|turn_off,Turn on <device_name1> and turn off <device_name2>,1,Bật <device_name1> và tắt <device_name2>
-light|light|fan,toggle|toggle|decrease_speed,Toggle both <device_name1> and <device_name2> and slow down <device_name3>,1,Chuyển đổi cả <device_name1> và <device_name2> và làm chậm <device_name3>
-light|light|fan,toggle|turn_on|increase_speed,Toggle <device_name1> turn on <device_name2> and speed up <device_name3>,1,Chuyển đổi <device_name1> Bật <device_name2> và tăng tốc <device_name3>
-light|light|fan,turn_on|turn_off|toggle,Turn on <device_name1> turn off <device_name2> and toggle <device_name3>,1,Bật <device_name1> Tắt <device_name2> và chuyển đổi <device_name3>
 light|lock,turn_on|lock,Turn on <device_name1> and lock <device_name2>,1,Bật <device_name1> và khóa <device_name2>
 lock,lock,Engage the <device_name> lock,1,Tham gia khóa <device_name>
 lock,lock,Lock the <device_name>,1,Khóa <device_name>
@@ -118,7 +93,6 @@ fan,turn_off,Ensure the <device_name> is off,1,Đảm bảo <device_name> bị t
 garage_door,close,Make certain the <device_name> is closed,1,Đảm bảo <device_name> được đóng lại
 blinds,open,See to it that the <device_name> are open,1,Xem với nó rằng <device_name> đang mở
 lock,lock,Ensure <device_name> is secure,1,Đảm bảo <device_name> an toàn
-light,toggle,Can you flip the <device_name>,1,Bạn có thể lật <device_name>
 fan,increase_speed,Step up the speed of the <device_name>,1,Bước lên tốc độ của <device_name>
 garage_door,open,Make certain the <device_name> is open,1,Hãy chắc chắn rằng <device_name> đang mở
 blinds,close,See to it that the <device_name> are closed,1,Xem với nó rằng <device_name> được đóng lại
@@ -127,21 +101,14 @@ fan,decrease_speed,Slow down the <device_name>,1,Làm chậm <device_name>
 light,turn_on,Confirm that the <device_name> is on,1,Xác nhận rằng <device_name> đang trên
 garage_door,stop,Stop the <device_name> right now,1,Dừng <device_name> ngay bây giờ
 light,turn_off,Confirm that the <device_name> is off,1,Xác nhận rằng <device_name> bị tắt
-garage_door,toggle,Toggle the <device_name> position,1,Chuyển đổi vị trí <device_name>
-blinds,toggle,Switch the state of the <device_name>,1,Chuyển trạng thái của <device_name>
 lock,lock,Lock down the <device_name>,1,Khóa <device_name>
 fan,turn_on,Make certain the <device_name> is running,1,Đảm bảo <device_name> đang chạy
 switch,turn_on,Can you turn on <device_name>?,1,Bạn có thể bật <device_name> không?
 switch,turn_off,Please switch off <device_name>.,1,Vui lòng tắt <device_name>.
-switch,toggle,Could you toggle <device_name>?,1,Bạn có thể chuyển đổi <device_name> không?
-switch,toggle,Can <device_name> be toggled?,1,<device_name> có thể được bật không?
 switch,turn_on,Activate <device_name>.,1,Kích hoạt <device_name>.
 switch,turn_off,Deactivate <device_name>.,1,Vô hiệu hóa <device_name>.
-switch,toggle,Is it possible to toggle the <device_name>?,1,Có thể chuyển đổi <device_name> không?
 switch,turn_on,Let's have <device_name> on.,1,Hãy có <device_name> trên.
 switch,turn_off,We don't need <device_name> on anymore.,1,Chúng tôi không cần <device_name> trên nữa.
-switch,toggle,Toggle <device_name> for me.,1,Chuyển đổi <device_name> cho tôi.
-switch,toggle,Can you change the state of <device_name>?,1,Bạn có thể thay đổi trạng thái của <device_name> không?
 switch,turn_on,Please turn on <device_name>.,1,Vui lòng bật <device_name>.
 switch,turn_on,<device_name> needs to be on.,1,<device_name> cần phải được bật.
 switch,turn_off,Time to turn <device_name> off.,1,Đến lúc tắt <device_name>.
