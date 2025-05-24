@@ -227,121 +227,53 @@ media_player.volume_up,dining_area_jukebox,Increase the jukebox volume in the di
 media_player.volume_up,rooftop_deck_audio,Raise the rooftop audio volume.,Tăng âm lượng âm thanh trên mái nhà.
 media_player.volume_up,greenhouse_radio,Increase the greenhouse radio volume.,Tăng khối lượng radio nhà kính.
 media_player.volume_up,utility_room_radio,Turn up the utility room radio.,Bật radio phòng tiện ích.
-switch.turn_off,belkin_wemo_garage,Turn off the garage switch.,Tắt công tắc nhà để xe.
-switch.turn_off,lutron_caseta_bedroom,Turn off the bedroom lights.,Tắt đèn phòng ngủ.
-switch.turn_off,samsung_smartthings_security,Turn off the security system.,Tắt hệ thống bảo mật.
-switch.turn_off,fibaro_pool,Turn off the pool lights.,Tắt đèn hồ bơi.
-switch.turn_off,ecobee_garden,Turn off the garden lights.,Tắt đèn vườn.
-switch.turn_off,insteon_patio,Turn off the patio lights.,Tắt đèn sân trong.
-switch.turn_off,yeelight_sunroom,Turn off the sunroom lights.,Tắt đèn phòng tắm nắng.
-switch.turn_off,meross_walkway,Turn off the walkway lighting.,Tắt đèn đi bộ.
-switch.turn_off,xiaomi_bedside,Turn off the bedside lamp.,Tắt đèn ngủ.
-switch.turn_off,ikea_guest_room,Turn off the guest room lights.,Tắt đèn phòng khách.
-switch.turn_off,tuya_shed,Turn off the shed light switch.,Tắt công tắc đèn chiếu sáng.
-switch.turn_off,hue_bedroom_2,Turn off the second bedroom lights.,Tắt đèn phòng ngủ thứ hai.
-switch.turn_off,radiant_office,Turn off the office lights.,Tắt đèn văn phòng.
-switch.turn_off,z_wave_guest_bathroom,Turn off the guest bathroom fan.,Tắt quạt phòng tắm của khách.
-switch.turn_off,patio_heater_switch,Turn off the patio heater.,Tắt lò sưởi hiên.
-switch.turn_off,kitchen_fan,Please turn off the kitchen fan.,Vui lòng tắt quạt nhà bếp.
-switch.turn_off,poolside_lanterns,Deactivate the poolside lanterns.,Vô hiệu hóa đèn lồng bên hồ bơi.
-switch.turn_off,backyard_floodlight,Can you shut off the backyard floodlight?,Bạn có thể tắt đèn pha sân sau không?
-switch.turn_off,laundry_area,Please switch off the laundry area lights.,Vui lòng tắt đèn khu vực giặt.
-switch.turn_off,basement_sconces,Can we turn down the basement sconces?,Chúng ta có thể từ chối các tầng hầm không?
-switch.turn_off,sunroom_blinds,"I'd like the sunroom blinds closed, please.","Tôi muốn rèm phòng tắm nắng, xin vui lòng."
-switch.turn_off,patio_string_lights,Switch off the string lights on the patio.,Tắt đèn dây trên hiên.
-switch.turn_off,kitchen_island,Disable the kitchen island lights.,Tắt đèn đảo bếp.
-switch.turn_off,garage_worklight,Can we power down the garage worklight?,Chúng ta có thể cung cấp năng lượng cho đèn làm việc nhà để xe không?
-switch.turn_off,home_cinema,Please turn off the home cinema lights.,Vui lòng tắt đèn rạp chiếu phim gia đình.
-switch.turn_off,dining_room_dimmer,Set the dining room lights to off.,Đặt đèn phòng ăn để tắt.
-switch.turn_off,art_studio_spots,Please disable the art studio spotlights.,Vui lòng vô hiệu hóa các phòng thu nghệ thuật.
-switch.turn_off,back_entry,Shut down the back entry lights.,Tắt đèn sau.
-switch.turn_off,veranda_fairy_lights,"Switch off the veranda fairy lights, please.",Xin vui lòng tắt đèn Fairy Fairy.
-switch.turn_off,walk_in_closet,Disable the walk-in closet lights.,Tắt đèn tủ quần áo không cửa.
-switch.turn_off,bathroom_mirror,Can you turn off the bathroom mirror light?,Bạn có thể tắt đèn gương phòng tắm không?
-switch.turn_off,storage_room,Please power down the storage room lights.,Vui lòng cung cấp năng lượng cho đèn phòng lưu trữ.
-switch.turn_off,conservation_area,Deactivate the conservation area lighting.,Vô hiệu hóa ánh sáng khu vực bảo tồn.
-switch.turn_off,hobby_room,Could we turn off the hobby room lights?,Chúng ta có thể tắt đèn phòng sở thích không?
-switch.turn_off,rear_terrace,Can you dim the lights on the rear terrace?,Bạn có thể làm mờ đèn trên sân thượng phía sau không?
-switch.turn_on,philips_hue_living_room,Turn on the living room lights.,Bật đèn phòng khách.
-switch.turn_on,legrand_radiant_kitchen,Turn on the kitchen lights.,Bật đèn bếp.
-switch.turn_on,ge_z_wave_bathroom,Turn on the bathroom fan.,Bật quạt phòng tắm.
-switch.turn_on,eve_energy_balcony,Turn on the balcony lighting.,Bật ánh sáng ban công.
-switch.turn_on,nest_thermostat_terrace,Turn on the terrace thermostat.,Bật bộ điều chỉnh nhiệt sân thượng.
-switch.turn_on,wink_relay_driveway,Turn on the driveway lights.,Bật đèn lái xe.
-switch.turn_on,sengled_deck,Turn on the deck lighting.,Bật đèn chiếu sáng.
-switch.turn_on,gosund_attic,Turn on the attic light switch.,Bật công tắc đèn gác mái.
-switch.turn_on,nanoleaf_stairway,Turn on the stairway lights.,Bật đèn cầu thang.
-switch.turn_on,wyze_study,Turn on the study room lights.,Bật đèn phòng học.
-switch.turn_on,netatmo_front_yard,Turn on the front yard lighting.,Bật ánh sáng sân trước.
-switch.turn_on,moeshouse_gym,Turn on the gym lighting.,Bật đèn tập thể dục.
-switch.turn_on,wemo_laundry_room,Turn on the laundry room lights.,Bật đèn phòng giặt.
-switch.turn_on,caseta_hallway_2,Turn on the second hallway lights.,Bật đèn hành lang thứ hai.
-switch.turn_on,security_camera_light,Turn on the security camera light.,Bật đèn camera an ninh.
-switch.turn_on,hallway_dimmer,Could you dim the hallway lights?,Bạn có thể làm mờ đèn hành lang không?
-switch.turn_on,garden_spotlights,Activate the garden spotlights.,Kích hoạt đèn sân vườn.
-switch.turn_on,front_porch_sensor,Engage the front porch sensor light.,Tham gia ánh sáng cảm biến hiên trước.
-switch.turn_on,staircase_light_strip,Could you light up the staircase light strip?,Bạn có thể thắp sáng dải ánh sáng cầu thang không?
-switch.turn_on,office_desk_lamp,Illuminate the desk lamp in my office.,Chiếu sáng đèn bàn trong văn phòng của tôi.
-switch.turn_on,library_ceiling,Engage the ceiling lights in the library.,Tham gia đèn trần trong thư viện.
-switch.turn_on,guest_bathroom,"Light up the guest bathroom, please.",Vui lòng thắp sáng phòng tắm của khách.
-switch.turn_on,entryway_chandelier,Illuminate the entryway chandelier.,Chiếu sáng đèn chùm lối vào.
-switch.turn_on,bedroom_track_lighting,Brighten the bedroom track lighting.,Làm sáng ánh sáng theo dõi phòng ngủ.
-switch.turn_on,balcony_mood_lighting,Activate the mood lighting on the balcony.,Kích hoạt ánh sáng tâm trạng trên ban công.
-switch.turn_on,playroom_nightlight,Can you turn on the playroom nightlight?,Bạn có thể bật đèn ngủ phòng chơi không?
-switch.turn_on,foyer_wall_sconce,Light up the foyer wall sconce.,Thắp sáng các bức tường sảnh.
-switch.turn_on,corridor_track,Brighten up the corridor track lights.,Làm sáng lên các đèn theo dõi hành lang.
-switch.turn_on,master_suite,Set the master suite to nighttime mode.,Đặt bộ tổng thể thành chế độ ban đêm.
-switch.turn_on,roof_deck,Engage the roof deck lighting.,Tham gia ánh sáng sàn mái.
-switch.turn_on,wine_cellar,Illuminate the wine cellar.,Chiếu sáng hầm rượu.
-switch.turn_on,gym_ceiling,Light up the gym ceiling lights.,Thắp sáng đèn trần phòng tập thể dục.
-switch.turn_on,front_lawn,Activate the front lawn spotlights.,Kích hoạt đèn chiếu sáng phía trước.
-vacuum.start,kitchen,Please turn on the kitchen vacuum.,Vui lòng bật chân không trên bếp.
-vacuum.start,living_room,Could you please activate the living room vacuum?,Bạn có thể vui lòng kích hoạt chân không phòng khách không?
+vacuum.start,kitchen,Please turn on the kitchen vacuum.,Vui lòng bật máy hút bụi trên bếp.
+vacuum.start,living_room,Could you please activate the living room vacuum?,Bạn có thể vui lòng kích hoạt máy hút bụi phòng khách không?
 vacuum.start,dining_room,The dining room vacuum needs to be started.,Các phòng ăn không cần phải bắt đầu.
-vacuum.start,bedroom1,Let's start the vacuum in bedroom one.,Hãy bắt đầu chân không trong phòng ngủ.
-vacuum.start,bedroom2,Can you please turn on the vacuum for bedroom two?,Bạn có thể vui lòng bật chân không cho phòng ngủ hai không?
-vacuum.start,study,The study vacuum should be activated.,Các nghiên cứu chân không nên được kích hoạt.
-vacuum.start,library,May I ask you to start the library vacuum?,Tôi có thể yêu cầu bạn bắt đầu chân không thư viện không?
-vacuum.start,office,Please initiate the office vacuum.,Vui lòng bắt đầu chân không văn phòng.
-vacuum.start,entrance_hall,Could you please turn on the entrance hall vacuum?,Bạn có thể vui lòng bật chân không vào hội trường không?
+vacuum.start,bedroom1,Let's start the vacuum in bedroom one.,Hãy bắt đầu máy hút bụi trong phòng ngủ.
+vacuum.start,bedroom2,Can you please turn on the vacuum for bedroom two?,Bạn có thể vui lòng bật máy hút bụi cho phòng ngủ hai không?
+vacuum.start,study,The study vacuum should be activated.,Các nghiên cứu máy hút bụi nên được kích hoạt.
+vacuum.start,library,May I ask you to start the library vacuum?,Tôi có thể yêu cầu bạn bắt đầu máy hút bụi thư viện không?
+vacuum.start,office,Please initiate the office vacuum.,Vui lòng bắt đầu máy hút bụi văn phòng.
+vacuum.start,entrance_hall,Could you please turn on the entrance hall vacuum?,Bạn có thể vui lòng bật máy hút bụi vào hội trường không?
 vacuum.start,sunroom,The sunroom vacuum needs to be started.,Máy hút bụi Sunroom cần được bắt đầu.
-vacuum.start,patio,Let's activate the patio vacuum.,Hãy kích hoạt chân không hiên.
+vacuum.start,patio,Let's activate the patio vacuum.,Hãy kích hoạt máy hút bụi hiên.
 vacuum.start,garage,"Can we clean up the garage, please?",Chúng ta có thể dọn dẹp nhà để xe không?
 vacuum.start,workshop,May I request you to turn on the workshop vacuum?,Tôi có thể yêu cầu bạn bật máy hút bụi hội thảo không?
 vacuum.start,utility_room,Please clean the utility room.,Vui lòng làm sạch phòng tiện ích.
 vacuum.start,mud_room,Could you please clean up the mud room?,Bạn có thể vui lòng dọn dẹp phòng bùn?
 vacuum.start,powder_room,The powder room needs to be cleaned.,Phòng bột cần được làm sạch.
-vacuum.start,hallway,Let's turn on the hallway vacuum.,Hãy bật chân không trên hành lang.
+vacuum.start,hallway,Let's turn on the hallway vacuum.,Hãy bật máy hút bụi trên hành lang.
 vacuum.start,staircase,Can we please start the staircase vacuum?,Chúng tôi có thể vui lòng bắt đầu máy hút bụi cầu thang không?
 vacuum.start,balcony,May I ask you to clean the balcony?,Tôi có thể yêu cầu bạn làm sạch ban công không?
 vacuum.start,roof_deck,Please roof deck is dirty.,Xin vui lòng sàn nhà bị bẩn.
-vacuum.start,attic,Let's start the attic vacuum.,Hãy bắt đầu chân không gác mái.
-vacuum.start,basement,"Can we turn on the basement vacuum, please?",Chúng ta có thể bật chân không trên tầng hầm không?
+vacuum.start,attic,Let's start the attic vacuum.,Hãy bắt đầu máy hút bụi gác mái.
+vacuum.start,basement,"Can we turn on the basement vacuum, please?",Chúng ta có thể bật máy hút bụi trên tầng hầm không?
 vacuum.start,pool_area,The pool area vacuum needs to be started.,Các khu vực hồ bơi cần phải được bắt đầu.
-vacuum.start,garden,Could you please activate the garden vacuum?,Bạn có thể vui lòng kích hoạt chân không vườn?
-vacuum.start,terrace,May I request you to start the terrace vacuum?,Tôi có thể yêu cầu bạn bắt đầu chân không sân thượng không?
+vacuum.start,garden,Could you please activate the garden vacuum?,Bạn có thể vui lòng kích hoạt máy hút bụi vườn?
+vacuum.start,terrace,May I request you to start the terrace vacuum?,Tôi có thể yêu cầu bạn bắt đầu máy hút bụi sân thượng không?
 vacuum.start,porch,Please initiate the porch vacuum.,Vui lòng bắt đầu khoảng trống hiên nhà.
-vacuum.start,shed,"Can we turn on the shed vacuum, please?","Chúng ta có thể bật chân không, xin vui lòng?"
+vacuum.start,shed,"Can we turn on the shed vacuum, please?","Chúng ta có thể bật máy hút bụi, xin vui lòng?"
 vacuum.start,workshop2,The second workshop is pretty dirty right now.,Hội thảo thứ hai khá bẩn ngay bây giờ.
 vacuum.start,studio,May I ask you to start the studio vacuum?,Tôi có thể yêu cầu bạn bắt đầu máy hút bụi phòng thu không?
 vacuum.start,greenhouse,Please initiate the greenhouse vacuum.,Vui lòng bắt đầu khoảng trống nhà kính.
-vacuum.start,potting_shed,"Can we turn on the potting shed vacuum, please?",Chúng ta có thể bật chân không chậu không được không?
+vacuum.start,potting_shed,"Can we turn on the potting shed vacuum, please?",Chúng ta có thể bật máy hút bụi chậu không được không?
 vacuum.start,summer_house,The summer house vacuum needs to be started.,Máy hút bụi của ngôi nhà mùa hè cần phải được bắt đầu.
 vacuum.start,garage2,Let's start the second garage vacuum.,Hãy bắt đầu khoảng trống nhà để xe thứ hai.
-vacuum.start,tool_shed,May I request you to activate the tool shed vacuum?,Tôi có thể yêu cầu bạn kích hoạt công cụ đổ không?
-vacuum.start,barn,Could we please turn on the barn vacuum?,Chúng ta có thể vui lòng bật chân không chuồng không?
+vacuum.start,tool_shed,May I request you to activate the tool shed vacuum?,Tôi có thể yêu cầu bạn kích hoạt máy hút bụi nhà kho dụng cụ không?
+vacuum.start,barn,Could we please turn on the barn vacuum?,Chúng ta có thể vui lòng bật máy hút bụi chuồng không?
 vacuum.start,wine_cellar,The wine cellar should be cleaned.,Các hầm rượu nên được làm sạch.
 vacuum.start,storage_room,Let's initiate the storage room cleanup.,Hãy bắt đầu dọn dẹp phòng lưu trữ.
-vacuum.start,greenhouse2,May I ask you to activate the second greenhouse vacuum?,Tôi có thể yêu cầu bạn kích hoạt chân không nhà kính thứ hai không?
+vacuum.start,greenhouse2,May I ask you to activate the second greenhouse vacuum?,Tôi có thể yêu cầu bạn kích hoạt máy hút bụi nhà kính thứ hai không?
 vacuum.start,boat_house,Please turn on the boat house vacuum.,Vui lòng bật máy hút bụi nhà thuyền.
-vacuum.start,marina,Could we please start the marina vacuum?,Chúng ta có thể vui lòng bắt đầu chân không?
+vacuum.start,marina,Could we please start the marina vacuum?,Chúng ta có thể vui lòng bắt đầu máy hút bụi?
 vacuum.start,bb8,Turn on BB8.,Bật BB8.
 vacuum.start,c3po,Can you start C3PO?,Bạn có thể bắt đầu C3PO không?
 vacuum.start,hal,Please turn on Hal.,Vui lòng bật Hal.
 vacuum.start,r2d2,Can you tell R2D2 to clean up?,Bạn có thể nói với R2D2 để dọn dẹp?
-light.turn_off,bar_light,Please switch off the bar light,Vui lòng tắt đèn thanh
-light.turn_off,bar_light,Turn off bar light,Tắt đèn thanh
-light.turn_off,bar_light,Turn off the bar light,Tắt đèn thanh
+light.turn_off,bar_light,Please switch off the bar light,Vui lòng tắt đèn quầy bar
+light.turn_off,bar_light,Turn off bar light,Tắt đèn quầy bar
+light.turn_off,bar_light,Turn off the bar light,Tắt đèn quầy bar
 light.turn_off,dining_room_light,Deactivate dining room light,Đã hủy kích hoạt đèn phòng ăn
 light.turn_off,dining_room_light,Shut off dining room light,Tắt đèn phòng ăn
 light.turn_off,front_light,Can we power down the front light?,Chúng ta có thể cung cấp năng lượng cho ánh sáng phía trước không?
