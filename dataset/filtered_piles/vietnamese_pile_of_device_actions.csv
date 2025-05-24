@@ -161,34 +161,3 @@ media_player.mudroom_media_player,Switch off the mudroom media player.,turn_off,
 media_player.utility_room_radio,Turn up the utility room radio.,volume_up,Bật radio phòng tiện ích.
 media_player.shed_sound_system,Turn down the shed sound system.,volume_down,Bỏ xuống hệ thống âm thanh.
 media_player.treehouse_speakers,Mute the treehouse speakers.,volume_mute,Tắt tiếng loa nhà trên cây.
-switch.ge_z_wave_bathroom,Turn on the bathroom fan.,turn_on,Bật quạt phòng tắm.
-switch.eve_energy_balcony,Turn on the balcony lighting.,turn_on,Bật ánh sáng ban công.
-switch.ecobee_garden,Turn off the garden lights.,turn_off,Tắt đèn vườn.
-switch.insteon_patio,Turn off the patio lights.,turn_off,Tắt đèn sân trong.
-switch.sengled_deck,Turn on the deck lighting.,turn_on,Bật đèn chiếu sáng.
-switch.wyze_study,Turn on the study room lights.,turn_on,Bật đèn phòng học.
-switch.radiant_office,Turn off the office lights.,turn_off,Tắt đèn văn phòng.
-switch.caseta_hallway_2,Turn on the second hallway lights.,turn_on,Bật đèn hành lang thứ hai.
-switch.z_wave_guest_bathroom,Turn off the guest bathroom fan.,turn_off,Tắt quạt phòng tắm của khách.
-switch.patio_heater_switch,Turn off the patio heater.,turn_off,Tắt lò sưởi hiên.
-switch.hallway_dimmer,Could you dim the hallway lights?,turn_on,Bạn có thể làm mờ đèn hành lang không?
-switch.kitchen_fan,Please turn off the kitchen fan.,turn_off,Vui lòng tắt quạt nhà bếp.
-switch.garden_spotlights,Activate the garden spotlights.,turn_on,Kích hoạt đèn sân vườn.
-switch.poolside_lanterns,Deactivate the poolside lanterns.,turn_off,Vô hiệu hóa đèn lồng bên hồ bơi.
-switch.front_porch_sensor,Engage the front porch sensor light.,turn_on,Tham gia ánh sáng cảm biến hiên trước.
-switch.backyard_floodlight,Can you shut off the backyard floodlight?,turn_off,Bạn có thể tắt đèn pha sân sau không?
-switch.laundry_area,Please switch off the laundry area lights.,turn_off,Vui lòng tắt đèn khu vực giặt.
-switch.office_desk_lamp,Illuminate the desk lamp in my office.,turn_on,Chiếu sáng đèn bàn trong văn phòng của tôi.
-switch.guest_bathroom,"Light up the guest bathroom, please.",turn_on,Vui lòng thắp sáng phòng tắm của khách.
-switch.patio_string_lights,Switch off the string lights on the patio.,turn_off,Tắt đèn dây trên hiên.
-switch.kitchen_island,Disable the kitchen island lights.,turn_off,Tắt đèn đảo bếp.
-switch.entryway_chandelier,Illuminate the entryway chandelier.,turn_on,Chiếu sáng đèn chùm lối vào.
-switch.garage_worklight,Can we power down the garage worklight?,turn_off,Chúng ta có thể cung cấp năng lượng cho đèn làm việc nhà để xe không?
-switch.bedroom_track_lighting,Brighten the bedroom track lighting.,turn_on,Làm sáng ánh sáng theo dõi phòng ngủ.
-switch.balcony_mood_lighting,Activate the mood lighting on the balcony.,turn_on,Kích hoạt ánh sáng tâm trạng trên ban công.
-switch.dining_room_dimmer,Set the dining room lights to off.,turn_off,Đặt đèn phòng ăn để tắt.
-switch.back_entry,Shut down the back entry lights.,turn_off,Tắt đèn sau.
-switch.walk_in_closet,Disable the walk-in closet lights.,turn_off,Tắt đèn tủ quần áo không cửa.
-switch.roof_deck,Engage the roof deck lighting.,turn_on,Tham gia ánh sáng sàn mái.
-switch.bathroom_mirror,Can you turn off the bathroom mirror light?,turn_off,Bạn có thể tắt đèn gương phòng tắm không?
-switch.rear_terrace,Can you dim the lights on the rear terrace?,turn_off,Bạn có thể làm mờ đèn trên sân thượng phía sau không?

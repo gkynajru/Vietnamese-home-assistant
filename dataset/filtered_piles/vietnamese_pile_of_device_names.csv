@@ -268,33 +268,6 @@ media_player.attic_vinyl_turntable,Attic Vinyl Record Player,Máy phát ghi Viny
 media_player.backyard_outdoor_projector,Backyard Projector,Máy chiếu sân sau
 media_player.entryway_voice_assistant,Entryway Voice Assistant,Trợ lý giọng nói của lối vào
 media_player.hallway_wall_speaker,Hallway Wall Speaker,Loa tường hành lang
-switch.balcony_lighting,Balcony lighting control,Kiểm soát ánh sáng ban công
-switch.bathroom_fan,Bathroom Fan Switch,Công tắc quạt phòng tắm
-switch.bedroom_lights,Bedroom Lights Switch,Công tắc đèn phòng ngủ
-switch.closet_lighting,Closet lighting control,Điều khiển ánh sáng tủ quần áo
-switch.deck_lights,Deck Lighting Switch,Công tắc ánh sáng boong
-switch.dining_room_lights,Dining Room Lights Switch,Công tắc đèn phòng ăn
-switch.front_yard_lights,Front Yard Lights Switch,Công tắc đèn sân trước
-switch.garage_door_opener,Garage Door Opener Switch,Công tắc mở cửa nhà để xe
-switch.garden_lights,Garden lighting control,Kiểm soát ánh sáng vườn
-switch.hallway_lights,Hallway Lights Switch,Công tắc đèn hành lang
-switch.kitchen_lights,Kitchen Lights Switch,Công tắc đèn bếp
-switch.laundry_room_lights,Laundry Room Lights Switch,Công tắc đèn phòng giặt
-switch.living_room_lights,Living Room Lights Switch,Công tắc đèn phòng khách
-switch.master_bedroom_lights,Master Bedroom Lights Switch,Công tắc đèn phòng ngủ chính
-switch.office_lights,Office Lights Switch,Công tắc đèn văn phòng
-switch.patio_lights,Patio Lights Switch,Công tắc đèn sân
-switch.pool_area_lighting,Pool area lighting control,Kiểm soát ánh sáng khu vực hồ bơi
-switch.porch_lights,Porch Lights Switch,Công tắc đèn hiên nhà
-switch.rear_yard_lights,Rear Yard Lights Switch,Đèn sân sau công tắc
-switch.shed_lights,Shed Lights Switch,Đèn chiếu sáng công tắc
-switch.study_room_lights,Study Room Lights Switch,Nghiên cứu công tắc đèn phòng
-switch.terrace_lighting,Terrace lighting control,Kiểm soát ánh sáng sân thượng
-switch.utility_room_lights,Utility Room Lights Switch,Công tắc đèn phòng tiện ích
-switch.workshop_lights,Workshop Lights Switch,Công tắc đèn hội thảo
-switch.yard_floodlights,Yard Floodlights Switch,Công tắc đèn pha
-switch.pool_pump,Pool Pump Switch,Công tắc bơm hồ bơi
-switch.garage_workshop_lights,Garage Workshop Lights Switch,Công tắc đèn hội thảo nhà để xe
 climate.nest_learning,Nest Learning Thermostat,Tổ tổ học nhiệt
 climate.ecobee_smart,Ecobee SmartThermostat,Ecobee Smartthermostat
 vacuum.living_room_roomba,Living room vacuum,Phòng khách chân không
