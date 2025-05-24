@@ -1,0 +1,559 @@
+giờservice,response,language,persona,short,response_vi
+blinds.open,Opening the blinds for you.,en,assistant,0,Mở rèm cho bạn.
+blinds.open,I'll go ahead and open the blinds.,en,assistant,0,Tôi sẽ tiếp tục và mở rèm.
+blinds.open,"Sure, opening the blinds now.",en,assistant,0,"Chắc chắn, mở rèm bây giờ."
+blinds.close,Closing the blinds as you requested.,en,assistant,0,Đóng rèm như bạn yêu cầu.
+blinds.close,I'll close the blinds for you.,en,assistant,0,Tôi sẽ đóng rèm cho bạn.
+blinds.close,"Sure, closing the blinds.",en,assistant,0,"Chắc chắn, đóng rèm."
+blinds.stop,Stopping the blinds now.,en,assistant,0,Dừng rèm bây giờ.
+blinds.stop,I'll stop the blinds for you.,en,assistant,0,Tôi sẽ dừng rèm cho bạn.
+blinds.stop,"Sure, halting the blinds movement.",en,assistant,0,"Chắc chắn, tạm dừng phong trào rèm."
+blinds.open,Lifting <device_name> blinds as requested,en,assistant,0,Nâng <device_name> rèm theo yêu cầu
+blinds.open,Opening <device_name> now,en,assistant,0,Mở <device_name> ngay bây giờ
+blinds.open,Raising <device_name> for you,en,assistant,0,Tăng <device_name> cho bạn
+blinds.stop,Freezing <device_name> position,en,assistant,0,Đóng băng <device_name> vị trí
+blinds.stop,Halting <device_name> now,en,assistant,0,Tạm dừng <device_name> bây giờ
+blinds.stop,Stopping <device_name> operation,en,assistant,0,Dừng hoạt động <device_name>
+blinds.open,Raising <device_name>,en,assistant,0,Nâng cao <device_name>
+blinds.close,Closing <device_name> for you,en,assistant,0,Đóng <device_name> cho bạn
+blinds.close,Lowering <device_name> now,en,assistant,0,Hạ thấp <device_name> ngay bây giờ
+blinds.close,Shutting <device_name> as requested,en,assistant,0,Tắt <device_name> theo yêu cầu
+blinds.close,Lowering <device_name>,en,assistant,0,Hạ thấp <device_name>
+climate.set_humidity,Increasing humidity to <humidity>.,en,assistant,0,Tăng độ ẩm lên <humidity>.
+climate.set_humidity,Setting humidity to <humidity> percent.,en,assistant,0,Đặt độ ẩm thành <humidity> phần trăm.
+climate.set_humidity,Adjusting humidity to <humidity>%.,en,assistant,0,Điều chỉnh độ ẩm thành <humidity>%.
+climate.set_fan_mode,Setting the fan to <fan_mode> speed.,en,assistant,0,Đặt quạt thành <fan_mode> tốc độ.
+climate.set_fan_mode,Putting the fan on <fan_mode>.,en,assistant,0,Đặt quạt trên <fan_mode>.
+climate.set_fan_mode,Changing the fan to <fan_mode> setting.,en,assistant,0,Thay đổi quạt thành cài đặt <fan_mode>.
+climate.set_hvac_mode,Switching to <hvac_mode> mode.,en,assistant,0,Chuyển sang chế độ <hvac_mode>.
+climate.set_hvac_mode,Setting the HVAC to <hvac_mode>.,en,assistant,0,Đặt HVAC thành <hvac_mode>.
+climate.set_hvac_mode,Changing HVAC to <hvac_mode> mode.,en,assistant,0,Thay đổi HVAC thành chế độ <hvac_mode>.
+climate.set_temperature,Setting temperature to <temp_f> degrees.,en,assistant,0,Đặt nhiệt độ thành <temp_f> độ.
+climate.set_temperature,Changing temperature to <temp_c> Celsius.,en,assistant,0,Thay đổi nhiệt độ thành <temp_c> celsius.
+climate.set_temperature,Setting the room to <temp_f> degrees Fahrenheit.,en,assistant,0,Đặt phòng thành <temp_f> độ Fahrenheit.
+climate.set_temperature,Adjusting temperature to <temp_f> degrees Fahrenheit.,en,assistant,0,Điều chỉnh nhiệt độ thành <temp_f> độ Fahrenheit.
+climate.set_temperature,Setting the room to <temp_c> degrees Celsius for cooler temperature.,en,assistant,0,"Đặt phòng thành <temp_c> độ C, cho nhiệt độ mát hơn."
+climate.set_temperature,"Making it warmer, setting temperature to <temp_f> degrees.",en,assistant,0,"Làm cho nó ấm hơn, đặt nhiệt độ thành <temp_f> độ."
+climate.set_temperature,Lowering the temperature to <temp_c> Celsius.,en,assistant,0,Hạ nhiệt độ xuống <temp_c> celsius.
+climate.set_temperature,Raising the temperature to <temp_f> degrees Fahrenheit.,en,assistant,0,Tăng nhiệt độ lên <temp_f> độ Fahrenheit.
+fan.turn_on,Turning on the fan for you.,en,assistant,0,Bật quạt cho bạn.
+fan.turn_on,I'll get the fan going for you.,en,assistant,0,Tôi sẽ đưa người hâm mộ đi cho bạn.
+fan.turn_on,"Sure, turning on the fan now.",en,assistant,0,"Chắc chắn, bật quạt bây giờ."
+fan.turn_off,Switching off the fan as requested.,en,assistant,0,Tắt quạt theo yêu cầu.
+fan.turn_off,I'll turn off the fan for you.,en,assistant,0,Tôi sẽ tắt quạt cho bạn.
+fan.turn_off,"Okay, turning off the fan.",en,assistant,0,"Được rồi, tắt quạt."
+fan.increase_speed,Increasing the fan speed for you.,en,assistant,0,Tăng tốc độ quạt cho bạn.
+fan.increase_speed,"Sure, speeding up the fan now.",en,assistant,0,"Chắc chắn, tăng tốc cho quạt bây giờ."
+fan.increase_speed,I'll go ahead and make the fan faster.,en,assistant,0,Tôi sẽ tiếp tục và làm cho người hâm mộ nhanh hơn.
+fan.decrease_speed,Reducing the fan speed as you requested.,en,assistant,0,Giảm tốc độ quạt như bạn yêu cầu.
+fan.decrease_speed,I'll slow down the fan for you.,en,assistant,0,Tôi sẽ làm chậm quạt cho bạn.
+fan.decrease_speed,"Sure, decreasing the fan speed.",en,assistant,0,"Chắc chắn, giảm tốc độ quạt."
+fan.turn_on,Activating <device_name> now,en,assistant,0,Kích hoạt <device_name> ngay bây giờ
+fan.turn_on,Starting <device_name> for you,en,assistant,0,Bắt đầu <device_name> cho bạn
+fan.turn_on,"Certainly, starting <device_name>",en,assistant,0,"Chắc chắn, bắt đầu <device_name>"
+fan.turn_on,Turning on <device_name>,en,assistant,0,Bật <device_name>
+fan.turn_on,Starting <device_name>,en,assistant,0,Bắt đầu <device_name>
+fan.turn_off,Deactivating <device_name> as requested,en,assistant,0,Vô hiệu hóa <device_name> theo yêu cầu
+fan.turn_off,Stopping <device_name> for you,en,assistant,0,Dừng <device_name> cho bạn
+fan.turn_off,"Certainly, stopping <device_name>",en,assistant,0,"Chắc chắn, dừng <device_name>"
+fan.turn_off,Turning off <device_name>,en,assistant,0,Tắt <device_name>
+fan.decrease_speed,Reducing speed of <device_name>,en,assistant,0,Giảm tốc độ <device_name>
+fan.decrease_speed,Lowering speed of <device_name> as requested,en,assistant,0,Giảm tốc độ <device_name> theo yêu cầu
+fan.decrease_speed,Slowing down <device_name> for you,en,assistant,0,Làm chậm <device_name> cho bạn
+fan.increase_speed,Increasing speed of <device_name>,en,assistant,0,Tăng tốc độ <device_name>
+fan.increase_speed,Ramping up <device_name> speed now,en,assistant,0,Tăng tốc <device_name> tốc độ ngay bây giờ
+fan.increase_speed,Speeding up <device_name> for you,en,assistant,0,Tăng tốc <device_name> cho bạn
+fan.increase_speed,Increasing speed of <device_name>,en,assistant,0,Tăng tốc độ <device_name>
+fan.decrease_speed,Reducing speed of <device_name>,en,assistant,0,Giảm tốc độ <device_name>
+garage_door.open,Opening the garage door for you.,en,assistant,0,Mở cửa nhà để xe cho bạn.
+garage_door.open,"Sure, I'll open the garage door.",en,assistant,0,"Chắc chắn, tôi sẽ mở cửa nhà để xe."
+garage_door.open,I'll go ahead and open the garage door.,en,assistant,0,Tôi sẽ đi trước và mở cửa nhà để xe.
+garage_door.close,Closing the garage door as requested.,en,assistant,0,Đóng cửa nhà để xe theo yêu cầu.
+garage_door.close,I'll shut the garage door for you.,en,assistant,0,Tôi sẽ đóng cửa nhà để xe cho bạn.
+garage_door.close,"Sure, closing the garage door.",en,assistant,0,"Chắc chắn, đóng cửa nhà để xe."
+garage_door.stop,Stopping the garage door now.,en,assistant,0,Dừng cửa nhà để xe bây giờ.
+garage_door.stop,I'll stop the garage door for you.,en,assistant,0,Tôi sẽ dừng cửa nhà để xe cho bạn.
+garage_door.stop,"Sure, I'll halt the garage door movement.",en,assistant,0,"Chắc chắn, tôi sẽ tạm dừng chuyển động cửa nhà để xe."
+garage_door.open,Lifting <device_name> for you,en,assistant,0,Nâng <device_name> cho bạn
+garage_door.open,Opening <device_name> now,en,assistant,0,Mở <device_name> ngay bây giờ
+garage_door.open,Raising <device_name> as requested,en,assistant,0,Tăng <device_name> theo yêu cầu
+garage_door.stop,Freezing <device_name> position now,en,assistant,0,Đóng băng <device_name> vị trí ngay bây giờ
+garage_door.stop,"Certainly, halting <device_name>",en,assistant,0,"Chắc chắn, tạm dừng <device_name>"
+garage_door.stop,Halting <device_name> operation,en,assistant,0,Tạm dừng <device_name> hoạt động
+garage_door.open,Opening <device_name>,en,assistant,0,Mở đầu <device_name>
+garage_door.stop,Stopping <device_name>,en,assistant,0,Dừng <device_name>
+garage_door.close,Closing <device_name> now,en,assistant,0,Đóng <device_name> bây giờ
+garage_door.close,Lowering <device_name> for you,en,assistant,0,Hạ thấp <device_name> cho bạn
+garage_door.close,Shutting <device_name> as requested,en,assistant,0,Tắt <device_name> theo yêu cầu
+garage_door.close,Closing <device_name>,en,assistant,0,Đóng <device_name>
+light.turn_on,Turning on the light for you.,en,assistant,0,Bật đèn cho bạn.
+light.turn_on,"Sure, I'll turn on the light now.",en,assistant,0,"Chắc chắn, tôi sẽ bật đèn ngay bây giờ."
+light.turn_on,I'll go ahead and turn the light on.,en,assistant,0,Tôi sẽ tiếp tục và bật đèn.
+light.turn_off,Turning off the light as requested.,en,assistant,0,Tắt đèn theo yêu cầu.
+light.turn_off,I'll switch off the light for you.,en,assistant,0,Tôi sẽ tắt đèn cho bạn.
+light.turn_off,"Sure, turning off the light.",en,assistant,0,"Chắc chắn, tắt đèn."
+light.turn_on,Activation of <device_name> in progress,en,assistant,0,Kích hoạt <device_name> đang diễn ra
+light.turn_on,"Certainly, turning on <device_name> now",en,assistant,0,"Chắc chắn, bật <device_name>"
+light.turn_on,Switching on <device_name> for you,en,assistant,0,Bật <device_name> cho bạn
+light.turn_on,Turning on <device_name>,en,assistant,0,Bật <device_name>
+light.turn_on,Activating <device_name>,en,assistant,0,Kích hoạt <device_name>
+light.turn_on,Setting the brightness of <device_name> to <brightness>%.,en,assistant,0,Đặt độ sáng của <device_name> thành <brightness>%.
+light.turn_on,Dimming <device_name> to <brightness>% brightness.,en,assistant,0,Làm mờ <device_name> đến <brightness>% độ sáng.
+light.turn_on,Brightening <device_name> to <brightness>%.,en,assistant,0,Làm sáng <device_name> đến <brightness>%.
+light.turn_on,Adjusting <device_name> brightness to <brightness>.,en,assistant,0,Điều chỉnh <device_name> Độ sáng thành <brightness>.
+light.turn_on,Increasing <device_name>'s brightness to <brightness>.,en,assistant,0,Tăng độ sáng <humidity> của <brightness>.
+light.turn_on,Lowering the brightness of <device_name> to <brightness>.,en,assistant,0,Hạ độ sáng của <device_name> xuống <brightness>.
+light.turn_on,Setting <device_name>'s brightness level to <brightness>%.,en,assistant,0,Cài đặt mức độ sáng của <humidity> của <brightness>%.
+light.turn_on,Setting <device_name> to <brightness>% brightness.,en,assistant,0,Cài đặt <device_name> đến <brightness>% độ sáng.
+light.turn_on,Turning <device_name> <color>.,en,assistant,0,Biến <device_name> <color>.
+light.turn_on,Changing the color of <device_name> to <color>.,en,assistant,0,Thay đổi màu của <device_name> thành <color>.
+light.turn_on,Changing <device_name> to a <color> hue.,en,assistant,0,Thay đổi <device_name> thành <color> Huế.
+light.turn_on,Setting <device_name> to be <color>.,en,assistant,0,Cài đặt <device_name> thành <color>.
+light.turn_on,Making <device_name> shine in <color>.,en,assistant,0,Làm <device_name> tỏa sáng trong <color>.
+light.turn_on,Turning <device_name> to a <color> shade.,en,assistant,0,Biến <device_name> thành bóng <color>.
+light.turn_on,Setting <device_name> to a <color>.,en,assistant,0,Đặt <device_name> thành <color>.
+light.turn_on,Setting <device_name> to a <color> color.,en,assistant,0,Đặt <device_name> thành màu <color>.
+light.turn_on,Making <device_name> glow <color>.,en,assistant,0,Làm <device_name> phát sáng <color>.
+light.turn_on,Turning <device_name> to <color>.,en,assistant,0,Biến <device_name> thành <color>.
+light.turn_on,Changing <device_name> to <color>.,en,assistant,0,Thay đổi <device_name> thành <color>.
+light.turn_on,Adjusting <device_name> to <color> color.,en,assistant,0,Điều chỉnh <device_name> thành <color> màu.
+light.turn_on,Switching <device_name> color to <color>.,en,assistant,0,Chuyển đổi màu <device_name> sang <color>.
+light.turn_on,Setting <device_name> in <color>.,en,assistant,0,Cài đặt <device_name> trong <color>.
+light.turn_on,Making <device_name> display a <color> light.,en,assistant,0,Làm cho <device_name> hiển thị ánh sáng <color>.
+light.turn_on,Setting <device_name> color to <color>.,en,assistant,0,Cài đặt <device_name> màu thành <color>.
+light.turn_off,Deactivating <device_name> as requested,en,assistant,0,Vô hiệu hóa <device_name> theo yêu cầu
+light.turn_off,Switching off <device_name> now,en,assistant,0,Tắt <device_name> ngay bây giờ
+light.turn_off,"Sure, turning off <device_name>",en,assistant,0,"Chắc chắn, tắt <device_name>"
+light.turn_off,Turning off <device_name>,en,assistant,0,Tắt <device_name>
+light.turn_off,Deactivating <device_name>,en,assistant,0,Vô hiệu hóa <device_name>
+lock.lock,Locking the door for you.,en,assistant,0,Khóa cửa cho bạn.
+lock.lock,I'll go ahead and lock the door.,en,assistant,0,Tôi sẽ đi trước và khóa cửa.
+lock.lock,"Sure, securing the lock.",en,assistant,0,"Chắc chắn, đảm bảo khóa."
+lock.unlock,Unlocking the door as you requested.,en,assistant,0,Mở khóa cửa như bạn yêu cầu.
+lock.unlock,I'll unlock the door for you.,en,assistant,0,Tôi sẽ mở khóa cửa cho bạn.
+lock.unlock,"Sure, unlocking the door.",en,assistant,0,"Chắc chắn, mở khóa cửa."
+lock.lock,Engaging lock on <device_name>,en,assistant,0,Khóa hấp dẫn trên <device_name>
+lock.lock,Locking <device_name> now,en,assistant,0,Khóa <device_name> bây giờ
+lock.lock,Securing <device_name> for you,en,assistant,0,Đảm bảo <device_name> cho bạn
+lock.lock,Locking <device_name>,en,assistant,0,Khóa <device_name>
+lock.lock,Securing <device_name>,en,assistant,0,Đảm bảo <device_name>
+lock.unlock,Disengaging lock on <device_name>,en,assistant,0,Thảnh thơi trên <device_name>
+lock.unlock,Unlocking <device_name> now,en,assistant,0,Mở khóa <device_name> ngay bây giờ
+lock.unlock,Unsecuring <device_name> for you,en,assistant,0,Không an toàn <device_name> cho bạn
+lock.unlock,Unlocking <device_name>,en,assistant,0,Mở khóa <device_name>
+media_player.turn_on,Turning on the media player for you.,en,assistant,0,Bật trình phát phương tiện cho bạn.
+media_player.turn_on,I'll get the media player going.,en,assistant,0,Tôi sẽ đưa trình phát phương tiện đi.
+media_player.turn_on,"Sure, activating the media player.",en,assistant,0,"Chắc chắn, kích hoạt trình phát phương tiện."
+media_player.turn_off,Turning off the media player as requested.,en,assistant,0,Tắt trình phát phương tiện theo yêu cầu.
+media_player.turn_off,I'll switch off the media player.,en,assistant,0,Tôi sẽ tắt trình phát phương tiện.
+media_player.turn_off,"Sure, deactivating the media player.",en,assistant,0,"Chắc chắn, hủy kích hoạt trình phát phương tiện."
+media_player.volume_up,Increasing the volume for you.,en,assistant,0,Tăng khối lượng cho bạn.
+media_player.volume_up,"Sure, turning up the volume now.",en,assistant,0,"Chắc chắn, bật lên âm lượng ngay bây giờ."
+media_player.volume_up,I'll go ahead and raise the volume.,en,assistant,0,Tôi sẽ tiếp tục và nâng âm lượng.
+media_player.volume_down,Reducing the volume as you requested.,en,assistant,0,Giảm khối lượng như bạn yêu cầu.
+media_player.volume_down,I'll turn down the volume for you.,en,assistant,0,Tôi sẽ từ chối âm lượng cho bạn.
+media_player.volume_down,"Sure, lowering the volume.",en,assistant,0,"Chắc chắn, hạ thấp khối lượng."
+media_player.volume_mute,Muting the volume for you.,en,assistant,0,Tắt âm lượng cho bạn.
+media_player.volume_mute,I'll mute the media player now.,en,assistant,0,Tôi sẽ tắt tiếng trình phát phương tiện ngay bây giờ.
+media_player.volume_mute,"Sure, muting the volume.",en,assistant,0,"Chắc chắn, tắt âm lượng."
+media_player.media_play_pause,Toggling play/pause on the media player.,en,assistant,0,Chuyển đổi chơi/tạm dừng trên trình phát phương tiện.
+media_player.media_play_pause,Switching between play and pause.,en,assistant,0,Chuyển đổi giữa chơi và tạm dừng.
+media_player.media_play,Starting media playback.,en,assistant,0,Bắt đầu phát lại phương tiện truyền thông.
+media_player.media_play,I'll start playing the media for you.,en,assistant,0,Tôi sẽ bắt đầu chơi phương tiện truyền thông cho bạn.
+media_player.media_play,"Sure, beginning playback.",en,assistant,0,"Chắc chắn, bắt đầu phát lại."
+media_player.media_pause,Pausing the media playback.,en,assistant,0,Tạm dừng phát lại phương tiện truyền thông.
+media_player.media_pause,I'll pause the media for you.,en,assistant,0,Tôi sẽ tạm dừng phương tiện truyền thông cho bạn.
+media_player.media_pause,"Sure, pausing playback.",en,assistant,0,"Chắc chắn, phát lại tạm dừng."
+media_player.media_stop,Stopping the media playback.,en,assistant,0,Dừng phát lại phương tiện truyền thông.
+media_player.media_stop,I'll stop the media for you.,en,assistant,0,Tôi sẽ dừng phương tiện truyền thông cho bạn.
+media_player.media_stop,"Sure, halting playback.",en,assistant,0,"Chắc chắn, tạm dừng phát lại."
+media_player.media_next_track,Skipping to the next track.,en,assistant,0,Bỏ qua đường đua tiếp theo.
+media_player.media_next_track,I'll go to the next track for you.,en,assistant,0,Tôi sẽ đi đến bài hát tiếp theo cho bạn.
+media_player.media_next_track,"Sure, moving to the next track.",en,assistant,0,"Chắc chắn, chuyển sang bài hát tiếp theo."
+media_player.media_previous_track,Going back to the previous track.,en,assistant,0,Quay trở lại bài hát trước.
+media_player.media_previous_track,I'll return to the previous track for you.,en,assistant,0,Tôi sẽ trở lại bài hát trước cho bạn.
+media_player.media_previous_track,"Sure, reverting to the previous track.",en,assistant,0,"Chắc chắn, trở lại theo dõi trước đó."
+media_player.volume_up,Increasing <device_name>'s volume.,en,assistant,0,Tăng khối lượng <humidity>.
+media_player.volume_up,Turning up <device_name> a bit.,en,assistant,0,Bật lên <device_name> một chút.
+media_player.volume_up,Making <device_name> louder.,en,assistant,0,Làm cho <device_name> to hơn.
+media_player.media_play,Starting playback on <device_name>.,en,assistant,0,Bắt đầu phát lại trên <device_name>.
+media_player.media_play,Playing <device_name> now.,en,assistant,0,Chơi <device_name> bây giờ.
+media_player.media_play,Playing media on <device_name>.,en,assistant,0,Chơi phương tiện trên <device_name>.
+media_player.media_stop,Stopping <device_name> completely.,en,assistant,0,Dừng <device_name> hoàn toàn.
+media_player.media_stop,Stopping playback on <device_name>.,en,assistant,0,Ngừng phát lại trên <device_name>.
+media_player.media_stop,Ending session on <device_name>.,en,assistant,0,Phiên kết thúc trên <device_name>.
+media_player.volume_down,Lowering <device_name>'s volume.,en,assistant,0,Hạ âm lượng của <humidity>.
+media_player.volume_down,Decreasing <device_name>'s volume.,en,assistant,0,Giảm khối lượng <humidity> của.
+media_player.volume_down,Turning down <device_name>.,en,assistant,0,Từ chối <device_name>.
+media_player.volume_mute,Muting <device_name>.,en,assistant,0,Tắt tiếng <device_name>.
+media_player.volume_mute,Silencing <device_name>.,en,assistant,0,Im lặng <device_name>.
+media_player.volume_mute,Muting <device_name> now.,en,assistant,0,Tắt tiếng <device_name> bây giờ.
+media_player.media_pause,Pausing <device_name>.,en,assistant,0,Tạm dừng <device_name>.
+media_player.media_pause,Pausing <device_name> now.,en,assistant,0,Tạm dừng <device_name> bây giờ.
+media_player.media_pause,Holding playback on <device_name>.,en,assistant,0,Giữ phát lại trên <device_name>.
+media_player.media_next_track,Skipping to next track on <device_name>.,en,assistant,0,Bỏ qua theo dõi tiếp theo trên <device_name>.
+media_player.media_next_track,Advancing to the next song on <device_name>.,en,assistant,0,Tiến lên bài hát tiếp theo trên <device_name>.
+media_player.media_next_track,Skipping this track on <device_name>.,en,assistant,0,Bỏ qua bản nhạc này trên <device_name>.
+media_player.media_previous_track,Going back to previous track on <device_name>.,en,assistant,0,Quay trở lại bản nhạc trước trên <device_name>.
+media_player.media_previous_track,Rewinding to the previous song on <device_name>.,en,assistant,0,Tua lại bài hát trước trên <device_name>.
+media_player.media_previous_track,Going back a track on <device_name>.,en,assistant,0,Quay lại một bài hát trên <device_name>.
+switch.turn_on,Turning on the switch for you.,en,assistant,0,Bật công tắc cho bạn.
+switch.turn_on,"Sure, I'll turn on the light now.",en,assistant,0,"Chắc chắn, tôi sẽ bật đèn ngay bây giờ."
+switch.turn_on,I'll go ahead and turn the switch on.,en,assistant,0,Tôi sẽ tiếp tục và bật công tắc.
+switch.turn_off,Turning off the switch as requested.,en,assistant,0,Tắt công tắc theo yêu cầu.
+switch.turn_off,I'll switch off the device for you.,en,assistant,0,Tôi sẽ tắt thiết bị cho bạn.
+switch.turn_off,"Sure, turning off the switch.",en,assistant,0,"Chắc chắn, tắt công tắc."
+switch.turn_on,Turning on <device_name> now.,en,assistant,0,Bật <device_name> ngay bây giờ.
+switch.turn_on,I'm turning on <device_name>.,en,assistant,0,Tôi đang bật <device_name>.
+switch.turn_on,Activating <device_name>.,en,assistant,0,Kích hoạt <device_name>.
+switch.turn_on,"Sure, turning <device_name> on.",en,assistant,0,"Chắc chắn, bật <device_name>."
+switch.turn_on,Switching on <device_name> right away.,en,assistant,0,Bật <device_name> ngay lập tức.
+switch.turn_on,"Sure, lighting up <device_name> now.",en,assistant,0,"Chắc chắn, thắp sáng <device_name> bây giờ."
+switch.turn_on,Turning <device_name> on as needed.,en,assistant,0,Bật <device_name> khi cần thiết.
+switch.turn_off,Switching off <device_name>.,en,assistant,0,Tắt <device_name>.
+switch.turn_off,Turning off <device_name>.,en,assistant,0,Tắt <device_name>.
+switch.turn_off,Deactivating <device_name>.,en,assistant,0,Vô hiệu hóa <device_name>.
+switch.turn_off,"Okay, turning <device_name> off.",en,assistant,0,"Được rồi, tắt <device_name>."
+switch.turn_off,"Okay, I'm turning off <device_name>.",en,assistant,0,"Được rồi, tôi đang tắt <device_name>."
+switch.turn_off,Shutting off <device_name> for bedtime.,en,assistant,0,Tắt <device_name> cho giờ đi ngủ.
+switch.turn_off,Turning off <device_name> now.,en,assistant,0,Tắt <device_name> ngay bây giờ.
+blinds.close,shutting <device_name>,en,assistant,1,Tắt <device_name>
+blinds.close,lowering <device_name>,en,assistant,1,hạ thấp <device_name>
+blinds.close,closing <device_name>,en,assistant,1,Đóng <device_name>
+blinds.open,raising <device_name>,en,assistant,1,Nâng cao <device_name>
+blinds.open,lifting <device_name>,en,assistant,1,Nâng <device_name>
+blinds.open,opening <device_name>,en,assistant,1,Mở đầu <device_name>
+fan.decrease_speed,slowing down <device_name>,en,assistant,1,làm chậm <device_name>
+fan.decrease_speed,reducing speed of <device_name>,en,assistant,1,Giảm tốc độ <device_name>
+fan.decrease_speed,reducing <device_name>,en,assistant,1,Giảm <device_name>
+fan.increase_speed,speeding up <device_name>,en,assistant,1,Tăng tốc <device_name>
+fan.increase_speed,increasing speed of <device_name>,en,assistant,1,Tăng tốc độ <device_name>
+fan.increase_speed,ramping up <device_name>,en,assistant,1,tăng cường <device_name>
+fan.turn_off,stopping <device_name>,en,assistant,1,Dừng <device_name>
+fan.turn_off,turning off <device_name>,en,assistant,1,Tắt <device_name>
+fan.turn_off,deactivating <device_name>,en,assistant,1,vô hiệu hóa <device_name>
+fan.turn_on,starting <device_name>,en,assistant,1,Bắt đầu <device_name>
+fan.turn_on,activating <device_name>,en,assistant,1,Kích hoạt <device_name>
+garage_door.close,shutting <device_name>,en,assistant,1,Tắt <device_name>
+garage_door.close,deactivating <device_name>,en,assistant,1,vô hiệu hóa <device_name>
+garage_door.close,closing <device_name>,en,assistant,1,Đóng <device_name>
+garage_door.open,opening <device_name>,en,assistant,1,Mở đầu <device_name>
+garage_door.open,lifting <device_name>,en,assistant,1,Nâng <device_name>
+garage_door.stop,stopping <device_name>,en,assistant,1,Dừng <device_name>
+light.turn_off,turning off <device_name>,en,assistant,1,Tắt <device_name>
+light.turn_off,deactivating <device_name>,en,assistant,1,vô hiệu hóa <device_name>
+light.turn_off,lowering <device_name>,en,assistant,1,hạ thấp <device_name>
+light.turn_off,switching off <device_name>,en,assistant,1,Tắt <device_name>
+light.turn_on,turning on <device_name>,en,assistant,1,Bật <device_name>
+light.turn_on,activating <device_name>,en,assistant,1,Kích hoạt <device_name>
+light.turn_on,switching on <device_name>,en,assistant,1,Bật <device_name>
+light.turn_on,turning on both <device_name>,en,assistant,1,Bật cả <device_name>
+lock.lock,securing <device_name>,en,assistant,1,Đảm bảo <device_name>
+lock.lock,locking <device_name>,en,assistant,1,Khóa <device_name>
+lock.unlock,unlocking <device_name>,en,assistant,1,Mở khóa <device_name>
+lock.unlock,unsecuring <device_name>,en,assistant,1,không an toàn <device_name>
+blinds.open,Openin' the blinds for ye.,en,pirate,0,Mở 'Rèm cho các bạn.
+blinds.open,"Aye, I'll be openin' the blinds.",en,pirate,0,"Aye, tôi sẽ mở 'rèm."
+blinds.open,"Aye, openin' the blinds now.",en,pirate,0,"Aye, Openin 'The Rèm bây giờ."
+blinds.close,Closin' the blinds as ye requested.,en,pirate,0,Đóng 'Rèm như bạn yêu cầu.
+blinds.close,I'll be closin' the blinds for ye.,en,pirate,0,Tôi sẽ đóng cửa 'rèm cho các ngươi.
+blinds.close,"Aye, closin' the blinds.",en,pirate,0,"Aye, đóng cửa 'rèm."
+blinds.stop,Stopin' the blinds now.,en,pirate,0,Ngăn chặn rèm bây giờ.
+blinds.stop,I'll halt the blinds for ye.,en,pirate,0,Tôi sẽ tạm dừng rèm cho các bạn.
+blinds.stop,"Aye, haltin' the blinds' movement.",en,pirate,0,"Aye, chuyển động của Rèm '."
+blinds.open,Liftin' <device_name> blinds yarr,en,pirate,0,Liftin '<device_name> rèm yarr
+blinds.open,Openin' <device_name> now,en,pirate,0,Openin '<device_name> bây giờ
+blinds.open,Raisin' <device_name> for ye,en,pirate,0,Raisin '<device_name> cho các ngươi
+blinds.stop,Freezin' <device_name> position,en,pirate,0,Vị trí freezin '<device_name>
+blinds.stop,Haltin' <device_name> now,en,pirate,0,Halton '<device_name> bây giờ
+blinds.stop,Stoppin' <device_name> operation,en,pirate,0,Stoppin '<device_name> hoạt động
+blinds.open,Raisin' <device_name>,en,pirate,0,Nho khô '<device_name>
+blinds.close,Closin' <device_name> for ye,en,pirate,0,Closin '<device_name> cho các bạn
+blinds.close,Lowerin' <device_name> now,en,pirate,0,Lowerin '<device_name> bây giờ
+blinds.close,Shuttin' <device_name> yarr,en,pirate,0,Shuttin '<device_name> yarr
+blinds.close,Lowerin' <device_name>,en,pirate,0,Hạ thấp '<device_name>
+climate.set_humidity,"Yarrr, rampin' up humidity to <humidity>, by the sea!",en,pirate,0,"Yarrr, tăng độ ẩm lên <device_name>, bên bờ biển!"
+climate.set_humidity,"Arrr, settin' humidity to <humidity> percent, as ye wish!",en,pirate,0,"Arrr, giải quyết độ ẩm cho <device_name> phần trăm, như bạn ước!"
+climate.set_humidity,"By Davy Jones' locker, adjustin' humidity to <humidity>%!",en,pirate,0,"Bởi tủ khóa của Davy Jones, điều chỉnh độ ẩm thành <humidity>%!"
+climate.set_fan_mode,"Hoistin' the fan to <fan_mode> speed, swifter than a sloop!",en,pirate,0,"Houston 'quạt đến <fan_mode> Tốc độ, Swifter hơn một khẩu hiệu!"
+climate.set_fan_mode,"Arr, puttin' the fan on <fan_mode>, steady as she goes!",en,pirate,0,"Mảng, puttin 'quạt trên <device_name>, ổn định khi cô ấy đi!"
+climate.set_fan_mode,"Shiver me timbers, changin' the fan to <fan_mode> setting!",en,pirate,0,"Rùng mình gỗ, thay đổi 'quạt thành <fan_mode> cài đặt!"
+climate.set_hvac_mode,"Blimey, switchin' to <hvac_mode> mode, full sail ahead!",en,pirate,0,"Blimey, chuyển sang chế độ <hvac_mode>, đi thuyền đầy đủ phía trước!"
+climate.set_hvac_mode,"Arrr, settin' the HVAC to <hvac_mode>, steady as she goes!",en,pirate,0,"Arrr, giải quyết HVAC đến <device_name>, ổn định khi cô ấy đi!"
+climate.set_hvac_mode,"By the powers, changin' HVAC to <hvac_mode> mode!",en,pirate,0,"Bằng các quyền lực, Changin 'HVac thành <hvac_mode> Chế độ!"
+climate.set_temperature,"Arr, settin' temperature to <temp_f> degrees, as warm as the Caribbean sun!",en,pirate,0,"Mảng, giải quyết nhiệt độ đến <device_name> độ, ấm như mặt trời Caribbean!"
+climate.set_temperature,"Yarrr, changin' temperature to <temp_c> Celsius, cooler than the deep blue!",en,pirate,0,"Yarrr, nhiệt độ thay đổi thành <device_name> C, mát hơn màu xanh đậm!"
+climate.set_temperature,"Heave ho, settin' the room to <temp_f> degrees Fahrenheit, warm as a pirate's grog!",en,pirate,0,"Heave ho, định cư phòng đến <device_name> độ Fahrenheit, ấm áp như một kẻ cướp biển!"
+climate.set_temperature,"Avast, adjustin' temperature to <temp_f> degrees Fahrenheit, as cozy as a ship's cabin!",en,pirate,0,"Avast, điều chỉnh nhiệt độ thành <temp_f> độ Fahrenheit, ấm cúng như cabin của một con tàu!"
+climate.set_temperature,"Arr, settin' the room to <temp_c> degrees Celsius for cooler breezes, as refreshing as an ocean mist!",en,pirate,0,"Mảng, định cư phòng đến <device_name> độ Celsius cho những cơn gió mát hơn, làm mới như một sương mù đại dương!"
+climate.set_temperature,"Aye, makin' it warmer, settin' temperature to <temp_f> degrees, like a sun-drenched cove!",en,pirate,0,"Aye, makin 'nó ấm hơn, giải quyết nhiệt độ đến <device_name> độ, giống như một cái nhung nhí nhúng!"
+climate.set_temperature,"Blow me down, lowerin' the temperature to <temp_c> Celsius, as brisk as the morning sea air!",en,pirate,0,"Thổi tôi xuống, hạ thấp nhiệt độ xuống <temp_c> C, nhanh như không khí biển buổi sáng!"
+climate.set_temperature,"Yo ho, raisin' the temperature to <temp_f> degrees Fahrenheit, warmer than a pirate's plunder!",en,pirate,0,"Yo ho, nho khô 'nhiệt độ đến <device_name> độ Fahrenheit, ấm hơn so với cướp bóc của cướp biển!"
+fan.turn_on,"Firin' up the fan for ye, arr!",en,pirate,0,"Firin 'lên quạt cho các bạn, mảng!"
+fan.turn_on,"Aye, I'll get the fan blowin' for ye.",en,pirate,0,"Aye, tôi sẽ nhận được quạt thổi cho các ngươi."
+fan.turn_on,"Yar, turnin' on the fan now!",en,pirate,0,"Yar, Turnin 'trên người hâm mộ ngay bây giờ!"
+fan.turn_off,"Killin' the fan as ye requested, matey.",en,pirate,0,"Killin 'người hâm mộ như các ngươi yêu cầu, Matey."
+fan.turn_off,I'll snuff out the fan for ye.,en,pirate,0,Tôi sẽ dập tắt người hâm mộ cho các bạn.
+fan.turn_off,"Aye, turnin' off the fan.",en,pirate,0,"Aye, Turnin 'ra khỏi quạt."
+fan.increase_speed,"Boostin' the fan speed for ye, swift as the wind!",en,pirate,0,"Boostin 'Tốc độ quạt cho các bạn, nhanh chóng như gió!"
+fan.increase_speed,"Sure as the tide, speedin' up the fan now.",en,pirate,0,"Chắc chắn là thủy triều, tốc độ cho người hâm mộ ngay bây giờ."
+fan.increase_speed,"I'll be makin' the fan faster, hold fast!",en,pirate,0,"Tôi sẽ là người hâm mộ nhanh hơn, giữ nhanh!"
+fan.decrease_speed,"Reducin' the fan speed as ye requested, quiet as the deep.",en,pirate,0,"Giảm tốc độ quạt khi các ngươi yêu cầu, yên tĩnh như sâu."
+fan.decrease_speed,"I'll slow down the fan for ye, easy as a calm sea.",en,pirate,0,"Tôi sẽ làm chậm quạt cho các ngươi, dễ dàng như một biển yên tĩnh."
+fan.decrease_speed,"Sure, decreasin' the fan speed, steady now.",en,pirate,0,"Chắc chắn, giảm tốc độ quạt, ổn định."
+fan.turn_on,"Activatin' <device_name> now, set sail!",en,pirate,0,"Kích hoạt '<device_name> Bây giờ, hãy ra khơi!"
+fan.turn_on,"Startin' <device_name> for ye, full speed ahead!",en,pirate,0,"Startin '<device_name> cho các bạn, tốc độ tối đa phía trước!"
+fan.turn_on,"Certainly, startin' <device_name>, let's brave the squall!",en,pirate,0,"Chắc chắn, Startin '<device_name>, hãy dũng cảm với Squall!"
+fan.turn_on,"Turnin' on <device_name>, let the winds favor us!",en,pirate,0,"Turnin 'trên <device_name>, hãy để gió ủng hộ chúng tôi!"
+fan.turn_on,"Startin' <device_name>, by the code!",en,pirate,0,"Startin '<device_name>, bằng mã!"
+fan.turn_off,"Deactivatin' <device_name> as requested, quiet as a hidden cove.",en,pirate,0,"Deactivatin '<device_name> theo yêu cầu, yên tĩnh như một cái hang ẩn."
+fan.turn_off,"Stoppin' <device_name> for ye, as silent as the grave.",en,pirate,0,"Stoppin '<device_name> cho các ngươi, im lặng như ngôi mộ."
+fan.turn_off,"Certainly, stoppin' <device_name>, all hands!",en,pirate,0,"Chắc chắn, stoppin '<device_name>, tất cả đều tay!"
+fan.turn_off,"Turnin' off <device_name>, let's not wake the kraken.",en,pirate,0,"Tắt 'tắt <device_name>, chúng ta đừng đánh thức Kraken."
+fan.decrease_speed,"Reducin' speed of <device_name>, smooth sailin'.",en,pirate,0,"Giảm tốc độ <device_name>, xoáy xoáy '."
+fan.decrease_speed,"Lowerin' speed of <device_name> as requested, gentle as a lagoon.",en,pirate,0,"Hạ thấp 'tốc độ <device_name> theo yêu cầu, nhẹ nhàng như một đầm phá."
+fan.decrease_speed,"Slowing down <device_name> for ye, easy does it.",en,pirate,0,"Làm chậm <device_name> cho các bạn, dễ dàng làm điều đó."
+fan.increase_speed,"Increasin' speed of <device_name>, catch the horizon!",en,pirate,0,"Tăng tốc độ '<device_name>, bắt chân trời!"
+fan.increase_speed,"Rampin' up <device_name> speed now, faster than a fleeing galleon!",en,pirate,0,"Rampin 'Up <device_name> Tốc độ bây giờ, nhanh hơn một Galleon chạy trốn!"
+fan.increase_speed,"Speedin' up <device_name> for ye, let's outrun the navy!",en,pirate,0,"Speedin 'Up <device_name> cho các bạn, hãy vượt qua Hải quân!"
+fan.increase_speed,"Increasin' speed of <device_name>, to outrun the storm!",en,pirate,0,"Tăng tốc độ '<device_name>, để vượt qua cơn bão!"
+fan.decrease_speed,"Reducin' speed of <device_name>, steady as we go.",en,pirate,0,"Giảm tốc độ <device_name>, ổn định khi chúng ta đi."
+light.turn_on,"Illuminatin' the room for ye, arr!",en,pirate,0,"Chiếu sáng 'Phòng cho các ngươi, là!"
+light.turn_on,"Aye, I'll light up the quarters now.",en,pirate,0,"Aye, bây giờ tôi sẽ thắp sáng các khu vực."
+light.turn_on,"Settin' sail with the light on, I will!",en,pirate,0,"Đặt 'Cánh buồm với ánh sáng, tôi sẽ!"
+light.turn_off,"Dousin' the lights as ye wish, matey.",en,pirate,0,"Dousin 'ánh đèn như bạn ước, Matey."
+light.turn_off,I'll be snuffin' out the light for ye.,en,pirate,0,Tôi sẽ snuffin 'ra khỏi ánh sáng cho các ngươi.
+light.turn_off,"Aye, extinguishin' the light.",en,pirate,0,"Aye, dập tắt ánh sáng."
+light.turn_on,"Startin' up <device_name>, on the horizon!",en,pirate,0,"Bật <device_name> lên, ở phía chân trời!"
+light.turn_on,"Aye, brightenin' <device_name> now, clear as day!",en,pirate,0,"Aye, breatenin '<device_name> Bây giờ, rõ ràng như ngày!"
+light.turn_on,"Switchin' on <device_name> for ye, like the northern star!",en,pirate,0,"Chuyển đổi trên <device_name> cho các bạn, giống như ngôi sao phía bắc!"
+light.turn_on,"Lightin' up <device_name>, as bright as the full moon!",en,pirate,0,"Ánh sáng 'lên <device_name>, sáng như trăng tròn!"
+light.turn_on,"Activatin' <device_name>, let there be light!",en,pirate,0,"Kích hoạt '<device_name>, hãy để có ánh sáng!"
+light.turn_on,"Settin' the brightness of <device_name> to <brightness>%, as clear as the open sea!",en,pirate,0,"Giải quyết độ sáng của <device_name> đến <brightness>%, rõ ràng như biển mở!"
+light.turn_on,"Dimmin' <device_name> to <brightness>% brightness, like the twilight.",en,pirate,0,"Làm mờ '<device_name> đến <brightness>% độ sáng, như hoàng hôn."
+light.turn_on,"Brightenin' <device_name> to <brightness>%, like the morning sun!",en,pirate,0,"Brightenin '<device_name> đến <brightness>%, như mặt trời buổi sáng!"
+light.turn_on,"Adjustin' <device_name> brightness to <brightness>, as the lighthouse guides.",en,pirate,0,"Điều chỉnh độ sáng <device_name> thành <brightness>, như hướng dẫn của Ngọn hải đăng."
+light.turn_on,"Increasin' <device_name>'s brightness to <brightness>, like a beacon in the night!",en,pirate,0,"Tăng độ sáng của <humidity> lên <brightness>, giống như một đèn hiệu trong đêm!"
+light.turn_on,"Lowerin' the brightness of <device_name> to <brightness>, gentle as moonlight.",en,pirate,0,"Hạ thấp 'độ sáng của <device_name> xuống <brightness>, nhẹ nhàng như ánh trăng."
+light.turn_on,"Settin' <device_name>'s brightness level to <brightness>%, as steady as the tide.",en,pirate,0,"Cài đặt mức độ sáng của <device_name> thành <brightness>%, ổn định như thủy triều."
+light.turn_on,"Settin' <device_name> to <brightness>% brightness, as bright as a pirate's gold!",en,pirate,0,"Cài đặt độ sáng của <device_name> đến <brightness>%, sáng như vàng của cướp biển!"
+light.turn_on,"Turnin' <device_name> <color>, like the colors of the sea.",en,pirate,0,"Chuyển màu của <device_name> thành <color>, giống như màu sắc của biển."
+light.turn_on,"Changin' the color of <device_name> to <color>, as vibrant as coral!",en,pirate,0,"Thay đổi màu của <device_name> thành <color>, rực rỡ như san hô!"
+light.turn_on,"Changin' <device_name> to a <color> hue, bold as a pirate's flag!",en,pirate,0,"Thay đổi <device_name> thành <color>, táo bạo như một lá cờ cướp biển!"
+light.turn_on,"Settin' <device_name> to be <color>, as majestic as the sunset.",en,pirate,0,"Cài dặt <device_name> thành <color>, hùng vĩ như hoàng hôn."
+light.turn_on,"Makin' <device_name> shine in <color>, like jewels from a treasure chest.",en,pirate,0,"Hãy làm <device_name> tỏa sáng trong <color>, giống như đồ trang sức từ rương kho báu."
+light.turn_on,"Turnin' <device_name> to a <color> shade, as mysterious as the deep.",en,pirate,0,"Chuyển màu của <device_name> đến một bóng <color>, bí ẩn như sâu."
+light.turn_on,"Settin' <device_name> to a <color>, as rich as the spoils of a raid.",en,pirate,0,"Điều chỉnh màu của <device_name> thành <color>, phong phú như chiến lợi phẩm của một cuộc đột kích."
+light.turn_on,"Settin' <device_name> to a <color> color, bright as a parrot's plumage.",en,pirate,0,"Điều chỉnh màu của <device_name> thành <color>, sáng như bộ lông của vẹt."
+light.turn_on,"Makin' <device_name> glow <color>, like the glow of an island torch.",en,pirate,0,"Hãy làm <device_name> phát sáng <color>, giống như ánh sáng của một ngọn đuốc đảo."
+light.turn_on,"Turnin' <device_name> to <color>, as bold as the pirate's courage.",en,pirate,0,"Chuyển màu của <device_name> thành <color>, đậm như lòng can đảm của cướp biển."
+light.turn_on,"Changin' <device_name> to <color>, like the changing tides.",en,pirate,0,"Thay đổi '<device_name> thành <color>, giống như thủy triều thay đổi."
+light.turn_on,"Adjustin' <device_name> to <color> color, as captivating as a siren's song.",en,pirate,0,"Điều chỉnh '<device_name> thành __1__ màu, quyến rũ như bài hát của Siren."
+light.turn_on,"Switchin' <device_name> color to <color>, like the banner of a ship.",en,pirate,0,"Switchin '<device_name> màu sang __ph1__, giống như biểu ngữ của một con tàu."
+light.turn_on,"Settin' <device_name> in <color>, as lively as a tavern's cheer.",en,pirate,0,"Cài đặt '<device_name> trong __1__, sống động như sự cổ vũ của một quán rượu."
+light.turn_on,"Makin' <device_name> display a <color> light, like the northern lights.",en,pirate,0,"Makin '<device_name> Hiển thị ánh sáng <color>, giống như ánh sáng phía bắc."
+light.turn_on,"Settin' <device_name> color to <color>, as striking as a cannon's blaze.",en,pirate,0,"Đặt '<device_name> màu thành ____, nổi bật như ngọn lửa của khẩu pháo."
+light.turn_off,"Deactivatin' <device_name> as ye wish, dark as a moonless night.",en,pirate,0,"Deactivatin '<device_name> như bạn ước, tối như một đêm không trăng."
+light.turn_off,"Switchin' off <device_name> now, silent as a ghost ship.",en,pirate,0,"Chuyển tắt <device_name> Bây giờ, im lặng như một con tàu ma."
+light.turn_off,"Aye, turnin' off <device_name>, like quenchin' a lantern.",en,pirate,0,"Aye, tắt 'are <device_name>, giống như dập tắt một chiếc đèn lồng."
+light.turn_off,"Turnin' off <device_name>, let's keep to the shadows.",en,pirate,0,"Tắt 'Tắt <device_name>, chúng ta hãy giữ bóng."
+light.turn_off,"Deactivatin' <device_name>, as quiet as the depths.",en,pirate,0,"Deactivatin '<device_name>, yên tĩnh như độ sâu."
+switch.turn_on,"Hoistin' the switch, readyin' for action, arr!",en,pirate,0,"Houston 'The Switch, Ready' cho hành động, là!"
+switch.turn_on,"Aye, lightin' up the deck with a flick o' the switch!",en,pirate,0,"Aye, thắp sáng 'lên boong với một cái búng tay' The Switch!"
+switch.turn_off,"Dousin' the lights, makin' it dark as the ocean's abyss.",en,pirate,0,"Dousin 'The Lights, Makin' trời tối như vực thẳm của đại dương."
+switch.turn_off,"I'll be cuttin' the power, like calmin' the seas.",en,pirate,0,"Tôi sẽ là sức mạnh, giống như bình tĩnh."
+switch.turn_off,"Aye, plungin' us into darkness, like the cover of night.",en,pirate,0,"Aye, plungin 'chúng tôi vào bóng tối, giống như trang bìa của đêm."
+switch.turn_on,"Ignitin' <device_name>, like a beacon in the night!",en,pirate,0,"Ignitin '<device_name>, giống như một đèn hiệu trong đêm!"
+switch.turn_on,"I be lightin' up <device_name>, like a lantern in the crow's nest.",en,pirate,0,"Tôi là Lightin 'Up <device_name>, giống như một chiếc đèn lồng trong tổ của Crow."
+switch.turn_on,"Activatin' <device_name>, set the course!",en,pirate,0,"Kích hoạt '<device_name>, đặt khóa học!"
+switch.turn_on,"Aye, settin' <device_name> aglow, like a treasure chest o' gold!",en,pirate,0,"Aye, Settin '<device_name> Aglow, giống như một rương kho báu o' vàng!"
+switch.turn_on,"Switchin' on <device_name>, straight away, no dallyin'!",en,pirate,0,"Chuyển đổi trên <device_name>, ngay lập tức, không có dallyin '!"
+switch.turn_on,"Lightin' up <device_name>, like the stars guidin' us home.",en,pirate,0,"Ánh sáng 'lên <device_name>, giống như các ngôi sao hướng dẫn' nhà chúng tôi."
+switch.turn_on,"Settin' <device_name> ablaze, ready for whatever lies ahead.",en,pirate,0,"Settin '<device_name> bốc cháy, sẵn sàng cho bất cứ điều gì nằm ở phía trước."
+switch.turn_off,"Snuffin' out <device_name>, like a candle at dawn.",en,pirate,0,"Snuffin 'ra <device_name>, giống như một ngọn nến vào lúc bình minh."
+switch.turn_off,"Extinguishin' <device_name>, like the end of a voyage.",en,pirate,0,"Dập tắt <device_name>, giống như cuối của một chuyến đi."
+switch.turn_off,"Deactivatin' <device_name>, like buryin' a chest of riches.",en,pirate,0,"Deactivatin '<device_name>, giống như Buryin' một rương giàu có."
+switch.turn_off,"Okay, dousin' <device_name>, like the quiet before a storm.",en,pirate,0,"Được rồi, Dousin '<device_name>, giống như sự yên tĩnh trước một cơn bão."
+switch.turn_off,"Aye, I be turnin' off <device_name>, like whisperin' to the wind.",en,pirate,0,"Aye, tôi đang tắt '<device_name>, như thì thầm' với gió."
+switch.turn_off,"Shuttin' off <device_name>, as we anchor for night.",en,pirate,0,"Shuttin 'off <device_name>, khi chúng tôi neo cho đêm."
+switch.turn_off,"Killin' the lights of <device_name>, like a ghost ship vanishin' into fog.",en,pirate,0,"Killin 'The Light of <device_name>, giống như một con tàu ma biến mất vào sương mù."
+fan.turn_on,"Beep boop, turning on the fan for you.",en,robot,0,"Beep Boop, bật quạt cho bạn."
+fan.turn_on,"Beep, I'll get the fan going for you, boop.""",en,robot,0,"Beep, tôi sẽ đưa người hâm mộ đi cho bạn, boop. """
+fan.turn_on,"Boop beep, sure, turning on the fan now.",en,robot,0,"Boop Beep, chắc chắn, bật người hâm mộ ngay bây giờ."
+fan.turn_off,"Beep boop, switching off the fan as requested.",en,robot,0,"Beep Boop, tắt quạt theo yêu cầu."
+fan.turn_off,"I'll turn off the fan for you, beep boop.",en,robot,0,"Tôi sẽ tắt quạt cho bạn, Beep Boop."
+fan.turn_off,"Okay, turning off the fan beep boop.""",en,robot,0,"Được rồi, tắt tiếng bíp của quạt. """
+fan.increase_speed,"Increasing the fan speed for you, beep boop.",en,robot,0,"Tăng tốc độ quạt cho bạn, Beep Boop."
+fan.increase_speed,"Sure, speeding up the fan now, beep boop.""",en,robot,0,"Chắc chắn, tăng tốc cho quạt bây giờ, Beep Boop. """
+fan.increase_speed,"I'll go ahead and make the fan faster, beep boop.",en,robot,0,"Tôi sẽ tiếp tục và làm cho người hâm mộ nhanh hơn, Beep Boop."
+fan.decrease_speed,"Reducing the fan speed as you requested, beep boop.",en,robot,0,"Giảm tốc độ quạt khi bạn yêu cầu, Beep Boop."
+fan.decrease_speed,"I'll slow down the fan for you, beep boop.",en,robot,0,"Tôi sẽ làm chậm quạt cho bạn, Beep Boop."
+fan.decrease_speed,"Sure, decreasing the fan speed, beep boop.""",en,robot,0,"Chắc chắn, giảm tốc độ quạt, tiếng bíp boop. """
+fan.turn_on,"Activating <device_name> now, beep boop",en,robot,0,"Kích hoạt <device_name> Bây giờ, Beep Boop"
+fan.turn_on,"Starting <device_name> for you, beep boop",en,robot,0,"Bắt đầu <device_name> cho bạn, Beep Boop"
+fan.turn_on,"Certainly, starting <device_name>, beep boop""",en,robot,0,"Chắc chắn, bắt đầu <device_name>, Beep Boop """
+fan.turn_on,"Turning on <device_name>, beep boop",en,robot,0,"Bật <device_name>, Beep Boop"
+fan.turn_on,"Starting <device_name>, beep boop",en,robot,0,"Bắt đầu <device_name>, Beep Boop"
+fan.turn_off,"Deactivating <device_name> as requested, beep boop",en,robot,0,"Vô hiệu hóa <device_name> theo yêu cầu, Beep Boop"
+fan.turn_off,"Stopping <device_name> for you, beep boop",en,robot,0,"Dừng <device_name> cho bạn, Beep Boop"
+fan.turn_off,"Certainly, stopping <device_name>, beep boop""",en,robot,0,"Chắc chắn, dừng <device_name>, Beep Boop """
+fan.turn_off,"Turning off <device_name>, beep boop",en,robot,0,"Tắt <device_name>, Beep Boop"
+fan.decrease_speed,"Reducing speed of <device_name>, beep boop",en,robot,0,"Giảm tốc độ <device_name>, Beep Boop"
+fan.decrease_speed,"Lowering speed of <device_name> as requested, beep boop",en,robot,0,"Hạ tốc độ <device_name> theo yêu cầu, Beep Boop"
+fan.decrease_speed,"Slowing down <device_name> for you, beep boop",en,robot,0,"Làm chậm <device_name> cho bạn, Beep Boop"
+fan.increase_speed,"Increasing speed of <device_name>, beep boop",en,robot,0,"Tăng tốc độ <device_name>, Beep Boop"
+fan.increase_speed,"Ramping up <device_name> speed now, beep boop",en,robot,0,"Tăng tốc <device_name> Tốc độ ngay bây giờ, Beep Boop"
+fan.increase_speed,"Speeding up <device_name> for you, beep boop",en,robot,0,"Tăng tốc <device_name> cho bạn, Beep Boop"
+fan.increase_speed,"Increasing speed of <device_name>, beep boop",en,robot,0,"Tăng tốc độ <device_name>, Beep Boop"
+fan.decrease_speed,"Reducing speed of <device_name>, beep boop",en,robot,0,"Giảm tốc độ <device_name>, Beep Boop"
+blinds.open,"Beep boop, opening the blinds for you.",en,robot,0,"Beep Boop, mở rèm cho bạn."
+blinds.open,"I'll go ahead and open the blinds, beep boop.",en,robot,0,"Tôi sẽ đi trước và mở rèm, tiếng bíp boop."
+blinds.open,"Sure, opening the blinds now, beep boop.",en,robot,0,"Chắc chắn, mở rèm bây giờ, tiếng bíp boop."
+blinds.close,"Closing the blinds as you requested, beep boop.",en,robot,0,"Đóng rèm như bạn yêu cầu, Beep Boop."
+blinds.close,"I'll close the blinds for you, beep boop.",en,robot,0,"Tôi sẽ đóng rèm cho bạn, Beep Boop."
+blinds.close,"Sure, closing the blinds, beep boop.",en,robot,0,"Chắc chắn, đóng rèm, tiếng bíp boop."
+blinds.stop,"Stopping the blinds now, beep boop.",en,robot,0,"Dừng rèm bây giờ, Beep Boop."
+blinds.stop,"I'll stop the blinds for you, beep boop.",en,robot,0,"Tôi sẽ dừng rèm cho bạn, Beep Boop."
+blinds.stop,"Sure, halting the blinds movement, beep boop.",en,robot,0,"Chắc chắn, tạm dừng chuyển động rèm, tiếng bíp boop."
+blinds.open,"Lifting <device_name> blinds as requested, beep boop",en,robot,0,"Nâng <device_name> Rèm theo yêu cầu, Beep Boop"
+blinds.open,"Opening <device_name> now, beep boop",en,robot,0,"Mở <device_name> Bây giờ, Beep Boop"
+blinds.open,"Raising <device_name> for you, beep boop",en,robot,0,"Nâng <device_name> cho bạn, Beep Boop"
+blinds.stop,"Freezing <device_name> position, beep boop",en,robot,0,"Đóng băng <device_name> vị trí, tiếng bíp boop"
+blinds.stop,"Halting <device_name> now, beep boop",en,robot,0,"Tạm dừng <device_name> Bây giờ, Beep Boop"
+blinds.stop,"Stopping <device_name> operation, beep boop",en,robot,0,"Dừng hoạt động <device_name>, Beep Boop"
+blinds.open,"Raising <device_name>, beep boop",en,robot,0,"Nâng <device_name>, Beep Boop"
+blinds.close,"Closing <device_name> for you, beep boop",en,robot,0,"Đóng <device_name> cho bạn, Beep Boop"
+blinds.close,"Lowering <device_name> now, beep boop",en,robot,0,"Hạ thấp <device_name> Bây giờ, Beep Boop"
+blinds.close,"Shutting <device_name> as requested, beep boop",en,robot,0,"Tắt <device_name> theo yêu cầu, Beep Boop"
+blinds.close,"Lowering <device_name>, beep boop",en,robot,0,"Hạ thấp <device_name>, Beep Boop"
+climate.set_humidity,"Beep, increasing humidity to <humidity>, boop.",en,robot,0,"Beep, tăng độ ẩm lên <humidity>, boop."
+climate.set_humidity,"Beep boop: Setting humidity to <humidity> percent, processing.",en,robot,0,"Beep Boop: Đặt độ ẩm thành <humidity> phần trăm, xử lý."
+climate.set_humidity,"Adjustment protocol initiated: humidity to <humidity>%, beep boop.",en,robot,0,"Giao thức điều chỉnh bắt đầu: Độ ẩm đến <humidity>%, Beep Boop."
+climate.set_fan_mode,"Fan speed adjustment to <fan_mode>: commencing beep, concluding boop.",en,robot,0,"Điều chỉnh tốc độ quạt thành <fan_mode>: Bắt đầu BEEP, kết luận boop."
+climate.set_fan_mode,"Activating <fan_mode> fan mode, beep-boop sequence activated.",en,robot,0,"Kích hoạt chế độ quạt <fan_mode>, trình tự Beep-Boop được kích hoạt."
+climate.set_fan_mode,"Fan setting alteration to <fan_mode>: beep protocol, boop execution.",en,robot,0,"Thay đổi cài đặt quạt thành <fan_mode>: Giao thức BEEP, thực thi boop."
+climate.set_hvac_mode,"HVAC mode switching to <hvac_mode>: beep commence, boop complete.",en,robot,0,"Chế độ HVAC chuyển sang <hvac_mode>: Bắt đầu BEEP, BOOP Hoàn thành."
+climate.set_hvac_mode,"Initiating HVAC setting to <hvac_mode>, beep-boop operation underway.",en,robot,0,"Bắt đầu cài đặt HVAC thành <hvac_mode>, hoạt động Beep-Boop đang được tiến hành."
+climate.set_hvac_mode,"Executing change: HVAC to <hvac_mode> mode, beep and boop in progress.",en,robot,0,"Thực hiện thay đổi: Chế độ HVAC sang <hvac_mode>, BEEP và BOOP đang được tiến hành."
+climate.set_temperature,"Temperature setting protocol to <temp_f> degrees: beep start, boop end.",en,robot,0,"Giao thức cài đặt nhiệt độ thành <temp_f> độ: Beep Start, Boop End."
+climate.set_temperature,"Temperature modification to <temp_c> Celsius: beep for start, boop to end.",en,robot,0,"Sửa đổi nhiệt độ thành <temp_c> Celsius: Beep cho bắt đầu, boop để kết thúc."
+climate.set_temperature,"Room temperature adjustment to <temp_f> degrees Fahrenheit, beep-boop.",en,robot,0,"Điều chỉnh nhiệt độ phòng đến <temp_f> độ Fahrenheit, Beep-Boop."
+climate.set_temperature,"Commencing temperature adjustment to <temp_f> degrees Fahrenheit, beep-boop.",en,robot,0,"Bắt đầu điều chỉnh nhiệt độ đến <temp_f> độ Fahrenheit, Beep-Boop."
+climate.set_temperature,"Cooler temperature setting to <temp_c> degrees Celsius initiated, beep-boop.",en,robot,0,"Cài đặt nhiệt độ mát hơn ở <temp_c> độ Celsius bắt đầu, Beep-Boop."
+climate.set_temperature,"Beep, making it warmer by setting temperature to <temp_f> degrees, boop.",en,robot,0,"Beep, làm cho nó ấm hơn bằng cách đặt nhiệt độ thành <temp_f> độ, boop."
+climate.set_temperature,"Lowering temperature protocol to <temp_c> Celsius, beep start, boop finish.",en,robot,0,"Giảm giao thức nhiệt độ xuống <temp_c> C, Beep Start, Boop Finish."
+climate.set_temperature,"Raising temperature to <temp_f> degrees Fahrenheit, initiating beep, concluding boop.",en,robot,0,Tăng nhiệt độ lên <temp_f> độ F.
+light.turn_on,"Beep boop, illuminating the area by turning on the light for you.",en,robot,0,"Beep Boop, chiếu sáng khu vực bằng cách bật đèn cho bạn."
+light.turn_on,"Affirmative, initiating light activation sequence now.",en,robot,0,"Khẳng định, bắt đầu chuỗi kích hoạt ánh sáng ngay bây giờ."
+light.turn_on,"Proceeding with light activation, beep boop.",en,robot,0,"Tiến hành kích hoạt ánh sáng, Beep Boop."
+light.turn_off,Deactivation sequence for light initiated as requested.,en,robot,0,Trình tự hủy kích hoạt cho ánh sáng bắt đầu theo yêu cầu.
+light.turn_off,"Commencing shutdown of light, beep boop.",en,robot,0,"Bắt đầu tắt ánh sáng, Beep Boop."
+light.turn_off,"Acknowledged, powering down the light.",en,robot,0,"Thừa nhận, cung cấp năng lượng cho ánh sáng."
+light.turn_on,"Activation of <device_name> initiated, standby for illumination.",en,robot,0,"Kích hoạt <device_name> bắt đầu, chờ chiếu sáng."
+light.turn_on,"Certainly, commencing <device_name> activation now.",en,robot,0,"Chắc chắn, bắt đầu kích hoạt <device_name> ngay bây giờ."
+light.turn_on,"Switching on <device_name>, initiating light sequence.",en,robot,0,"Bật <device_name>, bắt đầu trình tự ánh sáng."
+light.turn_on,"Turning on <device_name>, beep for start, boop to signify completion.",en,robot,0,"Bật <device_name>, tiếng bíp để bắt đầu, boop để biểu thị sự hoàn thành."
+light.turn_on,"Activating <device_name>, operational sequence underway.",en,robot,0,"Kích hoạt <device_name>, Trình tự hoạt động đang được tiến hành."
+light.turn_on,Adjusting <device_name> brightness to <brightness>% for optimal visibility.,en,robot,0,Điều chỉnh <device_name> Độ sáng thành __PH1 __% cho khả năng hiển thị tối ưu.
+light.turn_on,Dimming protocol for <device_name> to <brightness>% initiated.,en,robot,0,Giao thức làm mờ cho <device_name> đến __PH1 __% được bắt đầu.
+light.turn_on,Brightening <device_name> to <brightness>% for enhanced illumination.,en,robot,0,Làm sáng <device_name> đến __PH1 __% để tăng cường chiếu sáng.
+light.turn_on,"Modifying <device_name> brightness to <brightness>%, processing.",en,robot,0,"Sửa đổi <device_name> Độ sáng thành __PH1 __%, xử lý."
+light.turn_on,"Incrementing <device_name>'s brightness to <brightness>%, beep boop.",en,robot,0,"Tăng độ sáng <humidity> của __PH1 __%, Beep Boop."
+light.turn_on,"Decreasing <device_name> luminosity to <brightness>%, adjustment underway.",en,robot,0,"Giảm <device_name> độ sáng đến __PH1 __%, điều chỉnh đang được tiến hành."
+light.turn_on,Configuring <device_name>'s brightness to <brightness>% for desired ambiance.,en,robot,0,Định cấu hình độ sáng của <humidity> với __PH1 __% cho bầu không khí mong muốn.
+light.turn_on,"Setting <device_name> luminance to <brightness>% brightness, beep boop.",en,robot,0,"Cài đặt <device_name> độ chói thành __PH1 __% Độ sáng, Beep Boop."
+light.turn_on,"Transitioning <device_name> to <color>, initiating color change protocol.",en,robot,0,"Chuyển đổi <device_name> sang <color>, bắt đầu giao thức thay đổi màu."
+light.turn_on,"Altering <device_name> color spectrum to <color>, beep boop.",en,robot,0,"Thay đổi <device_name> Phổ màu thành <color>, tiếng bíp boop."
+light.turn_on,"Changing <device_name> to a <color> hue, color adjustment sequence activated.",en,robot,0,"Thay đổi <device_name> thành <color> HUE, Trình tự điều chỉnh màu được kích hoạt."
+light.turn_on,"Setting <device_name> chromatics to be <color>, illumination adjustment.",en,robot,0,"Cài đặt <device_name> Chromatics là <color>, điều chỉnh chiếu sáng."
+light.turn_on,"Projecting <color> from <device_name>, enhancing chromatic output.",en,robot,0,"Chiếu <color> từ <device_name>, tăng cường đầu ra màu."
+light.turn_on,"Transforming <device_name> ambiance to a <color> shade, beep boop.",en,robot,0,"Biến đổi <device_name> bầu không khí thành bóng râm __ph1__, tiếng bíp boop."
+light.turn_on,"Adjusting <device_name> to a <color>, chromatic adaptation protocol.",en,robot,0,Điều chỉnh <device_name> thành một giao thức thích ứng màu sắc.
+light.turn_on,"Configuring <device_name> to emanate a <color> color, initiating.",en,robot,0,"Định cấu hình <device_name> để phát ra một màu <color>, bắt đầu."
+light.turn_on,"Enhancing <device_name> glow to <color>, visual modification in progress.",en,robot,0,"Tăng cường <device_name> phát sáng thành <color>, sửa đổi trực quan trong tiến trình."
+light.turn_on,"Adapting <device_name> to <color>, color change sequence engaged.",en,robot,0,"Điều chỉnh <device_name> thành <color>, trình tự thay đổi màu tham gia."
+light.turn_on,"Altering <device_name> chroma to <color>, color adaptation underway.",en,robot,0,"Thay đổi <device_name> Chroma thành <color>, thích ứng màu sắc đang được tiến hành."
+light.turn_on,"Adjusting <device_name> to <color> color, visual enhancement protocol.",en,robot,0,"Điều chỉnh <device_name> sang <color> màu, Giao thức nâng cao trực quan."
+light.turn_on,"Switching <device_name> color spectrum to <color>, beep boop.",en,robot,0,"Chuyển đổi phổ màu <device_name> sang <color>, Beep Boop."
+light.turn_on,"Configuring <device_name> in <color>, chromatic adjustment initiated.",en,robot,0,"Định cấu hình <device_name> trong <color>, điều chỉnh màu được bắt đầu."
+light.turn_on,"Enabling <device_name> to display a <color> light, visual transformation.",en,robot,0,"Kích hoạt <device_name> để hiển thị ánh sáng <color>, chuyển đổi trực quan."
+light.turn_on,"Setting <device_name> color to <color>, color setting sequence.",en,robot,0,"Cài đặt <device_name> màu thành <color>, trình tự cài đặt màu."
+light.turn_off,"Deactivating <device_name> as per request, shutting down.",en,robot,0,"Vô hiệu hóa <device_name> theo yêu cầu, tắt máy."
+light.turn_off,"Switching off <device_name>, power down sequence initiated.",en,robot,0,"TẮT TẮT <device_name>, Trình tự giảm nguồn được bắt đầu."
+light.turn_off,"Affirmative, deactivating <device_name>, beep boop.",en,robot,0,"Khẳng định, hủy kích hoạt <device_name>, Beep Boop."
+light.turn_off,"Powering off <device_name>, deactivation protocol in effect.",en,robot,0,"Cung cấp năng lượng cho <device_name>, giao thức hủy kích hoạt có hiệu lực."
+light.turn_off,"Commencing deactivation of <device_name>, operational halt.",en,robot,0,"Bắt đầu hủy kích hoạt <device_name>, dừng hoạt động."
+garage_door.open,"Initiating garage door opening sequence for you, beep boop.",en,robot,0,"Bắt đầu trình tự mở cửa nhà để xe cho bạn, Beep Boop."
+garage_door.open,"Affirmative, activating garage door opening mechanism.",en,robot,0,"Khẳng định, kích hoạt cơ chế mở cửa nhà để xe."
+garage_door.open,"Commencing operation to open the garage door, beep boop.",en,robot,0,"Bắt đầu hoạt động để mở cửa nhà để xe, tiếng bíp boop."
+garage_door.close,"Beginning garage door closure as commanded, beep boop.",en,robot,0,"Bắt đầu đóng cửa nhà để xe như chỉ huy, tiếng bíp boop."
+garage_door.close,"Executing garage door shutdown for you, beep boop.",en,robot,0,"Thực hiện đóng cửa cửa nhà để xe cho bạn, Beep Boop."
+garage_door.close,"Acknowledged, initiating garage door closing sequence.",en,robot,0,"Thừa nhận, bắt đầu chuỗi đóng cửa nhà để xe."
+garage_door.stop,"Halting garage door motion now, beep boop.",en,robot,0,"Tạm dừng chuyển động cửa nhà để xe, tiếng bíp boop."
+garage_door.stop,"Beep boop, executing stop command for the garage door.",en,robot,0,"Beep Boop, thực hiện lệnh dừng cho cửa nhà để xe."
+garage_door.stop,"Affirmative, ceasing garage door movement immediately.",en,robot,0,"Khẳng định, ngừng chuyển động cửa nhà để xe ngay lập tức."
+garage_door.open,Lifting mechanism for <device_name> activated for you.,en,robot,0,Cơ chế nâng cho <device_name> được kích hoạt cho bạn.
+garage_door.open,"Opening <device_name> now, initiating sequence.",en,robot,0,"Mở <device_name> Bây giờ, bắt đầu trình tự."
+garage_door.open,"Raising <device_name> as per directive, beep boop.",en,robot,0,"Tăng <device_name> Theo chỉ thị, Beep Boop."
+garage_door.stop,"Freezing <device_name> position now, command acknowledged.",en,robot,0,"Đóng băng <device_name> vị trí ngay bây giờ, lệnh thừa nhận."
+garage_door.stop,"Certainly, halting <device_name> operation, beep boop.",en,robot,0,"Chắc chắn, tạm dừng hoạt động <device_name>, tiếng bíp boop."
+garage_door.stop,"Operation halt for <device_name> initiated, beep boop.",en,robot,0,"Hoạt động dừng lại cho <device_name> bắt đầu, Beep Boop."
+garage_door.open,"Opening protocol for <device_name> commenced, beep boop.",en,robot,0,"Mở giao thức cho <device_name> bắt đầu, Beep Boop."
+garage_door.stop,"Stopping <device_name> in progress, beep boop.",en,robot,0,"Dừng <device_name> đang diễn ra, tiếng bíp boop."
+garage_door.close,"Initiating closure of <device_name> now, beep boop.",en,robot,0,"Bắt đầu đóng cửa <device_name> Bây giờ, Beep Boop."
+garage_door.close,"Lowering <device_name> for you, command processing.",en,robot,0,"Hạ thấp <device_name> cho bạn, xử lý lệnh."
+garage_door.close,Executing shutdown of <device_name> as requested.,en,robot,0,Thực hiện tắt máy <device_name> theo yêu cầu.
+garage_door.close,"Closure protocol for <device_name> activated, beep boop.",en,robot,0,"Giao thức đóng cho <device_name> được kích hoạt, Beep Boop."
+vacuum.start,Starting <device_name> cleaning now.,en,assistant,0,Bắt đầu <device_name> làm sạch ngay bây giờ.
+vacuum.start,<device_name> is set to start cleaning.,en,assistant,0,<device_name> được thiết lập để bắt đầu làm sạch.
+vacuum.start,Initiating <device_name>'s cleaning cycle.,en,assistant,0,Bắt đầu chu kỳ làm sạch <humidity>.
+vacuum.start,<device_name> will begin its cleaning task shortly.,en,assistant,0,<device_name> sẽ sớm bắt đầu nhiệm vụ làm sạch.
+vacuum.start,Commencing the cleaning process with <device_name>.,en,assistant,0,Bắt đầu quá trình làm sạch với <device_name>.
+vacuum.stop,Cancelling <device_name>'s current job.,en,assistant,0,Hủy bỏ công việc hiện tại của <humidity>.
+vacuum.stop,<device_name>'s operation has been stopped.,en,assistant,0,Hoạt động của <humidity> đã bị dừng lại.
+vacuum.stop,Halting <device_name> immediately.,en,assistant,0,Tạm dừng <device_name> ngay lập tức.
+vacuum.stop,<device_name> cleaning cancelled per your request.,en,assistant,0,<device_name> Đã hủy bỏ theo yêu cầu của bạn.
+vacuum.stop,Stopping <device_name>'s task as asked.,en,assistant,0,Dừng nhiệm vụ của <humidity> như được hỏi.
+vacuum.pause,Pausing <device_name> for now.,en,assistant,0,Tạm dừng <device_name> cho bây giờ.
+vacuum.pause,<device_name>'s cleaning cycle is temporarily halted.,en,assistant,0,Chu kỳ làm sạch của <humidity> tạm thời bị tạm dừng.
+vacuum.pause,<device_name> is on a brief pause.,en,assistant,0,<device_name> đang tạm dừng ngắn gọn.
+vacuum.pause,Holding <device_name>'s operation momentarily.,en,assistant,0,Giữ hoạt động của <humidity> trong giây lát.
+vacuum.pause,<device_name>'s activity is paused.,en,assistant,0,Hoạt động của <humidity> được tạm dừng.
+vacuum.return_to_base,Sending <device_name> back to its base.,en,assistant,0,Gửi <device_name> trở lại căn cứ của nó.
+vacuum.return_to_base,<device_name> is returning to its docking station.,en,assistant,0,<device_name> đang trở lại trạm nối của nó.
+vacuum.return_to_base,<device_name> heading back to recharge.,en,assistant,0,<device_name> quay trở lại để nạp tiền.
+vacuum.return_to_base,Instructing <device_name> to return to base.,en,assistant,0,Hướng dẫn <device_name> trở về căn cứ.
+vacuum.return_to_base,<device_name> making its way back home.,en,assistant,0,<device_name> Làm cho nó trở về nhà.
+todo.add_item,<todo> has been added to your todo list.,en,assistant,0,<todo> đã được thêm vào danh sách việc cần làm của bạn.
+todo.add_item,Successfully added <todo> to your tasks.,en,assistant,0,Đã thêm thành công <todo> vào các nhiệm vụ của bạn.
+todo.add_item,Your todo list now includes <todo>.,en,assistant,0,Danh sách việc cần làm của bạn bây giờ bao gồm <todo>.
+todo.add_item,<todo> is now on your list of things to do.,en,assistant,0,<todo> hiện nằm trong danh sách những việc cần làm của bạn.
+todo.add_item,I've put <todo> on your todo list.,en,assistant,0,Tôi đã đưa <todo> vào danh sách việc cần làm của bạn.
+todo.add_item,<todo> added to the list.,en,assistant,0,<todo> được thêm vào danh sách.
+todo.add_item,Consider <todo> added to your tasks.,en,assistant,0,Hãy xem xét <todo> được thêm vào nhiệm vụ của bạn.
+todo.add_item,"Got it, <todo> is on your todo list now.",en,assistant,0,"Có nó, <todo> có trong danh sách việc cần làm của bạn ngay bây giờ."
+todo.add_item,<todo> has been successfully added to your list.,en,assistant,0,<todo> đã được thêm thành công vào danh sách của bạn.
+timer.start,Starting timer <device_name> for <duration>.,en,assistant,0,Bắt đầu hẹn giờ <device_name> cho <duration>.
+timer.start,Timer <device_name> set for <duration>.,en,assistant,0,Hẹn giờ <device_name> đặt cho <duration>.
+timer.start,Countdown beginning for <duration>.,en,assistant,0,Đếm ngược bắt đầu cho <duration>.
+timer.start,<device_name> timer is now running for <duration>.,en,assistant,0,<device_name> hẹn giờ hiện đang chạy cho <duration>.
+timer.start,Initiating a timer for <duration>.,en,assistant,0,Bắt đầu một bộ đếm thời gian cho <duration>.
+timer.start,Your timer called <device_name> for <duration> starts now.,en,assistant,0,Bộ đếm thời gian của bạn gọi là <device_name> cho <duration> bắt đầu ngay bây giờ.
+timer.start,Timer activated for <duration>.,en,assistant,0,Hẹn giờ được kích hoạt cho <duration>.
+timer.start,Commencing timer for a duration of <duration>.,en,assistant,0,Bắt đầu hẹn giờ trong thời gian <duration>.   
+timer.start,<duration> countdown has begun on timer <device_name>.,en,assisstant,0,<duration> Đếm ngược đã bắt đầu trên bộ đếm thời gian <device_name>.
+timer.start,Setting a timer for <duration>.,en,assistant,0,Đặt bộ hẹn giờ cho <duration>.
+timer.cancel,Timer has been canceled.,en,assistant,0,Hẹn giờ đã bị hủy bỏ.
+timer.cancel,Successfully halted the timer.,en,assistant,0,Tạm dừng thành công bộ hẹn giờ.
+timer.cancel,The timer has been cleared.,en,assistant,0,Bộ hẹn giờ đã được xóa.
+timer.cancel,Timer stopped successfully.,en,assistant,0,Hẹn giờ dừng thành công.
+timer.cancel,Timer has been deactivated.,en,assistant,0,Hẹn giờ đã bị vô hiệu hóa.
+timer.cancel,No more timer running.,en,assistant,0,Không còn thời gian chạy bộ.
+timer.cancel,Timer has been successfully canceled.,en,assistant,0,Hẹn giờ đã bị hủy thành công.
+timer.cancel,<device_name>'s timer has been canceled.,en,assistant,0,Bộ đếm thời gian của <humidity> đã bị hủy.
+timer.cancel,Your timer on <device_name> is now stopped.,en,assistant,0,Bộ đếm thời gian của bạn trên <device_name> hiện đã bị dừng.
+timer.cancel,Timer cancellation for <device_name> confirmed.,en,assistant,0,Hủy hẹn giờ cho <device_name> được xác nhận.
+timer.cancel,The timer on <device_name> has been cleared.,en,assistant,0,Bộ đếm thời gian trên <device_name> đã được xóa.
+timer.cancel,Timer on <device_name> stopped successfully.,en,assistant,0,Hẹn giờ trên <device_name> đã dừng thành công.
+timer.cancel,Your running timer on <device_name> is now canceled.,en,assistant,0,Bộ đếm thời gian chạy của bạn trên <device_name> hiện đã bị hủy.
+timer.cancel,<device_name>'s timer has been deactivated.,en,assistant,0,Bộ hẹn giờ của <humidity> đã bị vô hiệu hóa.
