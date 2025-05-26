@@ -56,12 +56,6 @@ light.master_bedroom_1,Deactivate the master bedroom light,turn_off,Vô hiệu h
 light.master_bedroom_1,Please activate the master bedroom light,turn_on,Vui lòng kích hoạt đèn phòng ngủ chính
 light.office_1,Enable the office light,turn_on,Bật đèn văn phòng
 light.office,Deactivate the office light,turn_off,Vô hiệu hóa đèn văn phòng
-light.patio,Deactivate the patio light,turn_off,Vô hiệu hóa ánh sáng hiên
-light.patio,Disable the patio light,turn_off,Tắt đèn hiên
-light.patio,Enable the patio light,turn_on,Bật đèn sân
-light.patio,Switch on the patio light,turn_on,Bật đèn hiên
-light.patio,Turn on the patio light,turn_on,Bật đèn sân
-light.patio,Turn on the patio light,turn_on,Bật đèn sân
 light.study,Activate the study light,turn_on,Kích hoạt ánh sáng nghiên cứu
 light.study,Turn off the study light,turn_off,Tắt đèn học tập
 light.study,Turn off the study light,turn_off,Tắt đèn học tập
