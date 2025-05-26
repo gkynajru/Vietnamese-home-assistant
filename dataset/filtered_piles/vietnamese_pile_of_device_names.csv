@@ -100,7 +100,7 @@ light.office_1,Office Light,Đèn văn phòng
 light.office_2,Office Light,Đèn văn phòng
 light.office_desk,Office Desk Light,Bàn văn phòng đèn
 light.office,Office Light,Đèn văn phòng
-light.patio_1,Outdoor patio light,Ánh sáng ngoài trời
+light.patio_1,Outdoor patio light,Đèn ngoài trời
 light.patio,Patio Lights,Đèn hiên
 light.patio,Patio Light,Ánh sáng hiên
 light.study_1,Study Lights,Đèn học
@@ -263,37 +263,24 @@ media_player.lounge_hi_fi_system,Lounge Hi-Fi Audio,Phòng chờ âm thanh hi-fi
 media_player.dining_room_jukebox,Dining Room Jukebox,Phòng ăn tự động
 media_player.guest_room_tv_set,Guest Room Television,Truyền hình phòng khách
 media_player.study_room_audio_book_player,Study Audio Book Player,Nghiên cứu trình phát Sổ âm thanh
-media_player.sunroom_cd_player,Sunroom CD Player,Máy nghe nhạc CD Sunroom
+media_player.sunroom_cd_player,Sunroom CD Player,Máy nghe nhạc CD phòng tắm nắng
 media_player.attic_vinyl_turntable,Attic Vinyl Record Player,Máy phát ghi Vinyl Attic
 media_player.backyard_outdoor_projector,Backyard Projector,Máy chiếu sân sau
 media_player.entryway_voice_assistant,Entryway Voice Assistant,Trợ lý giọng nói của lối vào
 media_player.hallway_wall_speaker,Hallway Wall Speaker,Loa tường hành lang
-climate.nest_learning,Nest Learning Thermostat,Tổ tổ học nhiệt
-climate.ecobee_smart,Ecobee SmartThermostat,Ecobee Smartthermostat
-vacuum.living_room_roomba,Living room vacuum,Phòng khách chân không
+vacuum.living_room_roomba,Living room vacuum,Máy hút bụi phòng khách
 vacuum.kitchen_xiaomi,Kitchen vacuum,Máy hút bụi nhà bếp
-vacuum.upstairs_dyson,Upstairs dust buster,Trên lầu bụi buster
-vacuum.basement_deebot,Basement deebot,Tầng hầm Debot
-vacuum.master_bedroom_shark,Master bedroom vacuum,Phòng ngủ chính
-vacuum.garage_roomba_2,Garage cleaning bot,Bot làm sạch nhà để xe
-vacuum.under_sofa_cleaner,Under sofa cleaner,Dưới ghế sofa sạch hơn
-vacuum.dining_area_bissel,Dining area dirt remover,Khu vực ăn uống bụi bẩn
-vacuum.entryway_eufy,Entryway dust collector,Bộ thu bụi nhập cảnh
-vacuum.patio_doorway_vac,Patio doorway cleaner,Sức sạch cửa hiên
-vacuum.right_stairwell_sweeper,Right stairwell cleaner,Người dọn dẹp cầu thang phải
-vacuum.upstairs_bathroom_vac,Upstairs bathroom helper,Người trợ giúp phòng tắm trên lầu
-vacuum.downstairs_guest_room,Downstairs guest room vac,Phòng khách ở tầng dưới VAC
-vacuum.above_stairs_robot,Above stairs dusting device,Thiết bị bụi trên cầu thang
-vacuum.under_bed_cleaner,Under bed dust collector,Dưới bộ sưu tập bụi trên giường
-vacuum.back_deck_sweeper,Back deck area cleaner,Back Boong Area Cleaner
-timer.kitchen_oven,Kitchen oven timer,Hẹn giờ lò nướng bếp
-timer.garden_watering,Garden watering scheduler,Lập lịch tưới vườn
-timer.bedroom_lamp_timer,Bedroom lamp scheduler,Lập lịch đèn phòng ngủ
-timer.kitchen_timer,Kitchen countdown,Đếm ngược nhà bếp
-timer.laundry_countdown,Laundry cycle timer,Hẹn giờ giặt
-timer.morning_alarm,Morning wakeup alarm,Báo thức thức dậy buổi sáng
-timer.workout_timer,Exercise session timer,Hẹn giờ tập thể dục
-timer.study_session,Study focus timer,Nghiên cứu hẹn giờ tập trung
-timer.meditation_clock,Meditation duration tracker,Thiền thời gian theo dõi
-timer.baby_nap_timer,Baby nap monitor,Màn hình ngủ trưa
-timer.tea_steeping,Tea steeping countdown,Tea Steeping Countdown
+vacuum.upstairs_dyson,Upstairs dust buster,Máy hút bụi tầng trên
+vacuum.basement_deebot,Basement deebot,Máy hút bụi tầng hầm
+vacuum.master_bedroom_shark,Master bedroom vacuum,Máy hút bụi phòng ngủ chính
+vacuum.garage_roomba_2,Garage cleaning bot,Máy hút bụi nhà để xe
+vacuum.under_sofa_cleaner,Under sofa cleaner,Máy hút bụi dưới ghế sofa
+vacuum.dining_area_bissel,Dining area dirt remover,Máy hút bụi khu vực ăn uống
+vacuum.entryway_eufy,Entryway dust collector,Máy hút bụi lối vào
+vacuum.patio_doorway_vac,Patio doorway cleaner,Máy hút bụi cửa ra vào hiên nhà
+vacuum.right_stairwell_sweeper,Right stairwell cleaner,Máy hút bụi cầu thang phải
+vacuum.upstairs_bathroom_vac,Upstairs bathroom helper,Máy hút bụi phòng tắm trên lầu
+vacuum.downstairs_guest_room,Downstairs guest room vac,Máy hút bụi phòng khách ở tầng dưới 
+vacuum.above_stairs_robot,Above stairs dusting device,Máy hút bụi trên cầu thang
+vacuum.under_bed_cleaner,Under bed dust collector, Máy hút bụi dưới gầm giường
+vacuum.back_deck_sweeper,Back deck area cleaner, Máy hút bụi khi vực boong sau
